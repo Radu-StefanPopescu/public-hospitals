@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
 import fs from 'fs'
 import path from 'path'
 
@@ -24,5 +25,5 @@ function serveParentFiles(files: string[]) {
 }
 
 export default defineConfig({
-  plugins: [react(), serveParentFiles(['hospitals.json'])],
+  plugins: [tailwindcss(), react(), serveParentFiles(['hospitals.json'])],
 })

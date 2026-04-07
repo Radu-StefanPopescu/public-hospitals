@@ -1,12 +1,10 @@
-*, *::before, *::after {
-  box-sizing: border-box;
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
 
 body {
   margin: 0;
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-  background: #fff;
-  color: #111827;
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 #root {
@@ -14,7 +12,6 @@ body {
   width: 100vw;
 }
 
-/* Make sure Leaflet popup text is readable */
 .leaflet-popup-content strong {
-  font-size: 0.9rem;
+  font-size: 0.875rem;
 }
