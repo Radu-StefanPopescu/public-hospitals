@@ -1,9 +1,9 @@
 import L from 'leaflet'
 
-export const FORMSPREE_URL = 'https://formspree.io/f/YOUR_FORM_ID'
+export const FORMSPREE_URL = 'https://formspree.io/f/xykbover'
 
-export const GITHUB_URL = 'https://github.com/transparenta-eu'
-export const LINKEDIN_URL = 'https://linkedin.com/company/transparenta-eu'
+export const GITHUB_URL = 'https://github.com/Radu-StefanPopescu/public-hospitals'
+export const LINKEDIN_URL = 'https://www.linkedin.com/in/rspopescu/'
 export const DATASET_URL = 'https://data.gov.ro/dataset'
 
 export const CARTO_URL =
