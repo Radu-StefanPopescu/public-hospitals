@@ -12,6 +12,26 @@ body {
   width: 100vw;
 }
 
+.leaflet-container {
+  background: white;
+}
+
+.leaflet-container img {
+  max-width: none;
+  max-height: none;
+  display: inline;
+}
+
 .leaflet-popup-content strong {
   font-size: 0.875rem;
+}
+
+.hospital-marker {
+  background: var(--color-blue-500, #3b82f6);
+  border: 1.5px solid var(--color-blue-200, #bfdbfe);
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  margin: -4px 0 0 -4px;
 }
