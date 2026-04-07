@@ -1,0 +1,31 @@
+import L from 'leaflet'
+
+export const FORMSPREE_URL = 'https://formspree.io/f/YOUR_FORM_ID'
+
+export const GITHUB_URL = 'https://github.com/transparenta-eu'
+export const LINKEDIN_URL = 'https://linkedin.com/company/transparenta-eu'
+export const DATASET_URL = 'https://data.gov.ro/dataset'
+
+export const CARTO_URL =
+  'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png'
+
+export const NUTS0_URL =
+  'https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_10M_2021_4326_LEVL_0.geojson'
+
+export const NUTS3_URL =
+  'https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_10M_2021_4326_LEVL_3.geojson'
+
+export const ROMANIA_CENTER: [number, number] = [45.9432, 24.9668]
+
+export const ROMANIA_BOUNDS: L.LatLngBoundsExpression = [
+  [43.2, 19.5],
+  [48.8, 30.2],
+]
+
+export const WORLD_RING: [number, number][] = [
+  [-180, -90],
+  [180, -90],
+  [180, 90],
+  [-180, 90],
+  [-180, -90],
+]

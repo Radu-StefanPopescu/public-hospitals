@@ -1,0 +1,26 @@
+export const TEXT = {
+  appName: 'Spitale Publice',
+  appRegion: 'Romania',
+  hospitalsCount: (n: number) => `${n} spitale`,
+  loading: 'Se încarcă…',
+
+  dataSource: 'Date: data.gov.ro',
+  github: 'GitHub',
+  linkedin: 'LinkedIn',
+  copyright: '© 2026 SpitalePublice. Toate drepturile rezervate.',
+  feedbackButton: 'Feedback / Raportați o problemă',
+
+  modalTitle: 'Feedback / Raportați o problemă',
+  modalSubtitle: 'Trimiteți-ne un mesaj și vă răspundem în cel mai scurt timp.',
+  labelEmail: 'Email',
+  labelMessage: 'Mesaj',
+  placeholderEmail: 'adresa@email.com',
+  placeholderMessage: 'Descrieți problema sau sugestia dvs...',
+  buttonCancel: 'Anulează',
+  buttonSend: 'Trimite feedback',
+  buttonSending: 'Se trimite…',
+  buttonClose: 'Închide',
+  successTitle: 'Mesaj trimis!',
+  successBody: 'Mulțumim pentru feedback. Vă vom răspunde pe email.',
+  errorBody: 'A apărut o eroare. Vă rugăm să încercați din nou.',
+} as const
