@@ -1,0 +1,419 @@
+Titlu,nume,judet,oras,adresa,longitudine,latitudine
+AB-SPITALUL DE BOLI CRONICE CAMPENI,Spitalul de Boli Cronice Campeni,Judetul Alba,Oras Campeni,"Strada Crisan 11, 515500 Campeni",23.04543,46.3657495
+AB-SPITALUL DE PNEUMOFTIZIOLOGIE AIUD,SPITALUL DE PNEUMOFTIZIOLOGIE AIUD,Judetul Alba,Municipiu Aiud,"Str. Varga Ecaterina, 6, Aiud, Alba, 515200, Strada Ecaterina Varga, 515200 Aiud",23.7192839,46.3057866
+AB-SPITALUL DR. ALEXANDRU BORZA ABRUD,"Spitalul Orasenesc ""Dr. Alexandru Borza""",Judetul Alba,Oras Abrud,"Strada Republicii 13, 515100 Abrud",23.0824202,46.2659645
+AB-SPITALUL JUDETEAN DE URGENTA ALBA IULIA,Spitalul Judetean de Urgente Alba,Judetul Alba,Municipiu Alba Iulia,"Bulevardul Revolutiei 1989 23, Alba Iulia",23.5570948,46.0715636
+AB-SPITALUL MUNICIPAL AIUD,Spitalul Municipal,Judetul Alba,Municipiu Aiud,"Strada Spitalului 2, 515200 Aiud",23.7234201,46.3078587
+AB-SPITALUL MUNICIPAL BLAJ,Spitalul Municipal Blaj,Judetul Alba,Municipiu Blaj,"Strada Andrei Muresanu 16, 515400 Blaj",23.92412,46.17934
+AB-SPITALUL MUNICIPAL SEBES,Spitalul Municipal Sebes,Judetul Alba,Municipiu Sebes,"Strada Surianu 41, 515800 Sebes",23.5676841,45.9514021
+AB-SPITALUL ORASENESC CAMPENI,Spital Orasenesc Campeni,Judetul Alba,Oras Campeni,"Strada Horea, 515500 Campeni",23.0419363,46.3624373
+AB-SPITALUL ORASENESC CUGIR,Spitalul Orasenesc Cugir,Judetul Alba,Alba,"Strada Nicolae Balcescu 5, 515600 Cugir",23.364086,45.8368645
+AG-ENDOSCOPIE ARGES SRL,Endoscopie Arges - Gastro Clinic Pitesti,Judetul Arges,Municipiu Pitesti,"Strada Unirii 5, Pitesti",24.8759482,44.8539122
+AG-GRAL MEDICAL SRL BUCURESTI PUNCT DE LUCRU PITESTI,Clinica Gral Pitesti,Judetul Arges,Municipiu Pitesti,"Bulevardul Nicolae Balcescu 90, 110087 Pitesti",24.8495824,44.8735982
+AG-MEDICOVER SRL PUNCT DE LUCRU PITESTI,Centrul Medical de Reabilitare si Preventie Doctor Luca,Judetul Arges,Municipiu Pitesti,"Strada Constantin Statescu, Pitesti",24.8547294,44.8674515
+AG-SPITALUL DE BOLI CRONICE CALINESTI,Spitalul de Boli Cronice Calinesti,Judetul Arges,Comuna Calinesti,"Strada Dr. Ion Craciun Nr. 484, 117195 Calinesti",25.0444136,44.8292275
+AG-SPITALUL DE GERIATRIE SI BOLI CRONICE CONSTANTIN BALACEANU STOLNICI STEFANESTI,"Spitalul de Geriatrie si Boli Cronice ""Constantin Balaceanu-Stolnici"" Stefanesti",Judetul Arges,Oras Stefanesti,"Strada Coasta Campului 54, Stefanestii Noi",24.924271,44.865823
+AG-SPITALUL DE PEDIATRIE PITESTI,Spitalul de Pediatrie Pitesti,Judetul Arges,Municipiu Pitesti,"Bulevardul Eroilor 1, Pitesti",24.8651963,44.8508232
+AG-SPITALUL DE PNEUMOFTIZIOLOGIE CAMPULUNG,Spitalul de Pneumoftiziologie Campulung,Judetul Arges,Municipiu Campulung,"Strada Lascar Catargiu 38, 115100 Campulung",25.0474888,45.2776999
+AG-SPITALUL DE PNEUMOFTIZIOLOGIE  LEORDENI,Spitalul de Pneumoftiziologie Leordeni-Arges,Judetul Arges,Comuna Leordeni,"Strada Coloniei 106, 117410 Leordeni",25.1086999,44.7969584
+AG-SPITALUL DE PNEUMOFTIZIOLOGIE SF. ANDREI VALEA IASULUI,Spitalul TBC Sfantul Andrei,Judetul Arges,Comuna Valea Iasului,"DN73C, 117795 Valea Iasului",24.692041,45.186691
+AG-SPITALUL DE PSIHIATRIE SF MARIA VEDEA,"Spitalul de Psihiatrie Sfantata Maria Vedea, Pavilionul I",Judetul Arges,Comuna Vedea,"DN67B, Vedea",24.6269676,44.7790721
+AG-SPITALUL DE RECUPERARE BRADET,Spitalul de Recuperare Bradet,Judetul Arges,Comuna Bradulet,"DJ703I, Bradetu",24.7615592,45.3128384
+AG-SPITALUL JUDETEAN ARGES (PITESTI),Spitalul Judetean de Urgenta Pitesti,Judetul Arges,Municipiu Pitesti,"Aleea Spitalului 36, 110283 Pitesti",24.8471675,44.8711549
+AG-SPITALUL MUNICIPAL CAMPULUNG,Spitalul Municipal Campulung,Judetul Arges,Municipiu Campulung,"Strada Doctor Costea 8, 115100 Campulung",25.0379213,45.2662208
+AG-SPITALUL MUNICIPAL C. DE ARGES,Spitalul Municipal Curtea de Arges,Judetul Arges,Municipiu Curtea De Arges,"Strada Cuza Voda 6-8, 115300 Curtea de Arges",24.6788108,45.1486796
+"AG-SPITALUL ORASENESC ""REGELE CAROL I"" COSTESTI","Spitalul Orasenesc ""Regele Carol l""",Judetul Arges,Oras Costesti,"Strada Industriilor 19, 115200 Costesti",24.8742487,44.6646584
+AG-SPITALUL SFANTUL NICOLAE SRL,SPITALUL SFANTUL NICOLAE RADIOTERAPIE- RECUPERARE,Judetul Arges,Municipiu Pitesti,"Strada Darzu nr.4bis, 110124 Pitesti",24.8850542,44.8387599
+AG-SPITALUL SF SPIRIDON MIOVENI,Spitalul Orasenesc Mioveni,Judetul Arges,Oras Mioveni,"Bulevardul Dacia 131A, 115400 Mioveni",24.960527,44.9691423
+AR-CENTRUL MEDICAL ONCOHELP S.R.L.,Oncohelp,Judetul Timis,Municipiu Timisoara,"Strada Ciprian Porumbescu 57-59, 300425 Timisoara",21.217943,45.7388537
+AR-SC LASER HOSPICE SRL,Centrul Medical Laser System,Judetul Arad,Municipiu Arad,"Strada Andrei Saguna 14, Arad",21.308422,46.180828
+"AR-SPITAL DE RECUPERARE NEUROPSIHOMOTORIE ""DR. CORNELIU BARSAN"" DEZNA","Spitalul de Recuperare Neuromotorie ""Dr. Corneliu Barsan""",Judetul Arad,Comuna Dezna,"Strada Sperantei 5, 317110 Dezna",22.2439547,46.4100663
+AR-SPITALUL CLINIC JUDETEAN DE URGENTA ARAD,Spitalul Clinic Judetean de Urgenta Arad,Judetul Arad,Municipiu Arad,"Calea Victoriei, Arad",21.30917,46.1835447
+AR-SPITALUL ORASENESC INEU,Spitalul Orasenesc Ineu,Judetul Arad,Oras Ineu,"Calea Republicii 2, 315300 Ineu",21.833825,46.422682
+AR-SPITALUL ORASENESC  LIPOVA,Spital,Judetul Arad,Oras Lipova,"Strada Metianu 2, 315400 Lipova",21.6922472,46.0912267
+AR-SPITALUL  ORASENESC SEBIS,Spital Sebis,Judetul Arad,Oras Sebis,"Strada Parcul Libertatii, 315700 Sebis",22.1313026,46.3722424
+B-ANGIOMEDICA-NOI STIM CE AI PE INIMA SRL,Spitalul Angiomedica,Bucuresti,Municipiul Bucuresti,"Strada Cosminului 13, 020657 Bucuresti",26.1158332,44.4520549
+B-BAU M.A.N. CONSTRUCT,Bauman Grup,Bucuresti,Municipiul Bucure?ti,"Strada Despot Voda 21, 020652 Sector2",26.1151711,44.450412
+B-BIODERM MEDICAL CENTER SRL,BIODERM MEDICAL CENTER,Bucuresti,Municipiul Bucuresti,"Str. Eminescu Mihai, 42, Bucuresti-Sector 1, Bucuresti, 10518, Strada Mihai Eminescu 40-42, 030167 Bucuresti",26.1010825,44.4471486
+B-CENTRUL DE DIAG SI TRAT PROVITA SA,Clinica NORD Docentilor,Bucuresti,Municipiul Bucuresti,"Strada Docentilor 12A, 011403 Bucuresti",26.0814971,44.4630723
+"B-CENTRUL METODOLOGIC DE REUMATOLOGIE ""Dr. ION STOIA"" BUCURESTI","Centrul Clinic de Boli Reumatismale ""Dr. Ion Stoia""",Bucuresti,Municipiul Bucuresti,"Strada Thomas Masaryk 5, 030167 Bucuresti",26.1054485,44.4409626
+B-CENTRUL NATIONAL CLINIC DE RECUPERARE NEUROPSIHOMOTORIE PENTRU COPII DR NICOLAE ROBANESCU CNCRNC,Centrul de Recuperare pentru Copii Robanescu - Padure,Bucuresti,Municipiul Bucuresti,"Strada Soldat Minca Dumitru 44, 041408 Bucuresti",26.1080119,44.3901074
+B-CETTT SF STELIAN,"Centrul de Evaluare si Tratament a Toxicodependentelor pentru Tineri ""Sfantul Stelian""",Bucuresti,Municipiul Bucuresti,"Strada Inginer Cristian Pascal 25-27, 070000 Bucuresti",26.0548133,44.4493216
+B-GLOBAL MEDICAL ULTRA S.R.L,Global Medical Health - Clinica de imagistica si diagnostic GMH,Bucuresti,Municipiul Bucuresti,"Soseaua Mihai Bravu 451, 030314 Bucuresti",26.1290272,44.4122187
+B-IMUNOMEDICA PROVITA SRL,"ImunoMedica - Centrul de preventie, diagnostic si tratament ""Sfantul Ioan Botezatorul""",Bucuresti,Municipiul Bucuresti,"Strada Virgiliu 81, 010882 Bucuresti",26.0766291,44.4391397
+B-INSTITUTUL CLINIC FUNDENI,Institutul Clinic Fundeni,Bucuresti,Municipiul Bucuresti,"Soseaua Fundeni 163, Bucuresti",26.1528371,44.4637919
+"B-INSTITUTUL DE BOLI INFECTIOASE ""Dr. MATEI BALS""","Institutul National de Boli Infectioase ""Prof. Dr. Matei Bals""",Bucuresti,Municipiul Bucuresti,"Strada Doctor Calistrat Grozovici 1, 021105 Bucuresti",26.1139908,44.4552889
+B-INSTITUTUL DE FONOAUDIOLOGIE SI CHIRURGIE FUNCTIONALA ORL PROF DR D HOCIOTA - IFACF,"Institutul de Fonoaudiologie si Chirurgie Functionala O.R.L. ""Prof. Dr. Dorin Hociota""",Bucuresti,Municipiul Bucuresti,"Strada Mihail Cioranu 21, 061344 Bucuresti",26.0745384,44.4256214
+B-INSTITUTUL DE PNEUMOFTIZIOLOGIE MARIUS NASTA,"Institutul de Pneumoftiziologie ""Marius Nasta""",Bucuresti,Municipiul Bucuresti,"Soseaua Viilor 90, 050159 Bucuresti",26.092009,44.4074201
+B-INSTITUTUL DE URGENTA PENTRU BOLI CARDIOVASCULARE PROF DR CC ILIESCU,Institutul de Urgenta pentru Boli Cardiovasculare C.C. Iliescu,Bucuresti,Municipiul Bucuresti,"Institutul Clinic Fundeni, Soseaua Fundeni 258, 022328 Bucuresti",26.1531585,44.4651479
+B-INSTITUTUL NATIONAL DE DIABET NUTRITIE SI BOLI METABOLICE PROF DR.N.PAULESCU,"Institutul National de Diabet, Nutritie si Boli Metabolice ""Prof. Dr. N. C. Paulescu""",Bucuresti,Municipiul Bucuresti,"020475, Strada Ion Movila 5-7, 030167 Bucuresti",26.110544,44.4446079
+B-INSTITUTUL NATIONAL DE ENDOCRINOLOGIE CI PARHON,"Institutul National de Endocrinologie ""C.I. Parhon""",Bucuresti,Municipiul Bucuresti,"Bulevardul Aviatorilor 34-36, Bucuresti",26.086907,44.4604422
+B-INSTITUTUL NATIONAL DE GERONTOLOGIE SI GERIATRIE ANA ASLAN,"Institutul National de Gerontologie si Geriatrie ""Ana Aslan""",Bucuresti,Municipiul Bucuresti,"Strada Caldarusani 9, 11241 Bucuresti",26.0742541,44.4566107
+B-INSTITUTUL NATIONAL DE NEUROLOGIE SI BOLI NEUROVASCULARE,Institutul National de Neurologie si Boli Neurovasculare,Bucuresti,Municipiul Bucuresti,"Soseaua Berceni 10-12, 077160 Bucuresti",26.1251569,44.3872447
+"B-INSTITUTUL NATIONAL DE RECUPERARE, MEDICINA FIZICA SI BALNEOCLIMATOLOGIE","Institutul National de Recuperare, Medicina Fizica si Balneoclimatologie",Bucuresti,Municipiul Bucuresti,"Strada Sfantul Dumitru 2, 030167 Bucuresti",26.0986092,44.4310232
+B-INSTITUTUL NATIONAL PENTRU SANATATEA MAMEI SI COPILULUI ALLESANDRESCU RUSESCU,"Institutul National pentru Sanatatea Mamei si Copilului ""Alessandrescu-Rusescu""",Bucuresti,Municipiul Bucuresti,"Bulevardul Lacul Tei 120, 20382 Bucuresti",26.1228644,44.4627743
+B-INSTITUTUL ONCOLOGIC PROF DR AL TRESTIOREANU,Institutul Oncologic Bucuresti Profesor Doctor Alexandru Trestioreanu,Bucuresti,Municipiul Bucuresti,"Soseaua Fundeni 252, 022328 Bucuresti",26.1575403,44.4634244
+B-MEDIC LINE BUSINESS HEALTH SRL,Medic Line Barbu Vacarescu,Bucuresti,Municipiul Bucuresti,"Str. Barbu Vacarescu 42A, 020271 Bucuresti",26.1063167,44.4564414
+B-MED LIFE SA SUCURSALA BUCURESTI,Hyperclinica MedLife Medical Park,Bucuresti,Municipiul Bucuresti,"Calea Grivitei 359, 010718 Bucuresti",26.0551644,44.464067
+B-MONZA ARES SRL,MONZA ARES Bucuresti,Bucuresti,Municipiul Bucuresti,"Strada Tony Bulandra 27, 021967 Bucuresti",26.1491344,44.4389246
+B-OCULARCARE SRL,"Clinica de Oftalmologie OCULARCARE - Consultatii, Investigatii, Interventii si Optica Medicala",Bucuresti,Municipiul Bucuresti,"Clinica Ocularcare, Bulevardul Ion Mihalache 128, 012244 Bucuresti",26.0690949,44.4649674
+B-REVERA ASSISTED S.R.L.,C Ingrijire Batrani Domiciliu,Bucuresti,Municipiul Bucuresti,"Soseaua Gheorghe Ionescu Sisesti 8A, 013823 Bucuresti",26.0687439,44.5016102
+B-SC AIS CLINCS&HOSPITAL SRL,AIS CLINICS & HOSPITAL ALEXANDRIEI,Bucuresti,Municipiul Bucuresti,"Soseaua Alexandriei 144, 051523 Bucuresti",26.0482605,44.3999343
+"B-SC CLINICA ""SF. LUCIA"" SRL",Royal Hospital Bucharest,Bucuresti,Municipiul Bucuresti,"Splaiul Unirii 313A, 030138 Bucuresti",26.1370015,44.4057406
+B-SC CM MUNPOSAN 94 SRL,M Hospital,Bucuresti,Municipiul Bucuresti,"Strada Witting 10-12, 010903 Bucuresti",26.0731433,44.4442526
+B-SC GRAL MEDICAL SRL,GRAL Medical,Bucuresti,Municipiul Bucuresti,"Soseaua Stefan cel Mare 230, 020125 Bucuresti",26.1213218,44.4508945
+B-SC MEDEUROPA SRL,MedEuropa Bucuresti - Radioterapie si Oncologie Medicala,Bucuresti,Municipiul Bucuresti,"Soseaua Dobroesti nr. 20A, 022343 Bucuresti",26.1667919,44.443695
+B-SC MEDICAL CITY BLUE SRL,Clinica NORD Alexandrina,Bucuresti,Municipiul Bucuresti,"Strada Alexandrina 20-22, 011442 Bucuresti",26.0834062,44.4646614
+B-S.C. SANADOR SRL,Clinica Sanador Victoriei Corp B,Bucuresti,Municipiul Bucuresti,"Strada Dr. Iacob Felix 32, 011038 Bucuresti",26.0817204,44.4500492
+B-SPITALUL CL COMF PROF DR D THEODORESCU,"Spitalul Clinic de Chirurgie Oro-Maxilo-Faciala ""Prof. Dr. Dan Theodorescu""",Bucuresti,Municipiul Bucuresti,"Calea Plevnei 17-21, 010221 Bucuresti",26.0855266,44.4355647
+B-SPITALUL CL COPII DR V GOMOIU,"Spitalul Clinic de Copii ""Dr. Victor Gomoiu""",Bucuresti,Municipiul Bucuresti,"Bulevardul Basarabia 21, 022102 Bucuresti",26.1422323,44.4330325
+B-SPITALUL CLINIC CF NR 2,"Spitalul Clinic ""CF 2""",Bucuresti,Municipiul Bucuresti,"Bulevardul Marasti 63, 011464 Bucuresti",26.0701298,44.4739687
+B-SPITALUL CLINIC COLENTINA,Spitalul Clinic Colentina,Bucuresti,Municipiul Bucuresti,"Soseaua Stefan cel Mare 19-21, 020125 Bucuresti",26.1139467,44.4536293
+B-SPITALUL CLINIC COLTEA,Spitalul Clinic Coltea,Bucuresti,Municipiul Bucuresti,"Bulevardul Ion C. Bratianu 1, 030167 Bucuresti",26.1038073,44.4345143
+B-SPITALUL CLINIC DE BOLI INFECTIOASE SI TROPICALE DR VICTOR BABES,"Spitalul Clinic de Boli Infectioase si tropicale ""Dr. Victor Babes""",Bucuresti,Municipiul Bucuresti,"Soseaua Mihai Bravu 281, 030303 Bucuresti",26.1392986,44.4277417
+B-SPITALUL CLINIC DE NEFROLOGIE DR CAROL DAVILA,Spitalul Clinic de Nefrologie Doctor Carol Davila,Bucuresti,Municipiul Bucuresti,"Calea Grivitei 4, 010731 Bucuresti",26.0898028,44.4446575
+"B-SPITALUL CLINIC DE ORTOPEDIE-TRAUMATOLOGIE ""FOISOR"" BUCURESTI","Spitalul Clinic de Ortopedie, Traumatologie si TBC Osteoarticular ""Foisor"" Bucuresti",Bucuresti,Municipiul Bucuresti,"Bulevardul Ferdinand I 35-37, 030167 Bucuresti",26.1210448,44.440842
+B-Spitalul Clinic de Psihiatrie Prof. Dr. Al. Obregia,"Spitalul Clinic de Psihiatrie ""Al Obregia""",Bucuresti,Municipiul Bucuresti,"Soseaua Berceni 10, 041914 Bucuresti",26.1271342,44.3873798
+"B-SPITALUL CLINIC DE URGENTA ""BAGDASAR ARSENI""",Spitalul Clinic de Urgenta Bagdasar-Arseni,Bucuresti,Municipiul Bucuresti,"Soseaua Berceni 12, 041915 Bucuresti",26.1279391,44.3854748
+B-SPITALUL CLINIC DE URGENTA FLOREASCA,Spitalul Clinic de Urgenta Bucuresti,Bucuresti,Municipiul Bucuresti,"Calea Floreasca 8, 014461 Bucuresti",26.1016874,44.4538907
+B-SPITALUL CLINIC DE URGENTA PENTRU COPII MS CURIE,"Spitalul Clinic de Urgenta pentru Copii ""Maria Sklodowska Curie""",Bucuresti,Municipiul Bucuresti,"Bulevardul Constantin Brancoveanu 20, 077120 Bucuresti",26.109453,44.3894219
+B-SPITALUL CLINIC DE URGENTA PT COPII GRIGORE ALEXANDRESCU,"Spitalul Clinic de Urgenta pentru Copii ""Grigore Alexandrescu""",Bucuresti,Municipiul Bucuresti,"Bulevardul Iancu de Hunedoara 30-32, 011743 Bucuresti",26.0928101,44.4522787
+B-SPITALUL CLINIC DE URGENTA SF IOAN,"Spitalul Clinic de Urgenta ""Sfantul Ioan"" Bucuresti",Bucuresti,Municipiul Bucuresti,"Soseaua Vitan-Barzesti 13, 042122 Bucuresti",26.1439447,44.3906774
+B-SPITALUL CLINIC DE URGENTA SF. PANTELIMON,"Spitalul Clinic de Urgenta ""Sfantul Pantelimon""",Bucuresti,Municipiul Bucuresti,"Sos. Pantelimon 340 - 342, Bucuresti",26.1730302,44.4412951
+B-Spitalul Clinic de Urgente Oftalmologice,Spitalul Clinic de Urgente Oftalmologice,Bucuresti,Municipiul Bucuresti,"Piata Alexandru Lahovari 1, 010464 Bucuresti",26.1001214,44.445895
+B-SPITALUL CLINIC DR I CANTACUZINO,"Spitalul Clinic ""Dr. Ion Cantacuzino""",Bucuresti,Municipiul Bucuresti,"Strada Ion Movila 5-7, 030167 Bucuresti",26.1098911,44.4448177
+B-SPITALUL CLINIC FILANTROPIA,Spitalul Clinic de Obstetrica si Ginecologie Filantropia,Bucuresti,Municipiul Bucuresti,"Bulevardul Ion Mihalache 11- 13, 011132 Bucuresti",26.0822911,44.4531506
+"B-SPITALUL CLINIC ""NICOLAE MALAXA"" BUCURESTI",Spitalul Clinic Nicolae Malaxa,Bucuresti,Municipiul Bucuresti,"Sos. Vergului 12, 022441 Bucuresti",26.1787433,44.4383968
+B-SPITALUL CL OG DR P SARBU,Maternitatea Giulesti,Bucuresti,Municipiul Bucuresti,"Strada Boisoara, 060251 Bucuresti",26.060202,44.449871
+B-SPITALUL CL PROF DR T BURGHELE,"Spitalul Clinic ""Prof. Dr. Theodor Burghele""",Bucuresti,Municipiul Bucuresti,"Soseaua Panduri 20, 061344 Bucuresti",26.0729609,44.425694
+B-SPITALUL CL URG CHIR PL REP SI ARSURI,"Spitalul Clinic de Urgenta Chirurgie Plastica, Reparatorie si Arsuri",Bucuresti,Municipiul Bucuresti,"Calea Grivitei 218, 010713 Bucuresti",26.0559953,44.463866
+B-Spitalul de Bolnavi Cronici Si Geriatrie Sf. Luca,"Spitalul de Boli Cronice ""Sf. Luca""",Bucuresti,Municipiul Bucuresti,"Soseaua Berceni 12, 041915 Bucuresti",26.1291933,44.3840703
+B-SPITALUL DE ONCOLOGIE MONZA S.R.L.,Spitalul MONZA,Bucuresti,Municipiul Bucuresti,"Strada Tony Bulandra 27, Bucuresti",26.1490997,44.4389012
+B-Spitalul de Pneumoftiziologie Sf. Stefan,"Spitalul de Pneumoftiziologie ""Sf. Stefan""",Bucuresti,Municipiul Bucuresti,"Soseaua Stefan cel Mare 11, 020122 Bucuresti",26.1054184,44.4536286
+B-Spitalul de Psihiatrie Dr. Constantin Gorgos,"Spitalul de Psihiatrie Titan ""Dr. Constantin Gorgos""",Bucuresti,Municipiul Bucuresti,"Bulevardul Nicolae Grigorescu 41, 030447 Bucuresti",26.1659947,44.4203575
+B-SPITALUL UNIVERSITAR CF WITING,Spitalul Clinic Nr.1 CF Witting,Bucuresti,Municipiul Bucuresti,"Calea Plevnei 142-144, 010243 Bucuresti",26.0719457,44.4427565
+B-SPITALUL UNIVERSITAR DE URGENTA,Spitalul Universitar de Urgenta Bucuresti,Bucuresti,Municipiul Bucuresti,"Splaiul Independentei 169, 050098 Bucuresti",26.0719734,44.4361236
+B-SPITALUL UNIVERSITAR DE URGENTA ELIAS,Spitalul Universitar de Urgenta Elias,Bucuresti,Municipiul Bucuresti,"Bulevardul Marasti 17, 011461 Bucuresti",26.0737612,44.4662457
+BC-CLINICA NEWMEDICS SRL- PUNCT DE LUCRU BACAU,Clinica NewMedics Bacau,Judetul Bacau,Municipiu Bacau,"Strada Banca Nationala 4, Bacau",26.9090782,46.5707487
+BC-SC CARDIOMED SRL,Cardiomed,Judetul Bacau,Oras Targu Ocna,"Strada Slatineanu 3, 605600 Targu Ocna",26.614529,46.278546
+BC-SC CIN MED SRL,Clinica Medicala Neacsu Ciprian Iulian,Judetul Bacau,Comuna Agas,"Str. Izlazului 101-103, 607008 Cotumba",26.1996521,46.5002771
+BC-SC ELYTIS CARE SRL,Elytis Hospital Bacau,Judetul Bacau,Municipiu Bacau,"Strada Letea 17, 600122 Bacau",26.9212672,46.5427884
+BC-SPINAL CARE DOBRECI SRL,Clinica Spinal Care Bacau,Judetul Bacau,Municipiu Bacau,"Str. Mihai Eminescu 1, 600258 Bacau",26.9031242,46.5668506
+BC-SPITALUL DE PNEUMOFTIZIOLOGIE BACAU,Spitalul de Pneumoftiziologie,Judetul Bacau,Municipiu Bacau,"Strada Oituz 72, 600252 Bacau",26.8999675,46.5641567
+BC-SPITALUL JUDETEAN DE URGENTA BACAU,Spitalul Judetean de Urgenta Bacau,Judetul Bacau,Municipiu Bacau,"Strada Spiru Haret 2-4, 600114 Bacau",26.9106189,46.5562244
+BC-SPITALUL MUNICIPAL DE URGENTA MOINESTI,Spitalul Clinic Municipal de Urgenta Moinesti,Judetul Bacau,Municipiu Moinesti,"Strada Zorilor 1, 605400 Moinesti",26.4882886,46.4764311
+BC-SPITALUL MUNICIPAL SF. IERARH DOCTOR LUCA ONESTI,"Spitalul Municipal ""Sf. Ierarh Dr. Luca"" Onesti",Judetul Bacau,Municipiu Onesti,"Strada Perchiului 1, 601048 Onesti",26.7649546,46.2536379
+BC-SPITALUL ORASENESC BUHUSI,"Spitalul ""Prof. dr. Eduard Apetrei"" Buhusi",Judetul Bacau,Oras Buhusi,"Strada Vaioaga 3, 605100 Buhusi",26.7083146,46.7201681
+"BC-SPITALUL ORASENESC ""IOAN LASCAR""  COMANESTI","Spitalul Orasenesc ""Ioan Lascar"" Comanesti",Judetul Bacau,Oras Comanesti,"Strada Spitalului, 605200 Comanesti",26.4485369,46.41896
+BC-TACO HOSPITAL SRL,TACO HOSPITAL SRL,Judetul Bacau,Municipiu Bacau,"Trecatoarea Tecuciului, Bacau",26.9316004,46.5705425
+BH-Centrul Medical Unirea pct de lucru Oradea,Reteaua de Sanatate REGINA MARIA - Policlinica Endodigest,Judetul Bihor,Municipiu Oradea,"Strada Olimpiadei 5, 410151 Oradea",21.9290869,47.0710865
+BH-CENTRUL VASCULAR VENUS SRL,Centrul Vascular Venus S.R.L.,Judetul Bihor,Municipiu Oradea,"Calea Clujului 68, 410053 Oradea",21.9499125,47.0507584
+BH-CLINICA LAVINIA DAVIDESCU SRL,Clinica Lavinia Davidescu Oradea,Judetul Bihor,Municipiu Oradea,"Strada Gheorghe Doja 1A, 410163 Oradea",21.9406855,47.0591458
+BH-PRESIDENT PREMIUM MEDCENTER S.A.,President Premium Medcenter,Judetul Bihor,Comuna Sanmartin,"Cordau 330, 417500 Baile Felix",21.9806386,46.9802395
+BH-SC MEDEUROPA SRL -PCT LUCRU ORADEA,MedEuropa - Centru de Radioterapie si Oncologie Medicala,Judetul Bihor,Municipiu Oradea,"Strada Constantin Brancoveanu 59, 410191 Oradea",21.9141062,47.064026
+BH-SP. CLINIC DE RECUPERARE MEDICALA BAILE FELIX,Spitalul Clinic de Recuperare Medicala Baile Felix,Judetul Bihor,Comuna Sanmartin,417500 Baile Felix,21.9830918,46.9907719
+BH-SPITALUL CLINIC JUDETEAN DE URGENTA ORADEA,Spitalul Clinic Judetean de Urgenta Oradea,Judetul Bihor,Municipiu Oradea,"Strada Gheorghe Doja 65, 410169 Oradea",21.9540723,47.0642555
+BH-SPITALUL GENERAL CF ORADEA,Spitalul Clinic CFR Oradea,Judetul Bihor,Municipiu Oradea,"Strada Republicii 56, Oradea",21.935813,47.0671266
+BH-SPITALUL MUN.DR. POP MIRCEA,Spitalul Municipal Dr. Pop Mircea,Judetul Bihor,Municipiu Marghita,"Strada Eroilor 14, 415300 Marghita",22.3377552,47.3485246
+"BH-SPITALUL MUNICIPAL ""EP.N.POPOVICI"" BEIUS",SPITALUL MUNICIPAL EP. NICOLAE POPOVICI,Judetul Bihor,Municipiu Beius,"Strada Romana 7, 415200 Beius",22.3502415,46.6695513
+BH-SPITALUL MUNICIPAL SALONTA,Spitalul Municipal Salonta,Judetul Bihor,Municipiu Salonta,Salonta,21.6690054,46.8050178
+BH-SPITALUL ORASENESC ALESD,Spitalul Orasenesc Alesd,Judetul Bihor,Oras Alesd,"Strada 1 Decembrie NR 3, 415100 Alesd",22.3938906,47.0600767
+BH-SPITALUL ORASENESC STEI,Spitalul Orasenesc Stei,Judetul Bihor,Oras Stei,"Strada Cuza Voda 5, 415600 Stei",22.458517,46.5352324
+BN-CLINICA SANOVIL,Clinica Sanovil,Judetul Bistrita-Nasaud,Municipiu Bistrita,"Cartier Viisoara, DN17 263, 420006 Bistrita",24.4628495,47.1145408
+BN-HARD MED SOLUTIONS SRL,HARDMED - Spital-Policlinica-Centre Medicale,Judetul Bistrita-Nasaud,Municipiu Bistrita,"Strada Drumul Dumitrei Vechi 1A, 420127 Bistrita",24.5001556,47.1442501
+BN-SPITAL JUDETEAN,Spitalul Judetean de Urgenta Bistrita,Judetul Bistrita-Nasaud,Municipiu Bistrita,"Bld, General Grigore Balan 43, 420016 Bistrita",24.5066563,47.1404779
+BN-SPITAL ORASENESC BECLEAN,Spitalul Orasenesc Beclean,Judetul Bistrita-Nasaud,Oras Beclean,"DN17 65, 425100 Beclean",24.1857658,47.1830664
+BN-SPITAL ORASENESC NASAUD,"Spitalul Orasenesc ""Dr. George Trifon"" Nasaud",Judetul Bistrita-Nasaud,Oras Nasaud,"Strada Tudor Vladimirescu 1, 425200 Nasaud",24.4093889,47.2836382
+BR-SPITALUL DE PNEUMOFTIZIOLOGIE,Spitalul de Pneumoftiziologie,Judetul Braila,Municipiu Braila,"Strada Radu S. Campiniu 21, 810003 Braila",27.970121,45.2695131
+BR-SPITALUL DE PSIHIATRIE,"Spitalul de Psihiatrie ""Sfantul Pantelimon"" Braila",Judetul Braila,Municipiu Braila,"Calea Calarasilor 59, 810209 Braila",27.9618365,45.2624258
+BR-SPITALUL JUDETEAN DE URGENTA BRAILA,Spitalul Clinic Judetean de Urgenta Braila,Judetul Braila,Municipiu Braila,"Sos. Buzaului 2, Braila",27.9409124,45.2527766
+BR-SPITALUL ORASENESC FAUREI,Spitalul Orasenesc,Judetul Braila,Oras Faurei,"Strada Pacii 6, 815100 Faurei",27.2742866,45.0850324
+BT-SPITALUL DE PNEUMOFTIZIOLOGIE,"Spitalul de Pneumoftiziologie ""Sf. Stefan""",Bucuresti,Municipiul Bucuresti,"Soseaua Stefan cel Mare 11, 020122 Bucuresti",26.1054184,44.4536286
+BT-SPITALUL DE RECUPERARE SF. GHEORGHE,"Spitalul de Recuperare ""Sfantul Gheorghe""",Judetul Botosani,Municipiu Botosani,"Calea Nationala 2, 710010 Botosani",26.6363938,47.7531346
+"BT-SPITALUL JUDETEAN ""MAVROMATI""","Spitalul Judetean de Urgenta ""Mavromati""",Judetul Botosani,Municipiu Botosani,"Strada Arhimandrit Marchian Nr. 11, 710221 Botosani",26.6613642,47.7408816
+BT-SPITALUL MUNICIPAL DOROHOI,"Spitalul Municipal ""Academician Leon Danaila"" Dorohoi",Judetul Botosani,Municipiu Dorohoi,"Bulevardul Victoriei 75, 715200 Dorohoi",26.4034027,47.9457795
+BV-MEDEUROPA SRL-PUNCT DE LUCRU,MedEuropa Brasov - Centru de Radioterapie,Judetul Brasov,Municipiu Brasov,"Strada Turnului 8, 500152 Brasov",25.6175518,45.6636657
+BV-OLD CARE ANGEL SRL,Centrul Angel,Judetul Brasov,Municipiu Brasov,"Strada Eftimie Murgu, 500271 Brasov",25.6119908,45.6382815
+BV-ONCO CARD SRL,Spitalul de Oncologie MedLife Brasov,Judetul Brasov,Municipiu Brasov,"Strada Carierei 65A, 500052 Brasov",25.575737,45.6559463
+BV-SC DIABET CENTER SRL,Metamed ( Centrul de Diabet si Nutritie ),Judetul Brasov,Municipiu Brasov,"Str. Carpatilor Nr:21, 500260 Brasov",25.6180648,45.6425585
+BV-SPITAL CLINIC DE PNEUMOFTIZIOLOGIE BRASOV,Spitalul Clinic de Pneumoftiziologie,Judetul Brasov,Municipiu Brasov,"Aleea Dealul Spirii 12, 500118 Brasov",25.5738109,45.6429853
+BV-SPITAL CLINIC DE PSIHIATRIE SI NEUROLOGIE BRASOV,Spitalul Clinic de Psihiatrie si Neurologie Brasov,Judetul Brasov,Municipiu Brasov,"Strada Prundului 7-9, 500123 Brasov",25.5849024,45.6379828
+BV-SPITALUL CLINIC DE URGENTA PENTRU COPII BRASOV,Spitalul Clinic de Copii,Judetul Brasov,Municipiu Brasov,"Strada Nicopole 45, 500063 Brasov",25.5869029,45.6568234
+"BV-SPITALUL DE OBSTETRICA-GINECOLOGIE ""DR.ION SBARCEA"" BRASOV","Spitalul Clinic de Obstetrica Ginecologie ""Dr. I.A. Sbarcea"" Brasov",Judetul Brasov,Municipiu Brasov,"Str Gheorghe Baritiu 36, 500025 Brasov",25.5850168,45.6406742
+BV-SPITALUL GENERAL CF BRASOV,Spitalul Clinic CFR Brasov,Judetul Brasov,Municipiu Brasov,"Bulevardul 15 Noiembrie 60, 500097 Brasov",25.6060723,45.6489047
+BV-SPITALUL JUDETEAN DE URGENTA BRASOV,Spitalul Clinic Judetean de Urgenta,Judetul Brasov,Municipiu Brasov,"Calea Bucuresti 25, 500326 Brasov",25.6205779,45.6485945
+BV-SPITALUL MUNICIPAL CODLEA,Spitalul Municipal,Judetul Brasov,Municipiu Codlea,"Strada 9 Mai 10, 505100 Codlea",25.4473033,45.7026004
+BV-SPITALUL MUNICIPAL DR- AUREL TULBURE FAGARAS,Spitalul Municipal Fagaras,Judetul Brasov,Municipiu Fagaras,"Strada Ghioceilor 1, 505200 Fagaras",24.95827,45.8408631
+BV-SPITALUL MUNICIPAL SACELE,Spitalul Municipal Sacele,Judetul Brasov,Municipiu Sacele,"Strada Oituz 54, 505600 Sacele",25.7168978,45.6108224
+BV-SPITALUL ORASENESC RUPEA,Spitalul Orasenesc Rupea,Judetul Brasov,Oras Rupea,"Str. Republicii 128, 505500 Rupea",25.2207695,46.0375806
+BV-SPITALUL ORASENESC VICTORIA,Spitalul Orasenesc Victoria,Judetul Brasov,Oras Victoria,"Str. Baii 2, 505700 Victoria",24.7058722,45.7258816
+BV-SPITALUL ORASENESC ZARNESTI,Spitalul Doctor Caius Tiberiu Sparchez,Judetul Brasov,Oras Zarnesti,"Strada Policlinicii 12, 505800 Zarnesti",25.3366817,45.5703878
+BZ-AMAMED EXPERT CENTER SRL,Amamed Expert Center,Judetul Buzau,Municipiu Ramnicu Sarat,"Strada Matei Basarab 71, 125300 Ramnicu Sarat",27.0508719,45.3860132
+BZ-Spitalul CF Galati - Sectia exterioara CF Buzau,SPITALUL GENERAL CAI FERATE - GALATI,Judetul Buzau,Municipiu Buzau,"Policlinica si Spitalul C.F.R. Buzau, Bulevardul Republicii 8-12, 120219 Buzau",26.8364041,45.1435664
+BZ-Spitalul de Boli Cronice Smeeni,Spitalul de Boli Cronice Smeeni,Judetul Buzau,Comuna Smeeni,"DJ203D, 127595 Smeeni",26.8609387,44.9967268
+BZ-SPITALUL DE PSIHIATRIE SI PENTRU MASURI DE SIGURANTA SAPOCA,Spitalul de Psihiatrie si pentru Masuri de Siguranta Sapoca,Judetul Buzau,Comuna Sapoca,"Strada Principala 117, 127535 Sapoca",26.7456175,45.2386029
+BZ-SPITALUL JUDETEAN BUZAU,Spitalul Judetean de Urgenta Buzau,Judetul Buzau,Municipiu Buzau,"Bulevardul Stadionului 7, 120140 Buzau",26.8011624,45.1505811
+BZ-SPITALUL MUNICIPAL RAMNICU SARAT,Spitalul Municipal,Judetul Buzau,Municipiu Ramnicu Sarat,"Strada Nicolae Balcescu 2, 125300 Ramnicu Sarat",27.0522338,45.3789218
+BZ-SPITALUL ORASENESC NEHOIU,Spitalul Orasenesc Nehoiu,Judetul Buzau,Oras Nehoiu,"Strada Alexandru Ioan Cuza 17, 125100 Nehoiu",26.3009512,45.4201332
+CJ-ANGIOCARE S.R.L.,Spitalul MONZA ARES,Judetul Cluj,Municipiu Cluj-Napoca,"Str. Republicii Nr 8, 400347 Cluj-Napoca",23.5868088,46.7667717
+CJ-CENTRUL MEDICAL TRANSILVANIA SRL,Centrul Medical Transilvania,Judetul Cluj,Municipiu Cluj-Napoca,"Str. Viilor 54, 400347 Cluj-Napoca",23.5836826,46.7545684
+CJ-CENTRUL MEDICAL UNIREA SRL,Reteaua de Sanatate REGINA MARIA - Spitalul Cluj,Judetul Cluj,Municipiu Cluj-Napoca,"Calea Dorobantilor 29, 400117 Cluj-Napoca",23.6031032,46.7724591
+CJ-INSTITUTUL DE UROLOGIE SI TRANSPLANT RENAL CLUJ-NAPOCA,Institutul Clinic de Urologie si Transplant Renal,Judetul Cluj,Municipiu Cluj-Napoca,"Str. Clinicilor 4-6, et. 3, 400000 Cluj-Napoca",23.5836902,46.7663822
+"CJ-INSTITUTUL INIMII DE URGENTA PENTRU BOLI CARDIOVASCULARE ""NICULAE STANCIOIU"" CLUJ-NAPOCA",Institutul Inimii Niculae Stancioiu,Judetul Cluj,Municipiu Cluj-Napoca,"Calea Motilor 19-21, 400001 Cluj-Napoca",23.5834099,46.7667938
+CJ-INSTITUTUL ONCOLOGIC I CHIRICUTA CLUJ-NAPOCA,"Institutul Oncologic ""Prof. Dr. Ion Chiricuta"" Cluj-Napoca",Judetul Cluj,Municipiu Cluj-Napoca,"Str. Republicii 34-36, 400015 Cluj-Napoca",23.5874077,46.7634268
+"CJ-INST.REG.DE GASTRO.-HEPATO. ""PROF. DR. O.FODOR""",Institutul Regional de Gastroenterologie si Hepatologie Prof. Dr. Octavian Fodor,Judetul Cluj,Municipiu Cluj-Napoca,"Strada Croitorilor 19, 400394 Cluj-Napoca",23.5923805,46.7761376
+CJ-POLARIS MEDICAL SA,Medicover Hospital,Judetul Cluj,Comuna Baciu,"Strada Principala, nr. 323T, 407062 Suceagu",23.4827866,46.7946739
+CJ-SPITALUL CLINIC DE BOLI INFECTIOASE CLUJ,Spitalul Clinic de Boli Infectioase,Judetul Cluj,Municipiu Cluj-Napoca,"Strada Iuliu Moldovan 23, 400003 Cluj-Napoca",23.5839605,46.7604263
+CJ-SPITALUL CLINIC DE RECUPERARE CLUJ-NAPOCA,Spitalul Clinic de Recuperare,Judetul Cluj,Municipiu Cluj-Napoca,"Str. Viilor 46-50, 400066 Cluj-Napoca",23.5823162,46.7548915
+CJ-SPITALUL CLINIC DE URGENTA PENTRU COPII CLUJ-NAPOCA,Spitalul Clinic de Urgenta pentru Copii Cluj-Napoca,Judetul Cluj,Municipiu Cluj-Napoca,"Calea Motilor 66-68, 400370 Cluj-Napoca",23.5777947,46.7668723
+CJ-SPITALUL CLINIC JUDETEAN  DE URGENTA CLUJ-NAPOCA,Spitalul Clinic Judetean de Urgenta Cluj,Judetul Cluj,Municipiu Cluj-Napoca,"Str. Clinicilor 3-5, 400347 Cluj-Napoca",23.5832459,46.7658357
+CJ-SPITALUL CLINIC MUNICIPAL CLUJ-NAPOCA,Spitalul Clinic Municipal Cluj-Napoca,Judetul Cluj,Municipiu Cluj-Napoca,"Str. Tabacarilor 11, 400139 Cluj-Napoca",23.6071765,46.7893483
+"CJ-SPITALUL DE PNEUMOFTIZIOLOGIE ""LEON DANIELLO"" CLUJ-NAPOCA",Spitalul Clinic de Pneumoftiziologie Leon Daniello,Judetul Cluj,Municipiu Cluj-Napoca,"Strada Bogdan Petriceicu Hasdeu 6, 400332 Cluj-Napoca",23.5829619,46.7639388
+CJ-SPITALUL MUNICIPAL DEJ,Spitalul Municipal,Judetul Cluj,Municipiu Dej,"Strada 1 Mai 14-16, 405200 Dej",23.8819584,47.1418522
+"CJ-SPITALUL MUNICIPAL ""DR.CORNEL IGNA"" CAMPIA TURZII",Spitalul Municipal,Judetul Cluj,Municipiu Campia Turzii,"Strada Avram Iancu 33, 405100 Campia Turzii",23.8822416,46.546887
+CJ-SPITALUL MUNICIPAL GHERLA,Spitalul Municipal Gherla,Judetul Cluj,Municipiu Gherla,"E576, 405300 Gherla",23.9046942,47.0244055
+CJ-SPITALUL MUNICIPAL TURDA,Spitalul Municipal Turda,Judetul Cluj,Municipiu Turda,"Strada Andrei Muresanu 12-16, Turda",23.7770304,46.5789976
+CJ-SPITALUL ORASENESC HUEDIN,Spitalul Orasenesc Huedin,Judetul Cluj,Oras Huedin,"Str. Spitalului nr. 42, 405400 Huedin",23.0154832,46.8627109
+CJ-SPITALUL UNIVERSITAR CF CLUJ,Spitalul Universitar C.F. Cluj,Judetul Cluj,Municipiu Cluj-Napoca,"Str. Republicii 18-20, 400015 Cluj-Napoca",23.58728,46.7656844
+CJ-VALDI MEDICA SRL,Spitalul MedLife Humanitas Cluj,Judetul Cluj,Municipiu Cluj-Napoca,"Strada Frunzisului 77, 400664 Cluj-Napoca",23.5716178,46.7509338
+CL-Spitalul de Pneumoftiziologie Calarasi,Spitalul Pneumoftiziologie Calarasi,Judetul Calarasi,Municipiu Calarasi,"Str. Rocadei 2, Calarasi",27.3516631,44.1936305
+"CL-SPITALUL JUDETEAN DE URGENTA ""Dr. POMPEI SAMARIAN"" CALARASI","Spitalul Judetean de Urgenta ""Dr. Pompei Samarian""",Judetul Calarasi,Municipiu Calarasi,"Strada Eroilor 1-3, 910071 Calarasi",27.3275772,44.1920379
+CL-SPITALUL MUNICIPAL OLTENITA,Spitalul Municipal Oltenita,Judetul Calarasi,Municipiu Oltenita,"Strada Argesului 134, 915400 Oltenita",26.6338716,44.080131
+CS-SPITALUL JUDETEAN RESITA,Spitalul Judetean de Urgenta Resita,Judetul Caras-Severin,Municipiu Resita,"Aleea Herculane 8, 320154 Resita",21.8812036,45.325177
+CS-SPITALUL MUNICIPAL CARANSEBES,Spitalul Municipal de Urgenta,Judetul Caras-Severin,Municipiu Caransebes,"Strada Gradinilor 12, 325400 Caransebes",22.2282928,45.4116276
+CS-SPITALUL ORASENESC MOLDOVA NOUA,Spitalul Orasenesc Moldova Noua,Judetul Caras-Severin,Oras Moldova Noua,"Strada Sf. Varvara 1, 325500 Moldova Veche, Serbia",21.6229842,44.7262691
+CS-SPITALUL ORASENESC ORAVITA,Spitalul Orasenesc Oravita,Judetul Caras-Severin,Oras Oravita,"Strada Spitalului 25, Oravita",21.6885815,45.0356917
+CS-SPITALUL ORASENESC OTELU ROSU,Spitalul Municipal Otelu Rosu,Judetul Caras-Severin,Oras Otelu Rosu,"Bulevardul Republicii 109, 325700 Otelu Rosu",22.3677075,45.5258536
+CT-ASCLEPIOS SRL,Centrul Medical Asclepios,Judetul Constanta,Municipiu Constanta,"Prelungirea Bucovinei 8B, 900664 Constanta",28.652277,44.1886124
+CT-BRAINAXY CLINIC SRL,CABINET NEUROLOGIE DOCTOR AXELERAD ANY,Judetul Constanta,Municipiu Constanta,"Strada Andrei Muresanu 8, 900675 Constanta",28.6266917,44.1901795
+CT-CENTRUL MEDICAL UNIREA SRL - SEDIUL SECUNDAR CONSTANTA,Regina Maria clinica Tomis,Judetul Constanta,Municipiu Constanta,"Bulevardul Mamaia 16A, 16B, 900189 Constanta",28.643289,44.182666
+CT-DMZ MEDICAL S.R.L.,MedAZ - Consumabile Medicale de la A la Z,Judetul Ilfov,Comuna Cernica,"Strada Oxigenului 4A, 077035 Cernica",26.2308383,44.4168986
+CT-MEDEUROPA SRL SEDIU SECUNDAR CONSTANTA,MedEuropa Constanta - Centru de Radioterapie,Judetul Constanta,Municipiu Constanta,"Strada Stefanita Voda 30, 900402 Constanta",28.6138837,44.2009126
+CT-MEDICAL CERMED SRL,Cermed,Judetul Constanta,Municipiu Constanta,"Strada Constantin Hurmuzache 11, 900257 Constanta",28.6116868,44.1735701
+CT-SANATORIUL BALNEAR SI DE RECUPERARE MANGALIA,Sanatoriul Balnear si de Recuperare Mangalia,Judetul Constanta,Municipiu Mangalia,"Strada Greenport, Saturn, 905560 Mangalia",28.5839783,43.8104606
+CT-SANATORIUL BALNEAR SI DE RECUPERARE TECHIRGHIOL,Sanatoriul Balnear si de Recuperare Techirghiol,Judetul Constanta,Oras Techirghiol,"Strada Victor Climescu 34-40, 906100 Techirghiol",28.6053089,44.0494688
+CT-SC ABC MEDICAL CENTER SRL,ABC Medical Center-Constanta,Judetul Constanta,Municipiu Constanta,"Strada Constantin Dobrogeanu Gherea 45, 900178 Constanta",28.6365379,44.1828095
+CT-SC AQUA-MED CONSULTING SRL,Aqua Clinic,Judetul Constanta,Municipiu Constanta,"Bulevardul Tomis 142, A,900591, 900591 Constanta",28.6440821,44.1865817
+CT-SC POZITRON MEDICAL INVESTIGATION SRL,Reteaua de Sanatate REGINA MARIA - Policlinica Pozimed,Judetul Constanta,Municipiu Constanta,"Strada Mircea cel Batran 102, 900663 Constanta",28.6510007,44.1821674
+CT-SPITALUL CLINIC CF CONSTANTA,Spitalul Clinic CFR Constanta,Judetul Constanta,Municipiu Constanta,"Bulevardul 1 Mai 3-5, 900123 Constanta",28.6342408,44.1655174
+CT-SPITALUL CLINIC DE BOLI INFECTIOASE CONSTANTA,Spitalul Clinic de Boli Infectioase,Judetul Constanta,Municipiu Constanta,"Bulevardul Ferdinand 100, 900178 Constanta",28.6379845,44.1711725
+CT-SPITALUL CLINIC DE  PNEUMOFTIZIOLOGIE CONSTANTA,Spitalul Clinic de Pneumoftiziologie Palazu mare,Judetul Constanta,Municipiu Constanta,"Strada Santinelei 40, Constanta",28.6073483,44.2309822
+"CT-SPITALUL CLINIC DE RECUPERARE, MEDICINA-FIZICA SI BALNEOLOGIE EFORIE NORD",Efosan,Judetul Constanta,Oras Eforie,"ALEEA SPECIALA, Bulevardul Republicii 1, 905350 Eforie Nord",28.6341118,44.0678445
+"CT-SPITALUL CLINIC JUDETEAN DE URGENTA "" SF. APOSTOL ANDREI"" CONSTANTA",Spitalul Clinic Judetean de Urgenta Constanta,Judetul Constanta,Municipiu Constanta,"Bulevardul Tomis 145, 900591 Constanta",28.6424088,44.186097
+CT-SPITALUL MUNICIPAL MEDGIDIA,Spitalul Municipal Medgidia,Judetul Constanta,Municipiu Medgidia,"Strada Ion Creanga 18, 905600 Medgidia",28.2721406,44.2397168
+CT-SPITALUL ORASENESC CERNAVODA,Spitalul Orasenesc,Judetul Constanta,Oras Cernavoda,"Strada Gheorghe Doja 1A, 905200 Cernavoda",28.0443781,44.3416647
+CT-SPITALUL ORASENESC HARSOVA,Spitalul Orasenesc Harsova,Judetul Constanta,Oras Harsova,"Strada Vadului 76, 905400 Harsova",27.9522938,44.6912779
+CV-SPITALUL DE CARDIOLOGIE COVASNA,Spitalul de Recuperare Cardiovasculara Doctor Teculescu - Benedek Covasna,Judetul Covasna,Oras Covasna,"Spitalul de Recuperare Cardiovasculara Doctor Teculescu - Benedek Covasna, Strada Mihai Eminescu 160, 525200 Covasna",26.2097534,45.8452752
+CV-SPITALUL JUDETEAN SF. GHEORGHE,Dr. Fogolyan Kristof Megyei Surgossegi Korhaz Sepsiszentgyorgy,Judetul Covasna,Municipiu Sfantu Gheorghe,"Strada Stadionului 1-3, 520064 Sfantu Gheorghe",25.7799072,45.8642327
+CV-SPITALUL MUNICIPAL TG. SECUIESC,Spitalul Municipal Targu Secuiesc / Kezdivasarhelyi Municipiumi Korhaz,Judetul Covasna,Municipiu Targu Secuiesc,"Strada Fabricii 2A, 525400 Targu Secuiesc",26.1403504,45.9975597
+CV-SPITALUL ORASENESC BARAOLT,Spitalul Orasenesc Baraolt,Judetul Covasna,Oras Baraolt,"Strada Kossuth Lajos 202, 525100 Baraolt",25.59169,46.07253
+DB-Spitalul Judetean de Urgenta Targoviste,Spitalul Judetean de Urgenta Targoviste,Judetul Dambovita,Municipiu Targoviste,"Str. Tudor Vladimirescu 48, Targoviste",25.4501443,44.9227388
+DB-Spitalul Municipal Moreni,Spitalul Municipal Moreni,Judetul Dambovita,Municipiu Moreni,"Bulevardul 22 Decembrie 1989 18, 135300 Moreni",25.6465779,44.9776826
+DB-SPITALUL ORASENESC GAESTI,Spitalul Gaesti,Judetul Dambovita,Oras Gaesti,"Strada 13 Decembrie 170, 135200 Gaesti",25.3385828,44.7141435
+DB-SPITALUL ORASENESC PUCIOASA,Spitalul Orasenesc Pucioasa,Judetul Dambovita,Oras Pucioasa,"Strada Republicii 125, 135400 Pucioasa",25.4351096,45.0750629
+DJ-Centrul Medical Renasterea SRL,Renasterea,Judetul Dolj,Municipiu Craiova,"Strada Doljului Nr. 35, Craiova",23.8012986,44.329079
+DJ-CENTRUL MEDICAL SF. ANTONIE SRL,Centrul Medical St. Antonie,Judetul Dolj,Municipiu Craiova,"Strada Rovinari, 200533 Craiova",23.8132988,44.3072733
+DJ-SPITALUL CLINIC C.F.  CRAIOVA,Spitalul Clinic CFR Craiova,Judetul Dolj,Municipiu Craiova,"Bulevardul Stirbei Voda 6, 200374 Craiova",23.7939898,44.3139167
+"DJ-SPITALUL CLINIC DE BOLI INFECTIOASE SI PNEUMOFTIZIOLOGIE ""VICTOR BABES"" CRAIOVA NR.3","Spitalul de Boli Infectioase si Pneumoftiziologie ""Victor Babes"" Craiova",Judetul Dolj,Municipiu Craiova,"Calea Bucuresti 64 (fost 126, 200515 Craiova",23.8255283,44.3145591
+DJ-SPITALUL CLINIC DE NEUROPSIHIATRIE CRAIOVA,Spitalul Clinic de Neuropsihiatrie Craiova,Judetul Dolj,Municipiu Craiova,"Calea Bucuresti 99, 200473 Craiova",23.8163804,44.317577
+DJ-SPITALUL CLINIC MUNICIPAL FILANTROPIA CRAIOVA,Spitalul Clinic Municipal Filantropia,Judetul Dolj,Municipiu Craiova,"Strada Filantropiei 1, 200143 Craiova",23.7913818,44.3222824
+DJ-SPITALUL DE PNEUMOFTIZIOLOGIE LEAMNA,Spitalul de Pneumoftiziologie Leamna,Judetul Dolj,Comuna Bucovat,"DJ552E, 207129 Leamna de Sus",23.7014734,44.303857
+"DJ-SPITALUL ""FILISANILOR"" FILIASI",Spitalul Filisanilor,Judetul Dolj,Oras Filiasi,"Bulevardul Racoteanu 200, 205300 Filiasi",23.5027638,44.5582961
+DJ-SPITALUL JUDETEAN CLINIC DE URGENTA CRAIOVA,Spitalul Clinic Judetean de Urgenta Craiova,Judetul Dolj,Municipiu Craiova,"Strada Tabaci 1, 200642 Craiova",23.7926289,44.305522
+DJ-SPITALUL MUNICIPAL CALAFAT,Spitalul Municipal,Judetul Dolj,Municipiu Calafat,"Spitalul Municipal, Strada Traian Nr. 5, 205200 Calafat",22.9436486,43.994036
+"DJ-SPITALUL MUNICIPAL ""PROF. DR. IRINEL POPESCU"" BAILESTI","Spitalul Municipal ""Profesor Doctor Irinel Popescu""",Judetul Dolj,Municipiu Bailesti,"Strada Victoriei 18A, 205100 Bailesti",23.3496067,44.0294725
+DJ-SPITALUL ORASENESC ASEZ.BRANC. DABULENI,Spitalul Orasenesc Asezamintele Brancovenesti Dabuleni,Judetul Dolj,Oras Dabuleni,"Strada Unirii 13, 207220 Dabuleni",24.094187,43.8011926
+DJ-SPITALUL ORASENESC SEGARCEA,Spitalul Orasenesc Segarcea,Judetul Dolj,Oras Segarcea,"Strada Unirii 50, 205400 Segarcea",23.743502,44.0996321
+GJ-SPITALUL JUDETEAN DE URGENTA TG-JIU,Spitalul Judetean de Urgenta,Judetul Gorj,Municipiu Targu Jiu,"Strada Alexandru Ioan Cuza 1, 210140 Targu Jiu",23.2796113,45.0353467
+GJ-SPITALUL ORASENESC BUMBESTI-JIU,Spitalul Orasenesc,Judetul Gorj,Oras Bumbesti-Jiu,"Strada Zorilor 1, 215100 Bumbesti-Jiu",23.3788417,45.1807715
+GJ-SPITALUL ORASENESC NOVACI,Spitalul Orasenesc,Judetul Gorj,Oras Novaci,"Strada Gruiului 1, 215300 Novaci",23.6616741,45.17353
+GJ-SPITALUL ORASENESC ROVINARI,Spitalul Orasenesc Sfantul Stefan,Judetul Gorj,Oras Rovinari,"Strada Jiului 1, 215400 Rovinari",23.1629923,44.8989855
+GJ-SPITALUL ORASENESC TARGU-CARBUNESTI,Spitalul Orasenesc Targu Carbunesti,Judetul Gorj,Oras Targu Carbunesti,"Strada Eroilor 5, 215500 Targu Carbunesti",23.5137762,44.9624796
+GL-DIAMED OBESITY SRL,DIAMED OBESITY SRL,Judetul Galati,Municipiu Galati,"Str. Gheorghe Doja 73, 800402 Galati",28.0290479,45.4339554
+GL-FIZIOACTIV S.R.L,Terra Clinique,Judetul Galati,Municipiu Galati,"Strada Brailei, Galati",28.0470849,45.4305006
+GL-SPITALUL CFR GALATI,Spitalul Clinic CFR Galati,Judetul Galati,Municipiu Galati,"Strada Alexandru Moruzzi 6, 800225 Galati",28.0614523,45.4389965
+"GL-SPITALUL CLINIC DE BOLI INFECTIOASE ""SF.CUVIOASA PARASCHEVA"" GALATI","Spitalul de Boli Infectioase ""Sf. Cuvioasa Parascheva""",Judetul Galati,Municipiu Galati,"Strada Traian 393, Nr.393, Galati",28.0335467,45.4651538
+"GL-SPITALUL DE OBSTETRICA-GINECOLOGIE ""BUNA VESTIRE"" GALATI","Spitalul de Obstetrica - Ginecologie ""Buna Vestire""",Judetul Galati,Municipiu Galati,"Strada Nicolae Alexandrescu 99, Galati",28.0437914,45.4445922
+GL-Spitalul de Pneumoftiziologie,Spitalul de Pneumoftiziologie (TBC),Judetul Galati,Municipiu Galati,"Strada Stiintei 117, 800552 Galati",28.046375,45.4563871
+GL-Spitalul de Psihiatrie Elisabeta Doamna,"Spitalul Clinic de Psihiatrie ""Elisabeta Doamna""",Judetul Galati,Municipiu Galati,"Strada Traian 290, 800179 Galati",28.038961,45.4593296
+"GL-SPITALUL JUDETEAN DE URGENTA ""SF. APOSTOL ANDREI"" GALATI",Spitalul Clinic Judetean de Urgenta Sfantul Apostol Andrei,Judetul Galati,Municipiu Galati,"Strada Brailei 177, 800578 Galati",28.0189584,45.4198282
+"GL-SPITALUL MUNICIPAL ""ANTON CINCU"" TECUCI","Spitalul Municipal ""Anton Cincu""",Judetul Galati,Municipiu Tecuci,"Strada Costache Conachi 35, 805300 Tecuci",27.4371171,45.8472489
+GL-SPITALUL ORASENESC TG.BUJOR,Spitalul Orasenesc Targu Bujor,Judetul Galati,Oras Targu Bujor,"DJ242 97, 805200 Targu Bujor",27.9127923,45.8694475
+"GL-SPITALUL PENTRU COPII ""SF. IOAN"" GALATI","Spitalul de Urgenta pentru Copii ""Sfantul Ioan""",Judetul Galati,Municipiu Galati,"Strada Gheorghe Asachi 2, 800487 Galati",28.0236185,45.4311142
+GR-SPITALUL JUDETEAN DE URGENTA GIURGIU,Spitalul Judetean de Urgenta,Judetul Giurgiu,Municipiu Giurgiu,"Bulevardul Bucuresti 82, 080272 Giurgiu",25.9694065,43.8979455
+GR-SPITALUL ORASENESC BOLINTIN VALE,Spitalul Orasenesc,Judetul Giurgiu,Comuna Bolintin-Deal,"Strada Republicii 5, 085100 Bolintin-Vale",25.8210598,44.4536483
+HD-MEDICOVER SRL PUNCT DE LUCRU DEVA,Medicover Laurus Deva,Judetul Hunedoara,Municipiu Deva,"Bulevardul 22 Decembrie nr. 6, etaj 3, 000000 Deva",22.9061909,45.8755679
+HD-Sanatoriul de Pneumoftiziologie Brad,Sanatoriul de Pneumoftiziologie Brad,Judetul Hunedoara,Municipiu Brad,"str. Magura 25, 335200 Brad",22.8244769,46.1352308
+HD-SPITALUL DE URGENTA PETROSANI,Spitalul Municipal Petrosani,Judetul Hunedoara,Municipiu Petrosani,"Strada 1 Decembrie 1918 1917, 137A, 332058 Petrosani",23.376411,45.4075904
+HD-SPITALUL GENERAL CF SIMERIA,Spitalul Clinic CFR Simeria,Judetul Hunedoara,Oras Simeria,"Strada Avram Iancu 26, 335900 Simeria",23.0148786,45.8479508
+HD-SPITALUL JUDETEAN DE URGENTA DEVA,Spitalul Judetean de Urgenta,Judetul Hunedoara,Municipiu Deva,"Bulevardul 22 Decembrie 58, Deva",22.9048592,45.8766355
+HD-SPITALUL MUNICIPAL BRAD,Spitalul Municipal Brad,Judetul Hunedoara,Municipiu Brad,"Strada Spitalului 3, 335200 Brad",22.7904571,46.1266598
+"HD-Spitalul Municipal ""Dr. Alexandru Simionescu"" Hunedoara",Spitalul Municipal Doctor Alexandru Simionescu,Judetul Hunedoara,Municipiu Hunedoara,"Strada Victoriei 14, 331057 Hunedoara",22.9069082,45.7497063
+HD-SPITALUL MUNICIPAL LUPENI,Spitalul Municipal Lupeni,Judetul Hunedoara,Municipiu Lupeni,"Strada Tudor Vladimirescu 24, 335600 Lupeni",23.2179179,45.3549714
+HD-SPITALUL MUNICIPAL ORASTIE,Spitalul Municipal Orastie,Judetul Hunedoara,Municipiu Orastie,"Strada Pricazului nr. 16, 335700 Orastie",23.187311,45.8421832
+HD-SPITALUL  MUNICIPAL VULCAN,Spitalul Municipal,Judetul Hunedoara,Municipiu Vulcan,"Bulevardul Nicolae Titulescu 59, 336200 Vulcan",23.2938466,45.3778895
+HR-SPITAL MUNICIPAL TOPLITA,Spitalul Municipal Toplita,Judetul Harghita,Municipiu Toplita,"Strada Victor Babes 26, 535700 Toplita",25.3562436,46.9222858
+HR-Spitalul de psihiatrie Tulghes,Spitalul de Psihiatrie Tulghes,Judetul Harghita,Comuna Tulghes,537330 Tulghes,25.7608833,46.9590773
+HR-SPITALUL JUDETEAN MIERCUREA CIUC,Spitalul judetean de urgenta Miercurea Ciuc,Judetul Harghita,Municipiu Miercurea Ciuc,"Strada Doctor Denes Laszlo 2, 530173 Miercurea Ciuc",25.8079312,46.3485407
+HR-SPITALUL MUNICIPAL GHEORGHIENI,Spitalul Municipal Gheorgheni,Judetul Harghita,Municipiu Gheorgheni,"Bulevardul Lacu Rosu 16, 535500 Gheorgheni",25.6022926,46.7234873
+HR-SPITALUL MUNICIPAL ODORHEIU SECUIESC,Spitalul Municipal,Judetul Harghita,Municipiu Odorheiu Secuiesc,"Strada Bethlen Gabor 72, 535600 Odorheiu Secuiesc",25.3003355,46.3073644
+HR-VISION 2009 SRL,Szempont Optika,Judetul Harghita,Municipiu Odorheiu Secuiesc,"Strada Mihai Eminescu 10, 535600 Odorheiu Secuiesc",25.2870924,46.3074733
+IF-CARDIO-REC SRL,CardioRec - Auxologico,Judetul Ilfov,Comuna Corbeanca,"Soseaua Unirii 187, 077065 Corbeanca",26.0421869,44.5939368
+IF-SPITALUL DE OBSTETRICA GINECOLOGIE BUFTEA,Spitalul de Obstetrica Ginecologie Buftea,Judetul Ilfov,Oras Buftea,"Strada Studioului 5, 070000 Buftea",25.9383437,44.5764663
+"IF-SPITALUL DE PSIHIATRIE ""EFTIMIE DIAMANDESCU"" BALACEANCA","Spitalul de Psihiatrie ""Eftimie Diamandescu""",Judetul Ilfov,Comuna Cernica,"Soseaua Garii Nr. 56, 077036 Balaceanca",26.2910518,44.3913764
+IL-SPITAL MUNICIPAL FETESTI,SPITALUL MUNICIPAL FETESTI,Judetul Ialomita,Municipiu Fetesti,"Strada Calarasi 475, 925100 Fetesti",27.8278636,44.4082698
+IL-SPITAL MUNICIPAL URZICENI,Spitalul Municipal Urziceni,Judetul Ialomita,Municipiu Urziceni,"Strada Teilor 39, 925300 Urziceni",26.649198,44.7114203
+IL-SPITALUL JUDETEAN DE URGENTA SLOBOZIA,Spitalul Judetean de Urgenta Ialomita,Judetul Ialomita,Municipiu Slobozia,"Strada Decebal 3 etaj 8, 920013 Slobozia",27.3612511,44.5670985
+IL-SPITALUL ORASENESC TANDAREI,SPITALUL ORASENESC TANDAREI,Judetul Ialomita,Oras Tandarei,"Strada Spitalului, 925200 Tandarei",27.6748813,44.6390765
+IS-ARCADIA HOSPITAL,Arcadia - Spitale si Centre Medicale,Judetul Iasi,Comuna Tomesti,"Strada Cicoarei 2, 700620 Iasi",27.5622222,47.1577817
+IS-ARCADIA RECUPERARE MEDICALA S.R.L,Arcadia,Judetul Iasi,Municipiu Iasi,"Strada Sfantul Lazar 37, 700049 Iasi",27.5916337,47.1565743
+IS-ARHIEPISCOPIA IASILOR,Catedrala Mitropolitana din Iasi,Judetul Iasi,Municipiu Iasi,"Bulevardul Stefan cel Mare si Sfant 16, 700064 Iasi",27.5820173,47.1615274
+"IS-ASOCIATIA ""GLASUL VIETII""",Asociatia Glasul Vietii,Judetul Iasi,Municipiu Iasi,"Biserica Maternitatii Cuza Voda, Strada Cuza Voda 34, 700038 Iasi",27.5867424,47.1631484
+IS-CARDIO-PRAXIS SRL,Cardio Praxis,Judetul Iasi,Municipiu Iasi,"Strada Pacurari 87, 700514 Iasi",27.5629468,47.1722417
+IS-FERTIGYN SRL,ORIGYN Fertility Center,Judetul Iasi,Municipiu Iasi,"Strada Palat 3C, 700028 Iasi",27.586264,47.1556537
+IS-HOSPICE SENIORUM S.R.L.,Spital SENIORUM,Judetul Iasi,Comuna Barnova,"Str. Sf. Maria 15B, 707035 Iasi",27.6245974,47.099958
+"IS-INSTITUTUL DE BOLI CARDIOVASCULARE ""PROF.DR. G.I.M. GEORGESCU"" IASI",Institutul de Boli Cardiovasculare Profesor Doctor George I.M. Georgescu Iasi,Judetul Iasi,Municipiu Iasi,"Bulevardul Carol I 50, 700503 Iasi",27.568949,47.180481
+IS-INSTITUTUL  DE PSIHIATRIE SOCOLA IASI,Institutul de Psihiatrie Socola Iasi,Judetul Iasi,Municipiu Iasi,"Soseaua Bucium 36, 700282 Iasi",27.6137629,47.1282865
+IS-INSTITUTUL REGIONAL DE ONCOLOGIE IASI,Institutul Regional de Oncologie,Judetul Iasi,Municipiu Iasi,"Strada General Henri Mathias Berthelot 2-4, 700483 Iasi",27.5756706,47.1749401
+IS-MEDEUROPA SRL - PUNCT DE LUCRU IASI,MedEuropa Iasi - Centru de Radioterapie,Judetul Iasi,Municipiu Iasi,"Strada Pacurari 95A, 700515 Iasi",27.561253,47.1722769
+IS-NOBEZ MEDICAL S.R.L.,NOBEZ Medical,Judetul Iasi,Municipiu Iasi,"Soseaua Stefan cel Mare si Sfant, 700497 Iasi",27.564265,47.1869923
+IS-RED HOSPITAL-SPITALUL SF. SAVA S.R.L.,Spitalul de Balneofizioterapie Recumedis si Paliatie Sf. Sava Iasi,Judetul Iasi,Municipiu Iasi,"Strada Mitropolit Varlaam 10, 700223 Iasi",27.5944768,47.1416532
+IS-SANOPTIC SRL,Sanoptic,Judetul Iasi,Municipiu Iasi,"Strada Vasile Lupu 26-28, 700309 Iasi",27.602633,47.1591134
+IS-SC ARCADIA CARDIO SRL,Arcadia - Spitale si Centre Medicale,Judetul Iasi,Comuna Tomesti,"Strada Cicoarei 2, 700620 Iasi",27.5622222,47.1577817
+"IS-SP. CL. URGENTA  ""PROF. DR. N. OBLU"" IASI","Spitalul Clinic de Urgenta ""Prof. Dr. Nicolae Oblu"" din Iasi",Judetul Iasi,Municipiu Iasi,"Strada Ateneului 2, 700309 Iasi",27.6072464,47.161083
+IS-SPITALUL CLINIC CF IASI,Spitalul Clinic CFR Iasi,Judetul Iasi,Municipiu Iasi,"Strada Garabet Ibraileanu 1, 700506 Iasi",27.5741502,47.1709307
+"IS-SPITALUL CLINIC DE BOLI INFECTIOASE ""SF. PARASCHEVA"" IASI",Spitalul de Boli Infectioase,Judetul Iasi,Municipiu Iasi,"Strada Octav Botez nr. 2, 700116 Iasi",27.5843775,47.170543
+IS-SPITALUL CLINIC DE PNEUMOFTIZIOLOGIE IASI,Spitalul Clinic de Pneumoftiziologie,Judetul Iasi,Municipiu Iasi,"Strada Doctor Iosif Cihac 30, 700115 Iasi",27.5846787,47.1695829
+IS-SPITALUL CLINIC DE RECUPERARE IASI,Spitalul Clinic de Recuperare Iasi,Judetul Iasi,Municipiu Iasi,"Strada Pantelimon Halipa 14, 700661 Iasi",27.5738299,47.1494283
+"IS-SPITALUL CLINIC DE URGENTA PENTRU COPII ""SF.MARIA"" IASI","Spitalul Clinic de Urgenta pentru Copii ""Sfanta Maria""",Judetul Iasi,Municipiu Iasi,"Strada Vasile Lupu nr. 62, 700309 Iasi",27.6074738,47.1591233
+IS-SPITALUL CLINIC  DR.C.I.PARHON IASI,Spitalul Clinic Doctor C.I. Parhon,Judetul Iasi,Municipiu Iasi,"Bulevardul Carol I 50, 700503 Iasi",27.5679668,47.180312
+"IS-SPITALUL CLINIC JUDETEAN DE URGENTA ""SF. SPIRIDON"" IASI",Spitalul Clinic Judetean de Urgente Sf. Spiridon Iasi,Judetul Iasi,Municipiu Iasi,"Bulevardul Independentei 1, 700111 Iasi",27.582665,47.1685392
+"IS-SPITALUL CLINIC OBSTETRICA-GINECOLOGIE ""ELENA DOAMNA"" IASI",Spitalul de Obstetrica - Ginecologie Elena Doamna,Judetul Iasi,Municipiu Iasi,"Strada Elena Doamna 49, 700398 Iasi",27.5978163,47.1606371
+"IS-SPITALUL DE BOLI CRONICE ""SFANTUL IOAN"" TARGU FRUMOS",Spitalul de Boli Cronice Sf. Ioan,Judetul Iasi,Oras Targu Frumos,"Str.Cuza Voda 59, 705300 Targu Frumos",27.0187817,47.2097791
+"IS-SPITALUL DE OBSTETRICA-GINECOLOGIE ""CUZA-VODA"" IASI",Spitalul Clinic de Obstetrica si Ginecologie Cuza Voda,Judetul Iasi,Municipiu Iasi,"Strada Cuza Voda 34, 700038 Iasi",27.5870773,47.1634492
+IS-SPITALUL GENERAL CF PASCANI,Spitalul Clinic CFR Pascani,Judetul Iasi,Municipiu Pascani,"Strada Mihail Kogalniceanu, Pascani",26.7210822,47.2460473
+IS-SPITALUL MUNICIPAL DE URGENTA PASCANI,Spitalul Municipal Pascani,Judetul Iasi,Municipiu Pascani,"Strada Gradinitei 5, Pascani",26.7255318,47.2438382
+IS-SPITALUL ORASENESC HARLAU,Spitalul Orasenesc Harlau,Judetul Iasi,Oras Harlau,"Str. Bogdan Voda, DN28B 33, 705100 Harlau",26.8998206,47.4303518
+IS-TRANSMED EXPERT SRL,Transmed Expert,Judetul Iasi,Municipiu Iasi,"Strada Vitejilor 15 - 17, 700432 Iasi",27.548605,47.1682557
+MH-ENDODIABET SRL,Endodiabet,Judetul Mehedinti,Municipiu Drobeta-Turnu Severin,"Strada Serpentina Rosiori 1-3, 220003 Drobeta-Turnu Severin",22.631747,44.6312607
+MH-SPITALUL GENERAL CAI FERATE DROBETA TURNU SEVERIN,Spitalul Clinic CFR Drobeta-Turnu Severin,Judetul Mehedinti,Municipiu Drobeta-Turnu Severin,"Bulevardul Carol 5-7, 220099 Drobeta-Turnu Severin",22.6415407,44.6235986
+MH-SPITALUL JUDETEAN DE URGENTA DROBETA TURNU SEVERIN,Spitalul Judetean de Urgenta Drobeta Turnu Severin,Judetul Mehedinti,Municipiu Drobeta-Turnu Severin,"Bulevardul Mihai Viteazul 6D, 220056 Drobeta-Turnu Severin",22.6535231,44.6429436
+MH-SPITALUL MUNICIPAL ORSOVA,Spital Municipal,Judetul Mehedinti,Municipiu Orsova,"Strada Portile de Fier 34, 225200 Orsova",22.396103,44.7213803
+MH-SPITALUL ORASENESC BAIA DE ARAMA,Spitalul Orasenesc Baia de Arama,Judetul Mehedinti,Oras Baia De Arama,"DC41 12, 225100 Baia de Arama",22.8094625,44.998098
+MM-Centrul Medical Unirea pct de lucru Baia Mare,Spitalul Somesan Baia Mare,Judetul Maramures,Municipiu Baia Mare,"Aleea Marasti 1, 430352 Baia Mare",23.5824364,47.6438486
+MM-SPITAL DE PSIHIATRIE CAVNIC,SPITALUL DE PSIHIATRIE CAVNIC,Judetul Maramures,Oras Cavnic,"Strada Unirii 4, 435300 Cavnic",23.8391651,47.6618692
+MM-SPITAL & POLICLINICA SFANTUL IOAN SRL,Spitalul Sfantul Ioan Baia Mare,Judetul Maramures,Municipiu Baia Mare,"Strada Ion Luca Caragiale 1, 430121 Baia Mare",23.5571071,47.6593402
+MM-SPITALUL DE BOLI INFECTIOSE SI PSIHIATRIE BAIA.MARE,Spitalul de Boli Infectioase si Psihiatrie Baia Mare,Judetul Maramures,Municipiu Baia Mare,"Str Vasile Lucaciu 72, 430401 Baia Mare",23.5907737,47.6613562
+MM-SPITALUL DE RECUPERARE BORSA,Spitalul de Recuperare Borsa,Judetul Maramures,Oras Borsa,"Strada Floare de Colt 1, 435200 Borsa",24.66632,47.6540787
+"MM-SPITALUL JUDETEAN DE URGENTA ""DR CONSTANTIN OPRIS"" BAIA MARE","Spitalul Judetean de Urgenta ""Dr. Constantin Opris""",Judetul Maramures,Municipiu Baia Mare,"Strada George Cosbuc 31, 430031 Baia Mare",23.5543251,47.6556683
+MM-SPITALUL MUNICIPAL SIGHETU MARMATIEI,Spitalul Municipal,Judetul Maramures,Municipiu Sighetu Marmatiei,"Strada Avram Iancu 22, 435500 Sighetu Marmatiei",23.8755518,47.9293004
+MM-SPITALUL ORASENESC TARGU LAPUS,Spitalul Orasenesc Targu Lapus,Judetul Maramures,Oras Targu Lapus,"Strada Tineretului 9-11, 435600 Targu Lapus",23.8617169,47.4553653
+MM-SPITALUL ORASENESC VISEU DE SUS,Spitalul Orasenesc Viseu de Sus,Judetul Maramures,Oras Viseu De Sus,"Strada 22 Decembrie 1989 1 435700, 435700 Viseu de Sus",24.4252058,47.707494
+"MM-SPIT.DE PNEUMOFTIZIOLOGIE ,,DR NICOLAE RUSDEA""",Spitalul de Pneumoftiziologie Baia Mare,Judetul Maramures,Municipiu Baia Mare,"Strada Doctor Victor Babes 34, Baia Mare",23.5524524,47.6627692
+MS-CENTRUL MEDICAL UNIREA SRL BUCURESTI - PUNCT DE LUCRU TG. MURES,Campus Medical Regina Maria,Judetul Mures,Municipiu Targu Mures,"Strada Gheorghe Marinescu 49, 540136 Targu Mures",24.5784059,46.5571898
+MS-CENTRUL MEDICONSULT SRL,Mediconsult,Judetul Mures,Municipiu Targu Mures,"Strada Muncii 9, Targu Mures",24.5855818,46.535408
+MS-DENTOSIM-QUEEN SRL,Dentosim,Judetul Mures,Municipiu Targu Mures,"Apartament 2, Strada 22 Decembrie 1989 6, 540113 Targu Mures",24.5701044,46.5545122
+MS-INSTITUTUL DE URGENTA PENTRU BOLI CARDIOVASCULARE SI TRANSPLANT TG.MURES,Institutul de Urgenta pentru Boli Cardiovasculare si Transplant Targu Mures cardiologie infantila,Judetul Mures,Municipiu Targu Mures,Targu Mures,24.5825146,46.5592434
+MS-REHABCARE SRL,Clinica de Medicina Hiperbara,Judetul Mures,Comuna Livezeni,"Str. Lunga 66, 547365 Livezeni",24.6230781,46.5451381
+MS-SAN-DORA MED SRL,Dora Medicals,Judetul Mures,Municipiu Targu Mures,"Piata Marasesti 21, 540327 Targu Mures",24.5646266,46.5513346
+MS-SPITALUL CLINIC JUDETEAN DE URGENTA TARGU MURES,Spitalul Clinic Judetean de Urgenta Targu Mures,Judetul Mures,Municipiu Targu Mures,"Strada Gheorghe Marinescu 50, 540136 Targu Mures",24.5825579,46.5593986
+MS-SPITALUL CLINIC JUDETEAN MURES,Spitalul Clinic Judetean de Urgenta Targu Mures,Judetul Mures,Municipiu Targu Mures,"Strada Gheorghe Marinescu 50, 540136 Targu Mures",24.5825579,46.5593986
+"MS-SPITALUL MUNICIPAL ""DR.EUGEN NICOARA"" REGHIN",Spitalul Municipal Doctor Eugen Nicoara,Judetul Mures,Municipiu Reghin,"Strada Spitalului 19-20, 545300 Reghin",24.6951841,46.7820649
+"MS-SPITALUL MUNICIPAL "" DR.GHEORGHE MARINESCU"" TARNAVENI","Spitalul Municipal ""Dr. Gheorghe Marinescu""",Judetul Mures,Municipiu Tarnaveni,"Strada Victor Babes 2, 545600 Tarnaveni",24.2936849,46.3286382
+MS-SPITALUL MUNICIPAL SIGHISOARA,Spitalul Municipal Sighisoara,Judetul Mures,Municipiu Sighisoara,"Strada Zaharia Boiu 40, 545400 Sighisoara",24.7838743,46.2206339
+"MS-SPITALUL ORASENESC ""DR.VALER RUSSU""LUDUS",Spitalul Orasenesc Dr. Valer Russu Ludus Sediul Administrativ,Judetul Mures,Oras Ludus,"Bulevardul 1 Decembrie 1918 20, 545200 Ludus",24.09559,46.47532
+MS-SPITALUL ORASENESC SG. DE PADURE,Spital Orasenesc Sangeorgiu de Padure,Judetul Mures,Oras Sangeorgiu De Padure,"Piata Rhedey Klaudia, 547535 Sangeorgiu de Padure",24.8383324,46.4323486
+"NT-SPITAL ORASENESC ""SFINTUL DIMITRIE""TG.NEAMT",Spitalul Orasenesc Targu Neamt,Judetul Neamt,Oras Targu Neamt,"Bulevardul Stefan cel Mare 35, 615200 Targu Neamt",26.3597918,47.2070999
+NT-SPITALUL DE PNEUMOFTIZIOLOGIE BISERICANI,Spitalul de Pneumoftiziologie Bisericani,Judetul Neamt,Comuna Alexandru Cel Bun,"Com. Alexandru cel Bun sat Bisericani, 617507 Neamt",26.2383599,46.9585277
+"NT-SPITALUL DE PSIHIATRIE ""SF. NICOLAE"" ROMAN",Spitalul Sfantul Nicolae,Judetul Neamt,Municipiu Roman,"Strada Ion Nanu 4, 611142 Roman",26.9409423,46.9367713
+NT-SPITALUL JUDETEAN DE URGENTA PIATRA NEAMT,Spitalul Clinic Judetean de Urgenta Piatra Neamt,Judetul Neamt,Municipiu Piatra-Neamt,"Bulevardul Traian 1, Piatra Neamt",26.3735024,46.9285708
+NT-SPITALUL MUNICIPAL ROMAN,Spitalul Municipal de Urgenta Roman,Judetul Neamt,Municipiu Roman,"Strada Tineretului 28-30, Roman",26.9309455,46.928022
+"NT-SPITALUL ORASANESC ""SF. IERARH NICOLAE"" BICAZ",Spitalul Orasenesc Sfantul Ierarh Nicolae,Judetul Neamt,Oras Bicaz,"Strada Barajului 31A, 615100 Bicaz",26.0859354,46.9200066
+OT-SC LISIMED SRL,LISIMED S.R.L.,Judetul Olt,Oras Draganesti-Olt,"Str. Teiului, 4, Slatina, Olt, 230107",24.588089,44.1723549
+OT-SPITALUL JUDETEAN SLATINA,Spitalul Judetean de Urgenta Slatina,Judetul Olt,Municipiu Slatina,"Strada Crisan 9, 230008 Slatina",24.3670278,44.4321914
+OT-SPITALUL MUNICIPAL CARACAL,Spitalul Municipal Caracal,Judetul Olt,Municipiu Caracal,235200 Caracal,24.3550871,44.1165769
+OT-SPITALUL ORASENESC BALS,Spitalul Orasenesc Bals,Judetul Olt,Oras Bals,"Strada Nicolae Balcescu 115, 235100 Bals",24.1156639,44.3471044
+OT-SPITALUL ORASENESC CORABIA,Spitalul Orasenesc,Judetul Olt,Oras Corabia,"Strada Carpati 116, 235300 Corabia",24.5108117,43.7733981
+PH-GRAL MEDICAL SRL,Clinica MC Gral Ploiesti,Judetul Prahova,Municipiu Ploiesti,"Strada Cuza Voda 6, 100010 Ploiesti",26.019309,44.941234
+PH-S.C. CENTRUL MEDICAL SANCONFIND S.R.L.,Centru Medical SanConfind,Judetul Prahova,Comuna Poiana Campina,"Strada Dimitrie Gusti nr. 17, 107425 Poiana Campina",25.7105907,45.1287059
+PH-S.C. MEDICAL CENTER GRAL S.R.L.,Clinica MC Gral Ploiesti,Judetul Prahova,Municipiu Ploiesti,"Strada Cuza Voda 6, 100010 Ploiesti",26.019309,44.941234
+PH-SPITALUL DE BOLI PULMONARE BREAZA,Spitalul de Boli Pulmonare,Judetul Prahova,Oras Breaza,"Strada Erou Miron Caproiu 56, 105400 Breaza de Jos",25.6766248,45.1791735
+PH-SPITALUL DE ORTOPEDIE SI TRAUMATOLOGIE AZUGA,Spitalul de Ortopedie si Traumatologie,Judetul Prahova,Oras Azuga,"Strada Victoriei 2, 105100 Azuga",25.5544913,45.4265835
+PH-Spitalul de Pneumoftiziologie Floresti,Spitalul de Pneumoftiziologie Floresti,Judetul Prahova,Comuna Floresti,"Strada Grigore Cantacuzino nr. 44, 107255 Floresti",25.792333,45.0301616
+PH-Spitalul de Psihiatrie Voila,Spitalul de Psihiatrie Voila,Judetul Prahova,Municipiu Campina,"Strada Voila 114, 105600 Campina",25.749881,45.1589477
+PH-SPITALUL MUNICIPAL CAMPINA,Spitalul Municipal Campina (SMC),Judetul Prahova,Municipiu Campina,"Bulevardul Carol I 117, 105600 Campina",25.732392,45.1281164
+PH-SPITALUL MUNICIPAL PLOIESTI,Spitalul Municipal Ploiesti,Judetul Prahova,Municipiu Ploiesti,"Spitalul Municipal Ploiesti, Strada Rudului 61, Ploiesti",26.0201859,44.9312971
+PH-SPITALUL ORASENESC BAICOI,Spitalul Orasenesc Baicoi,Judetul Prahova,Oras Baicoi,"Spital Baicoi, Strada Spitalului 7, 105200 Baicoi",25.8379973,45.0296755
+PH-SPITALUL ORASENESC SFANTA FILOFTEIA MIZIL,Spitalul Sfanta Filofteia,Judetul Prahova,Oras Mizil,"Strada Spitalului 21, 105800 Mizil",26.4399518,44.9991175
+PH-SPITALUL ORASENESC SINAIA,Spitalul Orasenesc Sinaia,Judetul Prahova,Oras Sinaia,"Strada Spitalului 2, 106100 Sinaia",25.5549925,45.333551
+PH-SPITALUL ORASENESC URLATI,Spitalul Orasenesc Urlati,Judetul Prahova,Oras Urlati,"Strada Independentei 52, 106300 Urlati",26.2404781,44.9911674
+PH-SPITALUL ORASENESC VALENII DE MUNTE,Spitalul Orasenesc Valenii de Munte,Judetul Prahova,Oras Valenii De Munte,"Bulevardul Nicolae Iorga 10, 106400 Valenii de Munte",26.0350898,45.1756086
+SB-MISAN MED SRL,Misan Med,Judetul Sibiu,Municipiu Sibiu,"Str. Hipodromului 3B, 550360 Sibiu",24.154708,45.784382
+SB-OPHTA-CONSULT SRL,Clinica iMed,Judetul Sibiu,Municipiu Sibiu,"Strada Nicolae Iorga 50A, 557260 Sibiu",24.1574354,45.7815976
+SB-SPITALUL CLINIC DE PEDIATRIE SIBIU,Spitalul Clinic de Pediatrie Sibiu,Judetul Sibiu,Municipiu Sibiu,"Strada George Baritiu 3, 550178 Sibiu",24.147781,45.792758
+SB-SPITALUL CLINIC JUDETEAN  DE URGENTA SIBIU,Spitalul Clinic Judetean de Urgenta Sibiu,Judetul Sibiu,Municipiu Sibiu,"Bulevardul Corneliu Coposu 2-4, 550245 Sibiu",24.1557007,45.7944924
+SB-SPITALUL DE PNEUMOFTIZIOLOGIE SIBIU,Spitalul de Pneumoftiziologie,Judetul Sibiu,Municipiu Sibiu,"Aleea Filozofilor 3-5, 550196 Sibiu",24.142917,45.7948392
+SB-SPITALUL DE PSIHIATRIE DR. GH. PREDA SIBIU,"Spitalul de Psihiatrie ""Doctor Gheorghe Preda""",Judetul Sibiu,Municipiu Sibiu,"Strada Doctor Dumitru Bagdazar 12, 550082 Sibiu",24.1545109,45.808157
+SB-SPITALUL GENERAL CF SIBIU,Spitalul Clinic CFR Sibiu,Judetul Sibiu,Municipiu Sibiu,"Strada Constantin Noica 20, 550240 Sibiu",24.15606,45.7921132
+SB-SPITALUL MUNICIPAL MEDIAS,Spitalul Municipal,Judetul Sibiu,Municipiu Medias,"Strada Closca 2, Medias",24.3568526,46.1635122
+SB-SPITALUL ORASENESC AGNITA,Spitalul Orasenesc Agnita,Judetul Sibiu,Oras Agnita,"Strada Spitalului 10, 555100 Agnita",24.6227306,45.9790606
+SB-SPITALUL ORASENESC CISNADIE,Spitalul Orasenesc,Judetul Sibiu,Oras Cisnadie,"Strada Bailor 27, 555300 Cisnadie",24.1449928,45.7082658
+SJ-SPITAL JUD de URGENTA ZALAU,Spitalul Judetean de Urgenta Zalau,Judetul Salaj,Municipiu Zalau,"Str. Simion Barnutiu 67, 450129 Zalau",23.0515351,47.1928745
+SJ-SPITALUL DE BOLI CRONICE CRASNA,Spitalul de Boli Cronice Crasna,Judetul Salaj,Comuna Crasna,"Strada Alszeg 363, 457085 Crasna",22.8806397,47.161781
+SJ-SPITALUL ORASENESC JIBOU,Spitalul Orasenesc,Judetul Salaj,Oras Jibou,"Strada Libertatii 28, 455200 Jibou",23.2521709,47.2589056
+SM-SPITALUL DE PNEUMOFTIZIOLOGIE SATU MARE,Spitalul de Pneumoftiziologie Satu Mare,Judetul Satu Mare,Municipiu Satu Mare,"Strada Ialomitei 9, 447230 Satu Mare",22.8858224,47.7916492
+SM-SPITALUL JUDETEAN SATU MARE,Spitalul Judetean de Urgenta,Judetul Satu Mare,Municipiu Satu Mare,"Strada Ravensburg 3, Satu Mare",22.8625275,47.7825088
+SM-SPITALUL MUNICIPAL CAREI,Spitalul Municipal Carei,Judetul Satu Mare,Municipiu Carei,"Bulevardul 25 Octombrie 25, 445100 Carei",22.4650697,47.6813254
+SM-SPITALUL ORASENESC NEGRESTI OAS,Spitalul Orasenesc,Judetul Satu Mare,Oras Negresti-Oas,"Strada Victoriei 90, 445200 Negresti-Oas",23.4279126,47.8718472
+SV-PROVITA PAIN CLINIC S.A.,Clinica NORD Suceava,Judetul Suceava,Municipiu Suceava,"Strada Putna, 727454 Suceava",26.2651503,47.6728364
+SV-SPITALUL DE BOLI CRONICE SIRET,Spitalul Psihiatrie Cronice Siret,Judetul Suceava,Oras Siret,"Strada Carpati 3B, 725500 Siret",26.0581065,47.9498916
+SV-SPITALUL DE PSIHIATRIE CAMPULUNG MOLDOVENESC,Spitalul de Psihiatrie Campulung Moldovenesc,Judetul Suceava,Municipiu Campulung Moldovenesc,"Strada Trandafirilor 2, 725100 Campulung Moldovenesc",25.5599867,47.5276203
+SV-SPITALUL JUDETEAN DE URGENTA SF.IOAN CEL NOU SUCEAVA,"Spitalul Clinic Judetean de Urgenta ""Sfantul Ioan cel Nou""",Judetul Suceava,Municipiu Suceava,"Bulevardul 1 Mai 18, 720224 Suceava",26.2409217,47.6385814
+SV-SPITALUL MUNICIPAL CAMPULUNG MOLDOVENESC,Spitalul Municipal,Judetul Suceava,Municipiu Campulung Moldovenesc,"Strada Sirenei 25, 725100 Campulung Moldovenesc",25.5437493,47.5318036
+SV-SPITALUL MUNICIPAL FALTICENI,Spitalul Municipal,Judetul Suceava,Municipiu Falticeni,"Strada Cuza Voda 1, et 1, 725200 Falticeni",26.2946679,47.4618072
+SV-SPITALUL MUNICIPAL RADAUTI,Spitalul Municipal Radauti,Judetul Suceava,Municipiu Radauti,"Calea Bucovinei 34A, 725400 Radauti",25.9264523,47.8375923
+SV-SPITALUL MUNICIPAL VATRA DORNEI,Spitalul Municipal Vatra Dornei,Judetul Suceava,Municipiu Vatra Dornei,"Strada Mihai Eminescu 14, 725700 Vatra Dornei",25.3582905,47.3480677
+SV-SPITALUL ORASENESC GURA HUMORULUI,Spitalul Orasenesc,Judetul Suceava,Oras Gura Humorului,"Piata Republicii 1, 725300 Gura Humorului",25.8896217,47.554906
+SV-Sp. Psihiatrie cronici Siret,Spitalul de Psihiatrie,Judetul Suceava,Oras Siret,"Strada 9 Mai 5, 725500 Siret",26.0683023,47.951102
+TL-CENTRUL MEDICAL UNIREA SRL-TULCEA,REGINA MARIA Policlinica Centrala,Judetul Tulcea,Municipiu Tulcea,"Strada Progresului 24, 820009 Tulcea",28.8016411,45.1770211
+TL-SPITALUL JUDETEAN DE URGENTA TULCEA,Spitalul Judetean Tulcea,Judetul Tulcea,Municipiu Tulcea,"Strada 1848, Tulcea",28.7849683,45.1739082
+TL-SPITALUL ORASENESC MACIN,Spitalul Orasenesc,Judetul Tulcea,Oras Macin,"Strada Mircea Voda 34, 825300 Macin",28.1352996,45.2454831
+"TM-Centrul Medical de Evaluare, Terapie Educatie Medicala Specifica si Recuperare pentru Copii si Tiner","Centrul Medical Clinic de Evaluare si Recuperare pentru Copii si Adolescenti ""Cristian Serban""",Judetul Timis,Oras Buzias,"Strada Avram Iancu nr.18, 305100 Buzias",21.6100819,45.6498234
+TM-INSTITUTUL DE BOLI CARDIOVASCULARE TIMISOARA,Institutul de Boli Cardiovasculare Timisoara,Judetul Timis,Municipiu Timisoara,"Strada Gheorghe Adam Numarul 13A, 300310 Timisoara",21.2592675,45.7692665
+TM-KARDINAL ONE MEDICAL SRL,Kardinal One Medical,Judetul Timis,Oras Ciacova,"Piata Cetatii 62, 307110 Ciacova",21.1247468,45.5148196
+TM-MEDICI'S S.A.,Spitalul MedLife Medici's,Judetul Timis,Municipiu Timisoara,"Strada Ciprian Porumbescu 9, 300236 Timisoara",21.2235666,45.7406274
+TM-ROCORDIS SRL,SPITAL DE CARDIOLOGIE ROCORDIS,Judetul Timis,Municipiu Timisoara,"Strada George Ardelean 13, 300628 Timi?oara",21.1991962,45.7825946
+TM-SC MATERNA CARE SRL,Reteaua de Sanatate REGINA MARIA - Spitalul Regina Maria Timisoara (Spital Premiere),Judetul Timis,Municipiu Timisoara,"Calea Aradului 113, 300643 Timisoara",21.2196558,45.7794375
+"TM-SPITAL CLINIC DE URGENTA PENTRU COPII ""LOUIS TURCANU ""","Spitalul Clinic de Urgenta pentru copii din Timisoara ""Louis Turcanu""",Judetul Timis,Municipiu Timisoara,"Strada Doctor Iosif Nemoianu 2, 300011 Timisoara",21.2219023,45.7535596
+TM-SPITAL DR. KARL DIEL JIMBOLIA,"Spitalul orasenesc ""Dr. Karl Diel"" Jimbolia",Judetul Timis,Oras Jimbolia,"Strada Contele Csekonics, 305400 Jimbolia",20.7156724,45.7823563
+TM-SPITALUL CLINIC CF TIMISOARA,Spitalul Clinic CFR Timisoara,Judetul Timis,Municipiu Timisoara,"Spitalul CFR, Splaiul Tudor Vladimirescu 13-15, Timisoara",21.218527,45.7494761
+TM-SPITALUL CLINIC DE BOLI INFECTIOASE SI PNEUMOFTIZIOLOGIE DR.V.BABES TIMISOARA,Spitalul Clinic de Boli Infectioase si Pneumoftiziologie Dr. Victor Babes,Judetul Timis,Municipiu Timisoara,"Strada Gheorghe Adam 13, Timisoara",21.2597586,45.768714
+"TM-SPITALUL CLINIC JUDETEAN de URGENTA ""Pius Brinzeu"" Timisoara","Spitalul Clinic Judetean de Urgenta ""Pius Brinzeu"" Timisoara",Judetul Timis,Municipiu Timisoara,"Bulevardul Liviu Rebreanu 156, 300723 Timisoara",21.2417975,45.7370071
+TM-SPITALUL CLINIC MUNICIPAL DE URGENTA TIMISOARA,Spitalul Clinic Municipal de Urgenta Timisoara,Judetul Timis,Municipiu Timisoara,"Strada Gheorghe Dima nr.5, 300254 Timisoara",21.2267886,45.7594431
+TM-SPITALUL DE PSIHIATRIE GATAIA,Spitalul de Psihiatrie Gataia,Judetul Timis,Oras Gataia,307185 Gataia,21.4613843,45.4379093
+TM-SPITALUL MUNICIPAL  Dr. TEODOR  ANDREI LUGOJ,"Spitalul Municipal ""Dr. Teodor Andrei"" Lugoj",Judetul Timis,Municipiu Lugoj,"Strada Gheorghe Doja 36, 305500 Lugoj",21.8887066,45.6905419
+TM-SPITALUL ORASENESC DETA,Spitalul Orasenesc Deta,Judetul Timis,Oras Deta,"Str. Mihai Viteazu 10, Deta",21.2227934,45.3902564
+TM-SPITALUL ORASENESC FAGET,Spitalul Orasenesc Faget,Judetul Timis,Oras Faget,"Strada Spitalului 3, 305300 Faget",22.1707883,45.844881
+TM-SPITALUL ORASENESC SANNICOLAU MARE AMBULATORIUL DE SPECIALITATE,Spitalul Orasenesc Sannicolau Mare,Judetul Timis,Oras Sannicolau Mare,"Strada Timisoara 10, 305600 Sannicolau Mare",20.6361536,46.0681538
+TR-SC SPITAL ORASENESC SRL VIDELE,Spitalul Orasenesc Videle,Judetul Teleorman,Oras Videle,"Soseaua Pitesti, 145300 Videle",25.5164401,44.2785367
+TR-SPITALUL DE PSIHIATRIE POROSCHIA,Spitalul de Psihiatrie Poroschia,Judetul Teleorman,Comuna Poroschia,147280 Poroschia,25.360062,43.9348531
+TR-SPITALUL JUDETEAN ALEXANDRIA,Spitalul Judetean de Urgenta Alexandria,Judetul Teleorman,Municipiu Alexandria,"Strada Libertatii 1, 140009 Alexandria",25.3143922,43.9796366
+TR-SPITALUL MUNICIPAL CARITAS ROSIORI DE VEDE,Spitalul Municipal Caritas,Judetul Teleorman,Municipiu Rosiori De Vede,"Strada Carpati 33, 145100 Rosiori de Vede",24.988285,44.1148708
+TR-SPITALUL MUNICIPAL TURNU MAGURELE,Spitalul Municipal,Judetul Teleorman,Municipiu Turnu Magurele,"Strada Castanilor, 145200 Turnu Magurele",24.8686195,43.7438942
+TR-SPITAL ZIMNICEA,Spitalul Orasenesc Zimnicea,Judetul Teleorman,Oras Zimnicea,"1-, Strada Trandafirilor 2, 145400 Zimnicea",25.3646425,43.6503079
+TR-SPIT.JUD.P.N.F.ROSIORII DE VEDE,Spitalul de Pneumoftiziologie - Rosiorii de Vede,Judetul Teleorman,Municipiu Rosiori De Vede,"Strada Buzesti nr.16, 145100 Rosiori de Vede",24.9995217,44.1081345
+VL-S.C. CLINICA RAPITEST SRL,RAPITEST CLINICA S.R.L.,Judetul Valcea,Municipiu Ramnicu Valcea,"Str. Olanescu Vasile 11, 240492 Ramnicu Valcea",24.3699305,45.1031169
+VL-SPITALUL DE PNEUMOFTIZIOLOGIE C. ANASTASATU - MIHAESTI,Spitalul de Pneumoftiziologie Constantin Anastasatu,Judetul Valcea,Comuna Mihaesti,247375 Mihaesti,24.2378137,45.0228271
+VL-SPITALUL DE PSIHIATRIE DRAGOESTI,Spitalul de Psihiatrie Dragoesti,Judetul Valcea,Comuna Dragoesti,"Strada Spitalului 1, Dragoesti",24.2821091,44.8318654
+VL-SPITALUL JUDETEAN DE URGENTA  VALCEA,Spitalul Judetean de Urgenta Valcea,Judetul Valcea,Municipiu Ramnicu Valcea,"Calea lui Traian 201, 240284 Ramnicu Valcea",24.3629366,45.118355
+"VL-SPITALUL MUNICIPAL ""COSTACHE NICOLESCU"" DRAGASANI",Spitalul Municipal Costache Nicolescu,Judetul Valcea,Municipiu Dragasani,"Strada Doctor Dumitru Bagdazar 2, 245700 Dragasani",24.2583811,44.6592899
+VL-SPITALUL ORASENESC BREZOI,Spitalul Orasenesc Brezoi,Judetul Valcea,Oras Brezoi,"DN7A, 245500 Brezoi",24.2456514,45.3423503
+VL-SPITALUL ORASENESC HOREZU,Spitalul Orasenesc Horezu,Judetul Valcea,Oras Horezu,"DC139 9, 245800 Horezu",23.9917508,45.1431988
+VN-SPITALUL DE PSIHIATRIE CRONICI DUMBRAVENI,Spitalul de Psihiatrie Cronici Dumbraveni,Judetul Vrancea,Comuna Dumbraveni,627105 Dumbraveni,27.1065102,45.5499982
+VN-SPITALUL JUDETEAN DE URGENTA SF PANTELIMON FOCSANI,Spitalul Judetean de Urgenta Sf. Pantelimon - Corp Central,Judetul Vrancea,Municipiu Focsani,"Str. Cuza Voda 50-52, Focsani",27.1930021,45.7043991
+VN-SPITALUL MUNICIPAL ADJUD,Spitalul Municipal Adjud,Judetul Vrancea,Municipiu Adjud,"Str. Republicii 1H, 625100 Adjud",27.1875563,46.0920879
+VN-SPITALUL N N SAVEANU VIDRA,Spitalul “NN Saveanu “ Vidra,Judetul Vrancea,Comuna Vidra,"DN2D, 627415 Vidra",26.9077648,45.9114103
+VN-SPITALUL ORASENESC PANCIU,Spitalul Orasenesc Panciu,Judetul Vrancea,Oras Panciu,"Strada Nicolae Titulescu 99, 625400 Panciu",27.0864462,45.9097303
+VS-SPITAL JUDETEAN DE URGENTA VASLUI,Spitalul Clinic Judetean de Urgenta Vaslui,Judetul Vaslui,Municipiu Vaslui,"Pavilionul I, Strada Stefan cel Mare 233, 730006 Vaslui",27.7358475,46.6554101
+VS-SPITALUL MUNICIPAL DE ADULTI BARLAD,"Spitalul Municipal de Urgenta ""Elena Beldiman"" Barlad",Judetul Vaslui,Municipiu Barlad,"Bulevardul Republicii 300, 731054 Barlad",27.6713664,46.2351377
+"VS-SPITALUL MUNICIPAL ""Dimitrie Castroian"" HUSI",Spitalul Municipal Dimitrie Castroian,Judetul Vaslui,Municipiu Husi,"Strada 1 Decembrie 1918 40, 735100 Husi",28.0505092,46.6751822

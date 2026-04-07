@@ -1,0 +1,46 @@
+.app-root {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+}
+
+.app-header {
+  flex-shrink: 0;
+  padding: 0.6rem 1.25rem;
+  background: #1e3a5f;
+  color: #e5e7eb;
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,.3);
+  z-index: 1000;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.app-header p {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #93c5fd;
+}
+
+.app-main {
+  flex: 1;
+  min-height: 0;
+  position: relative;
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: #6b7280;
+  font-size: 0.95rem;
+}

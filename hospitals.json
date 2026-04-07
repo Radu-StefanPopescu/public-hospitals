@@ -1,0 +1,2486 @@
+[
+  {
+    "id": "AB-SPITALUL DE BOLI CRONICE CAMPENI",
+    "name": "Spitalul de Boli Cronice Campeni",
+    "lat": 46.3657495,
+    "lng": 23.04543
+  },
+  {
+    "id": "AB-SPITALUL DE PNEUMOFTIZIOLOGIE AIUD",
+    "name": "SPITALUL DE PNEUMOFTIZIOLOGIE AIUD",
+    "lat": 46.3057866,
+    "lng": 23.7192839
+  },
+  {
+    "id": "AB-SPITALUL DR. ALEXANDRU BORZA ABRUD",
+    "name": "Spitalul Orasenesc \"Dr. Alexandru Borza\"",
+    "lat": 46.2659645,
+    "lng": 23.0824202
+  },
+  {
+    "id": "AB-SPITALUL JUDETEAN DE URGENTA ALBA IULIA",
+    "name": "Spitalul Judetean de Urgente Alba",
+    "lat": 46.0715636,
+    "lng": 23.5570948
+  },
+  {
+    "id": "AB-SPITALUL MUNICIPAL AIUD",
+    "name": "Spitalul Municipal",
+    "lat": 46.3078587,
+    "lng": 23.7234201
+  },
+  {
+    "id": "AB-SPITALUL MUNICIPAL BLAJ",
+    "name": "Spitalul Municipal Blaj",
+    "lat": 46.17934,
+    "lng": 23.92412
+  },
+  {
+    "id": "AB-SPITALUL MUNICIPAL SEBES",
+    "name": "Spitalul Municipal Sebes",
+    "lat": 45.9514021,
+    "lng": 23.5676841
+  },
+  {
+    "id": "AB-SPITALUL ORASENESC CAMPENI",
+    "name": "Spital Orasenesc Campeni",
+    "lat": 46.3624373,
+    "lng": 23.0419363
+  },
+  {
+    "id": "AB-SPITALUL ORASENESC CUGIR",
+    "name": "Spitalul Orasenesc Cugir",
+    "lat": 45.8368645,
+    "lng": 23.364086
+  },
+  {
+    "id": "AG-ENDOSCOPIE ARGES SRL",
+    "name": "Endoscopie Arges - Gastro Clinic Pitesti",
+    "lat": 44.8539122,
+    "lng": 24.8759482
+  },
+  {
+    "id": "AG-GRAL MEDICAL SRL BUCURESTI PUNCT DE LUCRU PITESTI",
+    "name": "Clinica Gral Pitesti",
+    "lat": 44.8735982,
+    "lng": 24.8495824
+  },
+  {
+    "id": "AG-MEDICOVER SRL PUNCT DE LUCRU PITESTI",
+    "name": "Centrul Medical de Reabilitare si Preventie Doctor Luca",
+    "lat": 44.8674515,
+    "lng": 24.8547294
+  },
+  {
+    "id": "AG-SPITALUL DE BOLI CRONICE CALINESTI",
+    "name": "Spitalul de Boli Cronice Calinesti",
+    "lat": 44.8292275,
+    "lng": 25.0444136
+  },
+  {
+    "id": "AG-SPITALUL DE GERIATRIE SI BOLI CRONICE CONSTANTIN BALACEANU STOLNICI STEFANESTI",
+    "name": "Spitalul de Geriatrie si Boli Cronice \"Constantin Balaceanu-Stolnici\" Stefanesti",
+    "lat": 44.865823,
+    "lng": 24.924271
+  },
+  {
+    "id": "AG-SPITALUL DE PEDIATRIE PITESTI",
+    "name": "Spitalul de Pediatrie Pitesti",
+    "lat": 44.8508232,
+    "lng": 24.8651963
+  },
+  {
+    "id": "AG-SPITALUL DE PNEUMOFTIZIOLOGIE CAMPULUNG",
+    "name": "Spitalul de Pneumoftiziologie Campulung",
+    "lat": 45.2776999,
+    "lng": 25.0474888
+  },
+  {
+    "id": "AG-SPITALUL DE PNEUMOFTIZIOLOGIE  LEORDENI",
+    "name": "Spitalul de Pneumoftiziologie Leordeni-Arges",
+    "lat": 44.7969584,
+    "lng": 25.1086999
+  },
+  {
+    "id": "AG-SPITALUL DE PNEUMOFTIZIOLOGIE SF. ANDREI VALEA IASULUI",
+    "name": "Spitalul TBC Sfantul Andrei",
+    "lat": 45.186691,
+    "lng": 24.692041
+  },
+  {
+    "id": "AG-SPITALUL DE PSIHIATRIE SF MARIA VEDEA",
+    "name": "Spitalul de Psihiatrie Sfantata Maria Vedea, Pavilionul I",
+    "lat": 44.7790721,
+    "lng": 24.6269676
+  },
+  {
+    "id": "AG-SPITALUL DE RECUPERARE BRADET",
+    "name": "Spitalul de Recuperare Bradet",
+    "lat": 45.3128384,
+    "lng": 24.7615592
+  },
+  {
+    "id": "AG-SPITALUL JUDETEAN ARGES (PITESTI)",
+    "name": "Spitalul Judetean de Urgenta Pitesti",
+    "lat": 44.8711549,
+    "lng": 24.8471675
+  },
+  {
+    "id": "AG-SPITALUL MUNICIPAL CAMPULUNG",
+    "name": "Spitalul Municipal Campulung",
+    "lat": 45.2662208,
+    "lng": 25.0379213
+  },
+  {
+    "id": "AG-SPITALUL MUNICIPAL C. DE ARGES",
+    "name": "Spitalul Municipal Curtea de Arges",
+    "lat": 45.1486796,
+    "lng": 24.6788108
+  },
+  {
+    "id": "AG-SPITALUL ORASENESC \"REGELE CAROL I\" COSTESTI",
+    "name": "Spitalul Orasenesc \"Regele Carol l\"",
+    "lat": 44.6646584,
+    "lng": 24.8742487
+  },
+  {
+    "id": "AG-SPITALUL SFANTUL NICOLAE SRL",
+    "name": "SPITALUL SFANTUL NICOLAE RADIOTERAPIE- RECUPERARE",
+    "lat": 44.8387599,
+    "lng": 24.8850542
+  },
+  {
+    "id": "AG-SPITALUL SF SPIRIDON MIOVENI",
+    "name": "Spitalul Orasenesc Mioveni",
+    "lat": 44.9691423,
+    "lng": 24.960527
+  },
+  {
+    "id": "AR-CENTRUL MEDICAL ONCOHELP S.R.L.",
+    "name": "Oncohelp",
+    "lat": 45.7388537,
+    "lng": 21.217943
+  },
+  {
+    "id": "AR-SC LASER HOSPICE SRL",
+    "name": "Centrul Medical Laser System",
+    "lat": 46.180828,
+    "lng": 21.308422
+  },
+  {
+    "id": "AR-SPITAL DE RECUPERARE NEUROPSIHOMOTORIE \"DR. CORNELIU BARSAN\" DEZNA",
+    "name": "Spitalul de Recuperare Neuromotorie \"Dr. Corneliu Barsan\"",
+    "lat": 46.4100663,
+    "lng": 22.2439547
+  },
+  {
+    "id": "AR-SPITALUL CLINIC JUDETEAN DE URGENTA ARAD",
+    "name": "Spitalul Clinic Judetean de Urgenta Arad",
+    "lat": 46.1835447,
+    "lng": 21.30917
+  },
+  {
+    "id": "AR-SPITALUL ORASENESC INEU",
+    "name": "Spitalul Orasenesc Ineu",
+    "lat": 46.422682,
+    "lng": 21.833825
+  },
+  {
+    "id": "AR-SPITALUL ORASENESC  LIPOVA",
+    "name": "Spital",
+    "lat": 46.0912267,
+    "lng": 21.6922472
+  },
+  {
+    "id": "AR-SPITALUL  ORASENESC SEBIS",
+    "name": "Spital Sebis",
+    "lat": 46.3722424,
+    "lng": 22.1313026
+  },
+  {
+    "id": "B-ANGIOMEDICA-NOI STIM CE AI PE INIMA SRL",
+    "name": "Spitalul Angiomedica",
+    "lat": 44.4520549,
+    "lng": 26.1158332
+  },
+  {
+    "id": "B-BAU M.A.N. CONSTRUCT",
+    "name": "Bauman Grup",
+    "lat": 44.450412,
+    "lng": 26.1151711
+  },
+  {
+    "id": "B-BIODERM MEDICAL CENTER SRL",
+    "name": "BIODERM MEDICAL CENTER",
+    "lat": 44.4471486,
+    "lng": 26.1010825
+  },
+  {
+    "id": "B-CENTRUL DE DIAG SI TRAT PROVITA SA",
+    "name": "Clinica NORD Docentilor",
+    "lat": 44.4630723,
+    "lng": 26.0814971
+  },
+  {
+    "id": "B-CENTRUL METODOLOGIC DE REUMATOLOGIE \"Dr. ION STOIA\" BUCURESTI",
+    "name": "Centrul Clinic de Boli Reumatismale \"Dr. Ion Stoia\"",
+    "lat": 44.4409626,
+    "lng": 26.1054485
+  },
+  {
+    "id": "B-CENTRUL NATIONAL CLINIC DE RECUPERARE NEUROPSIHOMOTORIE PENTRU COPII DR NICOLAE ROBANESCU CNCRNC",
+    "name": "Centrul de Recuperare pentru Copii Robanescu - Padure",
+    "lat": 44.3901074,
+    "lng": 26.1080119
+  },
+  {
+    "id": "B-CETTT SF STELIAN",
+    "name": "Centrul de Evaluare si Tratament a Toxicodependentelor pentru Tineri \"Sfantul Stelian\"",
+    "lat": 44.4493216,
+    "lng": 26.0548133
+  },
+  {
+    "id": "B-GLOBAL MEDICAL ULTRA S.R.L",
+    "name": "Global Medical Health - Clinica de imagistica si diagnostic GMH",
+    "lat": 44.4122187,
+    "lng": 26.1290272
+  },
+  {
+    "id": "B-IMUNOMEDICA PROVITA SRL",
+    "name": "ImunoMedica - Centrul de preventie, diagnostic si tratament \"Sfantul Ioan Botezatorul\"",
+    "lat": 44.4391397,
+    "lng": 26.0766291
+  },
+  {
+    "id": "B-INSTITUTUL CLINIC FUNDENI",
+    "name": "Institutul Clinic Fundeni",
+    "lat": 44.4637919,
+    "lng": 26.1528371
+  },
+  {
+    "id": "B-INSTITUTUL DE BOLI INFECTIOASE \"Dr. MATEI BALS\"",
+    "name": "Institutul National de Boli Infectioase \"Prof. Dr. Matei Bals\"",
+    "lat": 44.4552889,
+    "lng": 26.1139908
+  },
+  {
+    "id": "B-INSTITUTUL DE FONOAUDIOLOGIE SI CHIRURGIE FUNCTIONALA ORL PROF DR D HOCIOTA - IFACF",
+    "name": "Institutul de Fonoaudiologie si Chirurgie Functionala O.R.L. \"Prof. Dr. Dorin Hociota\"",
+    "lat": 44.4256214,
+    "lng": 26.0745384
+  },
+  {
+    "id": "B-INSTITUTUL DE PNEUMOFTIZIOLOGIE MARIUS NASTA",
+    "name": "Institutul de Pneumoftiziologie \"Marius Nasta\"",
+    "lat": 44.4074201,
+    "lng": 26.092009
+  },
+  {
+    "id": "B-INSTITUTUL DE URGENTA PENTRU BOLI CARDIOVASCULARE PROF DR CC ILIESCU",
+    "name": "Institutul de Urgenta pentru Boli Cardiovasculare C.C. Iliescu",
+    "lat": 44.4651479,
+    "lng": 26.1531585
+  },
+  {
+    "id": "B-INSTITUTUL NATIONAL DE DIABET NUTRITIE SI BOLI METABOLICE PROF DR.N.PAULESCU",
+    "name": "Institutul National de Diabet, Nutritie si Boli Metabolice \"Prof. Dr. N. C. Paulescu\"",
+    "lat": 44.4446079,
+    "lng": 26.110544
+  },
+  {
+    "id": "B-INSTITUTUL NATIONAL DE ENDOCRINOLOGIE CI PARHON",
+    "name": "Institutul National de Endocrinologie \"C.I. Parhon\"",
+    "lat": 44.4604422,
+    "lng": 26.086907
+  },
+  {
+    "id": "B-INSTITUTUL NATIONAL DE GERONTOLOGIE SI GERIATRIE ANA ASLAN",
+    "name": "Institutul National de Gerontologie si Geriatrie \"Ana Aslan\"",
+    "lat": 44.4566107,
+    "lng": 26.0742541
+  },
+  {
+    "id": "B-INSTITUTUL NATIONAL DE NEUROLOGIE SI BOLI NEUROVASCULARE",
+    "name": "Institutul National de Neurologie si Boli Neurovasculare",
+    "lat": 44.3872447,
+    "lng": 26.1251569
+  },
+  {
+    "id": "B-INSTITUTUL NATIONAL DE RECUPERARE, MEDICINA FIZICA SI BALNEOCLIMATOLOGIE",
+    "name": "Institutul National de Recuperare, Medicina Fizica si Balneoclimatologie",
+    "lat": 44.4310232,
+    "lng": 26.0986092
+  },
+  {
+    "id": "B-INSTITUTUL NATIONAL PENTRU SANATATEA MAMEI SI COPILULUI ALLESANDRESCU RUSESCU",
+    "name": "Institutul National pentru Sanatatea Mamei si Copilului \"Alessandrescu-Rusescu\"",
+    "lat": 44.4627743,
+    "lng": 26.1228644
+  },
+  {
+    "id": "B-INSTITUTUL ONCOLOGIC PROF DR AL TRESTIOREANU",
+    "name": "Institutul Oncologic Bucuresti Profesor Doctor Alexandru Trestioreanu",
+    "lat": 44.4634244,
+    "lng": 26.1575403
+  },
+  {
+    "id": "B-MEDIC LINE BUSINESS HEALTH SRL",
+    "name": "Medic Line Barbu Vacarescu",
+    "lat": 44.4564414,
+    "lng": 26.1063167
+  },
+  {
+    "id": "B-MED LIFE SA SUCURSALA BUCURESTI",
+    "name": "Hyperclinica MedLife Medical Park",
+    "lat": 44.464067,
+    "lng": 26.0551644
+  },
+  {
+    "id": "B-MONZA ARES SRL",
+    "name": "MONZA ARES Bucuresti",
+    "lat": 44.4389246,
+    "lng": 26.1491344
+  },
+  {
+    "id": "B-OCULARCARE SRL",
+    "name": "Clinica de Oftalmologie OCULARCARE - Consultatii, Investigatii, Interventii si Optica Medicala",
+    "lat": 44.4649674,
+    "lng": 26.0690949
+  },
+  {
+    "id": "B-REVERA ASSISTED S.R.L.",
+    "name": "C Ingrijire Batrani Domiciliu",
+    "lat": 44.5016102,
+    "lng": 26.0687439
+  },
+  {
+    "id": "B-SC AIS CLINCS&HOSPITAL SRL",
+    "name": "AIS CLINICS & HOSPITAL ALEXANDRIEI",
+    "lat": 44.3999343,
+    "lng": 26.0482605
+  },
+  {
+    "id": "B-SC CLINICA \"SF. LUCIA\" SRL",
+    "name": "Royal Hospital Bucharest",
+    "lat": 44.4057406,
+    "lng": 26.1370015
+  },
+  {
+    "id": "B-SC CM MUNPOSAN 94 SRL",
+    "name": "M Hospital",
+    "lat": 44.4442526,
+    "lng": 26.0731433
+  },
+  {
+    "id": "B-SC GRAL MEDICAL SRL",
+    "name": "GRAL Medical",
+    "lat": 44.4508945,
+    "lng": 26.1213218
+  },
+  {
+    "id": "B-SC MEDEUROPA SRL",
+    "name": "MedEuropa Bucuresti - Radioterapie si Oncologie Medicala",
+    "lat": 44.443695,
+    "lng": 26.1667919
+  },
+  {
+    "id": "B-SC MEDICAL CITY BLUE SRL",
+    "name": "Clinica NORD Alexandrina",
+    "lat": 44.4646614,
+    "lng": 26.0834062
+  },
+  {
+    "id": "B-S.C. SANADOR SRL",
+    "name": "Clinica Sanador Victoriei Corp B",
+    "lat": 44.4500492,
+    "lng": 26.0817204
+  },
+  {
+    "id": "B-SPITALUL CL COMF PROF DR D THEODORESCU",
+    "name": "Spitalul Clinic de Chirurgie Oro-Maxilo-Faciala \"Prof. Dr. Dan Theodorescu\"",
+    "lat": 44.4355647,
+    "lng": 26.0855266
+  },
+  {
+    "id": "B-SPITALUL CL COPII DR V GOMOIU",
+    "name": "Spitalul Clinic de Copii \"Dr. Victor Gomoiu\"",
+    "lat": 44.4330325,
+    "lng": 26.1422323
+  },
+  {
+    "id": "B-SPITALUL CLINIC CF NR 2",
+    "name": "Spitalul Clinic \"CF 2\"",
+    "lat": 44.4739687,
+    "lng": 26.0701298
+  },
+  {
+    "id": "B-SPITALUL CLINIC COLENTINA",
+    "name": "Spitalul Clinic Colentina",
+    "lat": 44.4536293,
+    "lng": 26.1139467
+  },
+  {
+    "id": "B-SPITALUL CLINIC COLTEA",
+    "name": "Spitalul Clinic Coltea",
+    "lat": 44.4345143,
+    "lng": 26.1038073
+  },
+  {
+    "id": "B-SPITALUL CLINIC DE BOLI INFECTIOASE SI TROPICALE DR VICTOR BABES",
+    "name": "Spitalul Clinic de Boli Infectioase si tropicale \"Dr. Victor Babes\"",
+    "lat": 44.4277417,
+    "lng": 26.1392986
+  },
+  {
+    "id": "B-SPITALUL CLINIC DE NEFROLOGIE DR CAROL DAVILA",
+    "name": "Spitalul Clinic de Nefrologie Doctor Carol Davila",
+    "lat": 44.4446575,
+    "lng": 26.0898028
+  },
+  {
+    "id": "B-SPITALUL CLINIC DE ORTOPEDIE-TRAUMATOLOGIE \"FOISOR\" BUCURESTI",
+    "name": "Spitalul Clinic de Ortopedie, Traumatologie si TBC Osteoarticular \"Foisor\" Bucuresti",
+    "lat": 44.440842,
+    "lng": 26.1210448
+  },
+  {
+    "id": "B-Spitalul Clinic de Psihiatrie Prof. Dr. Al. Obregia",
+    "name": "Spitalul Clinic de Psihiatrie \"Al Obregia\"",
+    "lat": 44.3873798,
+    "lng": 26.1271342
+  },
+  {
+    "id": "B-SPITALUL CLINIC DE URGENTA \"BAGDASAR ARSENI\"",
+    "name": "Spitalul Clinic de Urgenta Bagdasar-Arseni",
+    "lat": 44.3854748,
+    "lng": 26.1279391
+  },
+  {
+    "id": "B-SPITALUL CLINIC DE URGENTA FLOREASCA",
+    "name": "Spitalul Clinic de Urgenta Bucuresti",
+    "lat": 44.4538907,
+    "lng": 26.1016874
+  },
+  {
+    "id": "B-SPITALUL CLINIC DE URGENTA PENTRU COPII MS CURIE",
+    "name": "Spitalul Clinic de Urgenta pentru Copii \"Maria Sklodowska Curie\"",
+    "lat": 44.3894219,
+    "lng": 26.109453
+  },
+  {
+    "id": "B-SPITALUL CLINIC DE URGENTA PT COPII GRIGORE ALEXANDRESCU",
+    "name": "Spitalul Clinic de Urgenta pentru Copii \"Grigore Alexandrescu\"",
+    "lat": 44.4522787,
+    "lng": 26.0928101
+  },
+  {
+    "id": "B-SPITALUL CLINIC DE URGENTA SF IOAN",
+    "name": "Spitalul Clinic de Urgenta \"Sfantul Ioan\" Bucuresti",
+    "lat": 44.3906774,
+    "lng": 26.1439447
+  },
+  {
+    "id": "B-SPITALUL CLINIC DE URGENTA SF. PANTELIMON",
+    "name": "Spitalul Clinic de Urgenta \"Sfantul Pantelimon\"",
+    "lat": 44.4412951,
+    "lng": 26.1730302
+  },
+  {
+    "id": "B-Spitalul Clinic de Urgente Oftalmologice",
+    "name": "Spitalul Clinic de Urgente Oftalmologice",
+    "lat": 44.445895,
+    "lng": 26.1001214
+  },
+  {
+    "id": "B-SPITALUL CLINIC DR I CANTACUZINO",
+    "name": "Spitalul Clinic \"Dr. Ion Cantacuzino\"",
+    "lat": 44.4448177,
+    "lng": 26.1098911
+  },
+  {
+    "id": "B-SPITALUL CLINIC FILANTROPIA",
+    "name": "Spitalul Clinic de Obstetrica si Ginecologie Filantropia",
+    "lat": 44.4531506,
+    "lng": 26.0822911
+  },
+  {
+    "id": "B-SPITALUL CLINIC \"NICOLAE MALAXA\" BUCURESTI",
+    "name": "Spitalul Clinic Nicolae Malaxa",
+    "lat": 44.4383968,
+    "lng": 26.1787433
+  },
+  {
+    "id": "B-SPITALUL CL OG DR P SARBU",
+    "name": "Maternitatea Giulesti",
+    "lat": 44.449871,
+    "lng": 26.060202
+  },
+  {
+    "id": "B-SPITALUL CL PROF DR T BURGHELE",
+    "name": "Spitalul Clinic \"Prof. Dr. Theodor Burghele\"",
+    "lat": 44.425694,
+    "lng": 26.0729609
+  },
+  {
+    "id": "B-SPITALUL CL URG CHIR PL REP SI ARSURI",
+    "name": "Spitalul Clinic de Urgenta Chirurgie Plastica, Reparatorie si Arsuri",
+    "lat": 44.463866,
+    "lng": 26.0559953
+  },
+  {
+    "id": "B-Spitalul de Bolnavi Cronici Si Geriatrie Sf. Luca",
+    "name": "Spitalul de Boli Cronice \"Sf. Luca\"",
+    "lat": 44.3840703,
+    "lng": 26.1291933
+  },
+  {
+    "id": "B-SPITALUL DE ONCOLOGIE MONZA S.R.L.",
+    "name": "Spitalul MONZA",
+    "lat": 44.4389012,
+    "lng": 26.1490997
+  },
+  {
+    "id": "B-Spitalul de Pneumoftiziologie Sf. Stefan",
+    "name": "Spitalul de Pneumoftiziologie \"Sf. Stefan\"",
+    "lat": 44.4536286,
+    "lng": 26.1054184
+  },
+  {
+    "id": "B-Spitalul de Psihiatrie Dr. Constantin Gorgos",
+    "name": "Spitalul de Psihiatrie Titan \"Dr. Constantin Gorgos\"",
+    "lat": 44.4203575,
+    "lng": 26.1659947
+  },
+  {
+    "id": "B-SPITALUL UNIVERSITAR CF WITING",
+    "name": "Spitalul Clinic Nr.1 CF Witting",
+    "lat": 44.4427565,
+    "lng": 26.0719457
+  },
+  {
+    "id": "B-SPITALUL UNIVERSITAR DE URGENTA",
+    "name": "Spitalul Universitar de Urgenta Bucuresti",
+    "lat": 44.4361236,
+    "lng": 26.0719734
+  },
+  {
+    "id": "B-SPITALUL UNIVERSITAR DE URGENTA ELIAS",
+    "name": "Spitalul Universitar de Urgenta Elias",
+    "lat": 44.4662457,
+    "lng": 26.0737612
+  },
+  {
+    "id": "BC-CLINICA NEWMEDICS SRL- PUNCT DE LUCRU BACAU",
+    "name": "Clinica NewMedics Bacau",
+    "lat": 46.5707487,
+    "lng": 26.9090782
+  },
+  {
+    "id": "BC-SC CARDIOMED SRL",
+    "name": "Cardiomed",
+    "lat": 46.278546,
+    "lng": 26.614529
+  },
+  {
+    "id": "BC-SC CIN MED SRL",
+    "name": "Clinica Medicala Neacsu Ciprian Iulian",
+    "lat": 46.5002771,
+    "lng": 26.1996521
+  },
+  {
+    "id": "BC-SC ELYTIS CARE SRL",
+    "name": "Elytis Hospital Bacau",
+    "lat": 46.5427884,
+    "lng": 26.9212672
+  },
+  {
+    "id": "BC-SPINAL CARE DOBRECI SRL",
+    "name": "Clinica Spinal Care Bacau",
+    "lat": 46.5668506,
+    "lng": 26.9031242
+  },
+  {
+    "id": "BC-SPITALUL DE PNEUMOFTIZIOLOGIE BACAU",
+    "name": "Spitalul de Pneumoftiziologie",
+    "lat": 46.5641567,
+    "lng": 26.8999675
+  },
+  {
+    "id": "BC-SPITALUL JUDETEAN DE URGENTA BACAU",
+    "name": "Spitalul Judetean de Urgenta Bacau",
+    "lat": 46.5562244,
+    "lng": 26.9106189
+  },
+  {
+    "id": "BC-SPITALUL MUNICIPAL DE URGENTA MOINESTI",
+    "name": "Spitalul Clinic Municipal de Urgenta Moinesti",
+    "lat": 46.4764311,
+    "lng": 26.4882886
+  },
+  {
+    "id": "BC-SPITALUL MUNICIPAL SF. IERARH DOCTOR LUCA ONESTI",
+    "name": "Spitalul Municipal \"Sf. Ierarh Dr. Luca\" Onesti",
+    "lat": 46.2536379,
+    "lng": 26.7649546
+  },
+  {
+    "id": "BC-SPITALUL ORASENESC BUHUSI",
+    "name": "Spitalul \"Prof. dr. Eduard Apetrei\" Buhusi",
+    "lat": 46.7201681,
+    "lng": 26.7083146
+  },
+  {
+    "id": "BC-SPITALUL ORASENESC \"IOAN LASCAR\"  COMANESTI",
+    "name": "Spitalul Orasenesc \"Ioan Lascar\" Comanesti",
+    "lat": 46.41896,
+    "lng": 26.4485369
+  },
+  {
+    "id": "BC-TACO HOSPITAL SRL",
+    "name": "TACO HOSPITAL SRL",
+    "lat": 46.5705425,
+    "lng": 26.9316004
+  },
+  {
+    "id": "BH-Centrul Medical Unirea pct de lucru Oradea",
+    "name": "Reteaua de Sanatate REGINA MARIA - Policlinica Endodigest",
+    "lat": 47.0710865,
+    "lng": 21.9290869
+  },
+  {
+    "id": "BH-CENTRUL VASCULAR VENUS SRL",
+    "name": "Centrul Vascular Venus S.R.L.",
+    "lat": 47.0507584,
+    "lng": 21.9499125
+  },
+  {
+    "id": "BH-CLINICA LAVINIA DAVIDESCU SRL",
+    "name": "Clinica Lavinia Davidescu Oradea",
+    "lat": 47.0591458,
+    "lng": 21.9406855
+  },
+  {
+    "id": "BH-PRESIDENT PREMIUM MEDCENTER S.A.",
+    "name": "President Premium Medcenter",
+    "lat": 46.9802395,
+    "lng": 21.9806386
+  },
+  {
+    "id": "BH-SC MEDEUROPA SRL -PCT LUCRU ORADEA",
+    "name": "MedEuropa - Centru de Radioterapie si Oncologie Medicala",
+    "lat": 47.064026,
+    "lng": 21.9141062
+  },
+  {
+    "id": "BH-SP. CLINIC DE RECUPERARE MEDICALA BAILE FELIX",
+    "name": "Spitalul Clinic de Recuperare Medicala Baile Felix",
+    "lat": 46.9907719,
+    "lng": 21.9830918
+  },
+  {
+    "id": "BH-SPITALUL CLINIC JUDETEAN DE URGENTA ORADEA",
+    "name": "Spitalul Clinic Judetean de Urgenta Oradea",
+    "lat": 47.0642555,
+    "lng": 21.9540723
+  },
+  {
+    "id": "BH-SPITALUL GENERAL CF ORADEA",
+    "name": "Spitalul Clinic CFR Oradea",
+    "lat": 47.0671266,
+    "lng": 21.935813
+  },
+  {
+    "id": "BH-SPITALUL MUN.DR. POP MIRCEA",
+    "name": "Spitalul Municipal Dr. Pop Mircea",
+    "lat": 47.3485246,
+    "lng": 22.3377552
+  },
+  {
+    "id": "BH-SPITALUL MUNICIPAL \"EP.N.POPOVICI\" BEIUS",
+    "name": "SPITALUL MUNICIPAL EP. NICOLAE POPOVICI",
+    "lat": 46.6695513,
+    "lng": 22.3502415
+  },
+  {
+    "id": "BH-SPITALUL MUNICIPAL SALONTA",
+    "name": "Spitalul Municipal Salonta",
+    "lat": 46.8050178,
+    "lng": 21.6690054
+  },
+  {
+    "id": "BH-SPITALUL ORASENESC ALESD",
+    "name": "Spitalul Orasenesc Alesd",
+    "lat": 47.0600767,
+    "lng": 22.3938906
+  },
+  {
+    "id": "BH-SPITALUL ORASENESC STEI",
+    "name": "Spitalul Orasenesc Stei",
+    "lat": 46.5352324,
+    "lng": 22.458517
+  },
+  {
+    "id": "BN-CLINICA SANOVIL",
+    "name": "Clinica Sanovil",
+    "lat": 47.1145408,
+    "lng": 24.4628495
+  },
+  {
+    "id": "BN-HARD MED SOLUTIONS SRL",
+    "name": "HARDMED - Spital-Policlinica-Centre Medicale",
+    "lat": 47.1442501,
+    "lng": 24.5001556
+  },
+  {
+    "id": "BN-SPITAL JUDETEAN",
+    "name": "Spitalul Judetean de Urgenta Bistrita",
+    "lat": 47.1404779,
+    "lng": 24.5066563
+  },
+  {
+    "id": "BN-SPITAL ORASENESC BECLEAN",
+    "name": "Spitalul Orasenesc Beclean",
+    "lat": 47.1830664,
+    "lng": 24.1857658
+  },
+  {
+    "id": "BN-SPITAL ORASENESC NASAUD",
+    "name": "Spitalul Orasenesc \"Dr. George Trifon\" Nasaud",
+    "lat": 47.2836382,
+    "lng": 24.4093889
+  },
+  {
+    "id": "BR-SPITALUL DE PNEUMOFTIZIOLOGIE",
+    "name": "Spitalul de Pneumoftiziologie",
+    "lat": 45.2695131,
+    "lng": 27.970121
+  },
+  {
+    "id": "BR-SPITALUL DE PSIHIATRIE",
+    "name": "Spitalul de Psihiatrie \"Sfantul Pantelimon\" Braila",
+    "lat": 45.2624258,
+    "lng": 27.9618365
+  },
+  {
+    "id": "BR-SPITALUL JUDETEAN DE URGENTA BRAILA",
+    "name": "Spitalul Clinic Judetean de Urgenta Braila",
+    "lat": 45.2527766,
+    "lng": 27.9409124
+  },
+  {
+    "id": "BR-SPITALUL ORASENESC FAUREI",
+    "name": "Spitalul Orasenesc",
+    "lat": 45.0850324,
+    "lng": 27.2742866
+  },
+  {
+    "id": "BT-SPITALUL DE RECUPERARE SF. GHEORGHE",
+    "name": "Spitalul de Recuperare \"Sfantul Gheorghe\"",
+    "lat": 47.7531346,
+    "lng": 26.6363938
+  },
+  {
+    "id": "BT-SPITALUL JUDETEAN \"MAVROMATI\"",
+    "name": "Spitalul Judetean de Urgenta \"Mavromati\"",
+    "lat": 47.7408816,
+    "lng": 26.6613642
+  },
+  {
+    "id": "BT-SPITALUL MUNICIPAL DOROHOI",
+    "name": "Spitalul Municipal \"Academician Leon Danaila\" Dorohoi",
+    "lat": 47.9457795,
+    "lng": 26.4034027
+  },
+  {
+    "id": "BV-MEDEUROPA SRL-PUNCT DE LUCRU",
+    "name": "MedEuropa Brasov - Centru de Radioterapie",
+    "lat": 45.6636657,
+    "lng": 25.6175518
+  },
+  {
+    "id": "BV-OLD CARE ANGEL SRL",
+    "name": "Centrul Angel",
+    "lat": 45.6382815,
+    "lng": 25.6119908
+  },
+  {
+    "id": "BV-ONCO CARD SRL",
+    "name": "Spitalul de Oncologie MedLife Brasov",
+    "lat": 45.6559463,
+    "lng": 25.575737
+  },
+  {
+    "id": "BV-SC DIABET CENTER SRL",
+    "name": "Metamed ( Centrul de Diabet si Nutritie )",
+    "lat": 45.6425585,
+    "lng": 25.6180648
+  },
+  {
+    "id": "BV-SPITAL CLINIC DE PNEUMOFTIZIOLOGIE BRASOV",
+    "name": "Spitalul Clinic de Pneumoftiziologie",
+    "lat": 45.6429853,
+    "lng": 25.5738109
+  },
+  {
+    "id": "BV-SPITAL CLINIC DE PSIHIATRIE SI NEUROLOGIE BRASOV",
+    "name": "Spitalul Clinic de Psihiatrie si Neurologie Brasov",
+    "lat": 45.6379828,
+    "lng": 25.5849024
+  },
+  {
+    "id": "BV-SPITALUL CLINIC DE URGENTA PENTRU COPII BRASOV",
+    "name": "Spitalul Clinic de Copii",
+    "lat": 45.6568234,
+    "lng": 25.5869029
+  },
+  {
+    "id": "BV-SPITALUL DE OBSTETRICA-GINECOLOGIE \"DR.ION SBARCEA\" BRASOV",
+    "name": "Spitalul Clinic de Obstetrica Ginecologie \"Dr. I.A. Sbarcea\" Brasov",
+    "lat": 45.6406742,
+    "lng": 25.5850168
+  },
+  {
+    "id": "BV-SPITALUL GENERAL CF BRASOV",
+    "name": "Spitalul Clinic CFR Brasov",
+    "lat": 45.6489047,
+    "lng": 25.6060723
+  },
+  {
+    "id": "BV-SPITALUL JUDETEAN DE URGENTA BRASOV",
+    "name": "Spitalul Clinic Judetean de Urgenta",
+    "lat": 45.6485945,
+    "lng": 25.6205779
+  },
+  {
+    "id": "BV-SPITALUL MUNICIPAL CODLEA",
+    "name": "Spitalul Municipal",
+    "lat": 45.7026004,
+    "lng": 25.4473033
+  },
+  {
+    "id": "BV-SPITALUL MUNICIPAL DR- AUREL TULBURE FAGARAS",
+    "name": "Spitalul Municipal Fagaras",
+    "lat": 45.8408631,
+    "lng": 24.95827
+  },
+  {
+    "id": "BV-SPITALUL MUNICIPAL SACELE",
+    "name": "Spitalul Municipal Sacele",
+    "lat": 45.6108224,
+    "lng": 25.7168978
+  },
+  {
+    "id": "BV-SPITALUL ORASENESC RUPEA",
+    "name": "Spitalul Orasenesc Rupea",
+    "lat": 46.0375806,
+    "lng": 25.2207695
+  },
+  {
+    "id": "BV-SPITALUL ORASENESC VICTORIA",
+    "name": "Spitalul Orasenesc Victoria",
+    "lat": 45.7258816,
+    "lng": 24.7058722
+  },
+  {
+    "id": "BV-SPITALUL ORASENESC ZARNESTI",
+    "name": "Spitalul Doctor Caius Tiberiu Sparchez",
+    "lat": 45.5703878,
+    "lng": 25.3366817
+  },
+  {
+    "id": "BZ-AMAMED EXPERT CENTER SRL",
+    "name": "Amamed Expert Center",
+    "lat": 45.3860132,
+    "lng": 27.0508719
+  },
+  {
+    "id": "BZ-Spitalul CF Galati - Sectia exterioara CF Buzau",
+    "name": "SPITALUL GENERAL CAI FERATE - GALATI",
+    "lat": 45.1435664,
+    "lng": 26.8364041
+  },
+  {
+    "id": "BZ-Spitalul de Boli Cronice Smeeni",
+    "name": "Spitalul de Boli Cronice Smeeni",
+    "lat": 44.9967268,
+    "lng": 26.8609387
+  },
+  {
+    "id": "BZ-SPITALUL DE PSIHIATRIE SI PENTRU MASURI DE SIGURANTA SAPOCA",
+    "name": "Spitalul de Psihiatrie si pentru Masuri de Siguranta Sapoca",
+    "lat": 45.2386029,
+    "lng": 26.7456175
+  },
+  {
+    "id": "BZ-SPITALUL JUDETEAN BUZAU",
+    "name": "Spitalul Judetean de Urgenta Buzau",
+    "lat": 45.1505811,
+    "lng": 26.8011624
+  },
+  {
+    "id": "BZ-SPITALUL MUNICIPAL RAMNICU SARAT",
+    "name": "Spitalul Municipal",
+    "lat": 45.3789218,
+    "lng": 27.0522338
+  },
+  {
+    "id": "BZ-SPITALUL ORASENESC NEHOIU",
+    "name": "Spitalul Orasenesc Nehoiu",
+    "lat": 45.4201332,
+    "lng": 26.3009512
+  },
+  {
+    "id": "CJ-ANGIOCARE S.R.L.",
+    "name": "Spitalul MONZA ARES",
+    "lat": 46.7667717,
+    "lng": 23.5868088
+  },
+  {
+    "id": "CJ-CENTRUL MEDICAL TRANSILVANIA SRL",
+    "name": "Centrul Medical Transilvania",
+    "lat": 46.7545684,
+    "lng": 23.5836826
+  },
+  {
+    "id": "CJ-CENTRUL MEDICAL UNIREA SRL",
+    "name": "Reteaua de Sanatate REGINA MARIA - Spitalul Cluj",
+    "lat": 46.7724591,
+    "lng": 23.6031032
+  },
+  {
+    "id": "CJ-INSTITUTUL DE UROLOGIE SI TRANSPLANT RENAL CLUJ-NAPOCA",
+    "name": "Institutul Clinic de Urologie si Transplant Renal",
+    "lat": 46.7663822,
+    "lng": 23.5836902
+  },
+  {
+    "id": "CJ-INSTITUTUL INIMII DE URGENTA PENTRU BOLI CARDIOVASCULARE \"NICULAE STANCIOIU\" CLUJ-NAPOCA",
+    "name": "Institutul Inimii Niculae Stancioiu",
+    "lat": 46.7667938,
+    "lng": 23.5834099
+  },
+  {
+    "id": "CJ-INSTITUTUL ONCOLOGIC I CHIRICUTA CLUJ-NAPOCA",
+    "name": "Institutul Oncologic \"Prof. Dr. Ion Chiricuta\" Cluj-Napoca",
+    "lat": 46.7634268,
+    "lng": 23.5874077
+  },
+  {
+    "id": "CJ-INST.REG.DE GASTRO.-HEPATO. \"PROF. DR. O.FODOR\"",
+    "name": "Institutul Regional de Gastroenterologie si Hepatologie Prof. Dr. Octavian Fodor",
+    "lat": 46.7761376,
+    "lng": 23.5923805
+  },
+  {
+    "id": "CJ-POLARIS MEDICAL SA",
+    "name": "Medicover Hospital",
+    "lat": 46.7946739,
+    "lng": 23.4827866
+  },
+  {
+    "id": "CJ-SPITALUL CLINIC DE BOLI INFECTIOASE CLUJ",
+    "name": "Spitalul Clinic de Boli Infectioase",
+    "lat": 46.7604263,
+    "lng": 23.5839605
+  },
+  {
+    "id": "CJ-SPITALUL CLINIC DE RECUPERARE CLUJ-NAPOCA",
+    "name": "Spitalul Clinic de Recuperare",
+    "lat": 46.7548915,
+    "lng": 23.5823162
+  },
+  {
+    "id": "CJ-SPITALUL CLINIC DE URGENTA PENTRU COPII CLUJ-NAPOCA",
+    "name": "Spitalul Clinic de Urgenta pentru Copii Cluj-Napoca",
+    "lat": 46.7668723,
+    "lng": 23.5777947
+  },
+  {
+    "id": "CJ-SPITALUL CLINIC JUDETEAN  DE URGENTA CLUJ-NAPOCA",
+    "name": "Spitalul Clinic Judetean de Urgenta Cluj",
+    "lat": 46.7658357,
+    "lng": 23.5832459
+  },
+  {
+    "id": "CJ-SPITALUL CLINIC MUNICIPAL CLUJ-NAPOCA",
+    "name": "Spitalul Clinic Municipal Cluj-Napoca",
+    "lat": 46.7893483,
+    "lng": 23.6071765
+  },
+  {
+    "id": "CJ-SPITALUL DE PNEUMOFTIZIOLOGIE \"LEON DANIELLO\" CLUJ-NAPOCA",
+    "name": "Spitalul Clinic de Pneumoftiziologie Leon Daniello",
+    "lat": 46.7639388,
+    "lng": 23.5829619
+  },
+  {
+    "id": "CJ-SPITALUL MUNICIPAL DEJ",
+    "name": "Spitalul Municipal",
+    "lat": 47.1418522,
+    "lng": 23.8819584
+  },
+  {
+    "id": "CJ-SPITALUL MUNICIPAL \"DR.CORNEL IGNA\" CAMPIA TURZII",
+    "name": "Spitalul Municipal",
+    "lat": 46.546887,
+    "lng": 23.8822416
+  },
+  {
+    "id": "CJ-SPITALUL MUNICIPAL GHERLA",
+    "name": "Spitalul Municipal Gherla",
+    "lat": 47.0244055,
+    "lng": 23.9046942
+  },
+  {
+    "id": "CJ-SPITALUL MUNICIPAL TURDA",
+    "name": "Spitalul Municipal Turda",
+    "lat": 46.5789976,
+    "lng": 23.7770304
+  },
+  {
+    "id": "CJ-SPITALUL ORASENESC HUEDIN",
+    "name": "Spitalul Orasenesc Huedin",
+    "lat": 46.8627109,
+    "lng": 23.0154832
+  },
+  {
+    "id": "CJ-SPITALUL UNIVERSITAR CF CLUJ",
+    "name": "Spitalul Universitar C.F. Cluj",
+    "lat": 46.7656844,
+    "lng": 23.58728
+  },
+  {
+    "id": "CJ-VALDI MEDICA SRL",
+    "name": "Spitalul MedLife Humanitas Cluj",
+    "lat": 46.7509338,
+    "lng": 23.5716178
+  },
+  {
+    "id": "CL-Spitalul de Pneumoftiziologie Calarasi",
+    "name": "Spitalul Pneumoftiziologie Calarasi",
+    "lat": 44.1936305,
+    "lng": 27.3516631
+  },
+  {
+    "id": "CL-SPITALUL JUDETEAN DE URGENTA \"Dr. POMPEI SAMARIAN\" CALARASI",
+    "name": "Spitalul Judetean de Urgenta \"Dr. Pompei Samarian\"",
+    "lat": 44.1920379,
+    "lng": 27.3275772
+  },
+  {
+    "id": "CL-SPITALUL MUNICIPAL OLTENITA",
+    "name": "Spitalul Municipal Oltenita",
+    "lat": 44.080131,
+    "lng": 26.6338716
+  },
+  {
+    "id": "CS-SPITALUL JUDETEAN RESITA",
+    "name": "Spitalul Judetean de Urgenta Resita",
+    "lat": 45.325177,
+    "lng": 21.8812036
+  },
+  {
+    "id": "CS-SPITALUL MUNICIPAL CARANSEBES",
+    "name": "Spitalul Municipal de Urgenta",
+    "lat": 45.4116276,
+    "lng": 22.2282928
+  },
+  {
+    "id": "CS-SPITALUL ORASENESC MOLDOVA NOUA",
+    "name": "Spitalul Orasenesc Moldova Noua",
+    "lat": 44.7262691,
+    "lng": 21.6229842
+  },
+  {
+    "id": "CS-SPITALUL ORASENESC ORAVITA",
+    "name": "Spitalul Orasenesc Oravita",
+    "lat": 45.0356917,
+    "lng": 21.6885815
+  },
+  {
+    "id": "CS-SPITALUL ORASENESC OTELU ROSU",
+    "name": "Spitalul Municipal Otelu Rosu",
+    "lat": 45.5258536,
+    "lng": 22.3677075
+  },
+  {
+    "id": "CT-ASCLEPIOS SRL",
+    "name": "Centrul Medical Asclepios",
+    "lat": 44.1886124,
+    "lng": 28.652277
+  },
+  {
+    "id": "CT-BRAINAXY CLINIC SRL",
+    "name": "CABINET NEUROLOGIE DOCTOR AXELERAD ANY",
+    "lat": 44.1901795,
+    "lng": 28.6266917
+  },
+  {
+    "id": "CT-CENTRUL MEDICAL UNIREA SRL - SEDIUL SECUNDAR CONSTANTA",
+    "name": "Regina Maria clinica Tomis",
+    "lat": 44.182666,
+    "lng": 28.643289
+  },
+  {
+    "id": "CT-DMZ MEDICAL S.R.L.",
+    "name": "MedAZ - Consumabile Medicale de la A la Z",
+    "lat": 44.4168986,
+    "lng": 26.2308383
+  },
+  {
+    "id": "CT-MEDEUROPA SRL SEDIU SECUNDAR CONSTANTA",
+    "name": "MedEuropa Constanta - Centru de Radioterapie",
+    "lat": 44.2009126,
+    "lng": 28.6138837
+  },
+  {
+    "id": "CT-MEDICAL CERMED SRL",
+    "name": "Cermed",
+    "lat": 44.1735701,
+    "lng": 28.6116868
+  },
+  {
+    "id": "CT-SANATORIUL BALNEAR SI DE RECUPERARE MANGALIA",
+    "name": "Sanatoriul Balnear si de Recuperare Mangalia",
+    "lat": 43.8104606,
+    "lng": 28.5839783
+  },
+  {
+    "id": "CT-SANATORIUL BALNEAR SI DE RECUPERARE TECHIRGHIOL",
+    "name": "Sanatoriul Balnear si de Recuperare Techirghiol",
+    "lat": 44.0494688,
+    "lng": 28.6053089
+  },
+  {
+    "id": "CT-SC ABC MEDICAL CENTER SRL",
+    "name": "ABC Medical Center-Constanta",
+    "lat": 44.1828095,
+    "lng": 28.6365379
+  },
+  {
+    "id": "CT-SC AQUA-MED CONSULTING SRL",
+    "name": "Aqua Clinic",
+    "lat": 44.1865817,
+    "lng": 28.6440821
+  },
+  {
+    "id": "CT-SC POZITRON MEDICAL INVESTIGATION SRL",
+    "name": "Reteaua de Sanatate REGINA MARIA - Policlinica Pozimed",
+    "lat": 44.1821674,
+    "lng": 28.6510007
+  },
+  {
+    "id": "CT-SPITALUL CLINIC CF CONSTANTA",
+    "name": "Spitalul Clinic CFR Constanta",
+    "lat": 44.1655174,
+    "lng": 28.6342408
+  },
+  {
+    "id": "CT-SPITALUL CLINIC DE BOLI INFECTIOASE CONSTANTA",
+    "name": "Spitalul Clinic de Boli Infectioase",
+    "lat": 44.1711725,
+    "lng": 28.6379845
+  },
+  {
+    "id": "CT-SPITALUL CLINIC DE  PNEUMOFTIZIOLOGIE CONSTANTA",
+    "name": "Spitalul Clinic de Pneumoftiziologie Palazu mare",
+    "lat": 44.2309822,
+    "lng": 28.6073483
+  },
+  {
+    "id": "CT-SPITALUL CLINIC DE RECUPERARE, MEDICINA-FIZICA SI BALNEOLOGIE EFORIE NORD",
+    "name": "Efosan",
+    "lat": 44.0678445,
+    "lng": 28.6341118
+  },
+  {
+    "id": "CT-SPITALUL CLINIC JUDETEAN DE URGENTA \" SF. APOSTOL ANDREI\" CONSTANTA",
+    "name": "Spitalul Clinic Judetean de Urgenta Constanta",
+    "lat": 44.186097,
+    "lng": 28.6424088
+  },
+  {
+    "id": "CT-SPITALUL MUNICIPAL MEDGIDIA",
+    "name": "Spitalul Municipal Medgidia",
+    "lat": 44.2397168,
+    "lng": 28.2721406
+  },
+  {
+    "id": "CT-SPITALUL ORASENESC CERNAVODA",
+    "name": "Spitalul Orasenesc",
+    "lat": 44.3416647,
+    "lng": 28.0443781
+  },
+  {
+    "id": "CT-SPITALUL ORASENESC HARSOVA",
+    "name": "Spitalul Orasenesc Harsova",
+    "lat": 44.6912779,
+    "lng": 27.9522938
+  },
+  {
+    "id": "CV-SPITALUL DE CARDIOLOGIE COVASNA",
+    "name": "Spitalul de Recuperare Cardiovasculara Doctor Teculescu - Benedek Covasna",
+    "lat": 45.8452752,
+    "lng": 26.2097534
+  },
+  {
+    "id": "CV-SPITALUL JUDETEAN SF. GHEORGHE",
+    "name": "Dr. Fogolyan Kristof Megyei Surgossegi Korhaz Sepsiszentgyorgy",
+    "lat": 45.8642327,
+    "lng": 25.7799072
+  },
+  {
+    "id": "CV-SPITALUL MUNICIPAL TG. SECUIESC",
+    "name": "Spitalul Municipal Targu Secuiesc / Kezdivasarhelyi Municipiumi Korhaz",
+    "lat": 45.9975597,
+    "lng": 26.1403504
+  },
+  {
+    "id": "CV-SPITALUL ORASENESC BARAOLT",
+    "name": "Spitalul Orasenesc Baraolt",
+    "lat": 46.07253,
+    "lng": 25.59169
+  },
+  {
+    "id": "DB-Spitalul Judetean de Urgenta Targoviste",
+    "name": "Spitalul Judetean de Urgenta Targoviste",
+    "lat": 44.9227388,
+    "lng": 25.4501443
+  },
+  {
+    "id": "DB-Spitalul Municipal Moreni",
+    "name": "Spitalul Municipal Moreni",
+    "lat": 44.9776826,
+    "lng": 25.6465779
+  },
+  {
+    "id": "DB-SPITALUL ORASENESC GAESTI",
+    "name": "Spitalul Gaesti",
+    "lat": 44.7141435,
+    "lng": 25.3385828
+  },
+  {
+    "id": "DB-SPITALUL ORASENESC PUCIOASA",
+    "name": "Spitalul Orasenesc Pucioasa",
+    "lat": 45.0750629,
+    "lng": 25.4351096
+  },
+  {
+    "id": "DJ-Centrul Medical Renasterea SRL",
+    "name": "Renasterea",
+    "lat": 44.329079,
+    "lng": 23.8012986
+  },
+  {
+    "id": "DJ-CENTRUL MEDICAL SF. ANTONIE SRL",
+    "name": "Centrul Medical St. Antonie",
+    "lat": 44.3072733,
+    "lng": 23.8132988
+  },
+  {
+    "id": "DJ-SPITALUL CLINIC C.F.  CRAIOVA",
+    "name": "Spitalul Clinic CFR Craiova",
+    "lat": 44.3139167,
+    "lng": 23.7939898
+  },
+  {
+    "id": "DJ-SPITALUL CLINIC DE BOLI INFECTIOASE SI PNEUMOFTIZIOLOGIE \"VICTOR BABES\" CRAIOVA NR.3",
+    "name": "Spitalul de Boli Infectioase si Pneumoftiziologie \"Victor Babes\" Craiova",
+    "lat": 44.3145591,
+    "lng": 23.8255283
+  },
+  {
+    "id": "DJ-SPITALUL CLINIC DE NEUROPSIHIATRIE CRAIOVA",
+    "name": "Spitalul Clinic de Neuropsihiatrie Craiova",
+    "lat": 44.317577,
+    "lng": 23.8163804
+  },
+  {
+    "id": "DJ-SPITALUL CLINIC MUNICIPAL FILANTROPIA CRAIOVA",
+    "name": "Spitalul Clinic Municipal Filantropia",
+    "lat": 44.3222824,
+    "lng": 23.7913818
+  },
+  {
+    "id": "DJ-SPITALUL DE PNEUMOFTIZIOLOGIE LEAMNA",
+    "name": "Spitalul de Pneumoftiziologie Leamna",
+    "lat": 44.303857,
+    "lng": 23.7014734
+  },
+  {
+    "id": "DJ-SPITALUL \"FILISANILOR\" FILIASI",
+    "name": "Spitalul Filisanilor",
+    "lat": 44.5582961,
+    "lng": 23.5027638
+  },
+  {
+    "id": "DJ-SPITALUL JUDETEAN CLINIC DE URGENTA CRAIOVA",
+    "name": "Spitalul Clinic Judetean de Urgenta Craiova",
+    "lat": 44.305522,
+    "lng": 23.7926289
+  },
+  {
+    "id": "DJ-SPITALUL MUNICIPAL CALAFAT",
+    "name": "Spitalul Municipal",
+    "lat": 43.994036,
+    "lng": 22.9436486
+  },
+  {
+    "id": "DJ-SPITALUL MUNICIPAL \"PROF. DR. IRINEL POPESCU\" BAILESTI",
+    "name": "Spitalul Municipal \"Profesor Doctor Irinel Popescu\"",
+    "lat": 44.0294725,
+    "lng": 23.3496067
+  },
+  {
+    "id": "DJ-SPITALUL ORASENESC ASEZ.BRANC. DABULENI",
+    "name": "Spitalul Orasenesc Asezamintele Brancovenesti Dabuleni",
+    "lat": 43.8011926,
+    "lng": 24.094187
+  },
+  {
+    "id": "DJ-SPITALUL ORASENESC SEGARCEA",
+    "name": "Spitalul Orasenesc Segarcea",
+    "lat": 44.0996321,
+    "lng": 23.743502
+  },
+  {
+    "id": "GJ-SPITALUL JUDETEAN DE URGENTA TG-JIU",
+    "name": "Spitalul Judetean de Urgenta",
+    "lat": 45.0353467,
+    "lng": 23.2796113
+  },
+  {
+    "id": "GJ-SPITALUL ORASENESC BUMBESTI-JIU",
+    "name": "Spitalul Orasenesc",
+    "lat": 45.1807715,
+    "lng": 23.3788417
+  },
+  {
+    "id": "GJ-SPITALUL ORASENESC NOVACI",
+    "name": "Spitalul Orasenesc",
+    "lat": 45.17353,
+    "lng": 23.6616741
+  },
+  {
+    "id": "GJ-SPITALUL ORASENESC ROVINARI",
+    "name": "Spitalul Orasenesc Sfantul Stefan",
+    "lat": 44.8989855,
+    "lng": 23.1629923
+  },
+  {
+    "id": "GJ-SPITALUL ORASENESC TARGU-CARBUNESTI",
+    "name": "Spitalul Orasenesc Targu Carbunesti",
+    "lat": 44.9624796,
+    "lng": 23.5137762
+  },
+  {
+    "id": "GL-DIAMED OBESITY SRL",
+    "name": "DIAMED OBESITY SRL",
+    "lat": 45.4339554,
+    "lng": 28.0290479
+  },
+  {
+    "id": "GL-FIZIOACTIV S.R.L",
+    "name": "Terra Clinique",
+    "lat": 45.4305006,
+    "lng": 28.0470849
+  },
+  {
+    "id": "GL-SPITALUL CFR GALATI",
+    "name": "Spitalul Clinic CFR Galati",
+    "lat": 45.4389965,
+    "lng": 28.0614523
+  },
+  {
+    "id": "GL-SPITALUL CLINIC DE BOLI INFECTIOASE \"SF.CUVIOASA PARASCHEVA\" GALATI",
+    "name": "Spitalul de Boli Infectioase \"Sf. Cuvioasa Parascheva\"",
+    "lat": 45.4651538,
+    "lng": 28.0335467
+  },
+  {
+    "id": "GL-SPITALUL DE OBSTETRICA-GINECOLOGIE \"BUNA VESTIRE\" GALATI",
+    "name": "Spitalul de Obstetrica - Ginecologie \"Buna Vestire\"",
+    "lat": 45.4445922,
+    "lng": 28.0437914
+  },
+  {
+    "id": "GL-Spitalul de Pneumoftiziologie",
+    "name": "Spitalul de Pneumoftiziologie (TBC)",
+    "lat": 45.4563871,
+    "lng": 28.046375
+  },
+  {
+    "id": "GL-Spitalul de Psihiatrie Elisabeta Doamna",
+    "name": "Spitalul Clinic de Psihiatrie \"Elisabeta Doamna\"",
+    "lat": 45.4593296,
+    "lng": 28.038961
+  },
+  {
+    "id": "GL-SPITALUL JUDETEAN DE URGENTA \"SF. APOSTOL ANDREI\" GALATI",
+    "name": "Spitalul Clinic Judetean de Urgenta Sfantul Apostol Andrei",
+    "lat": 45.4198282,
+    "lng": 28.0189584
+  },
+  {
+    "id": "GL-SPITALUL MUNICIPAL \"ANTON CINCU\" TECUCI",
+    "name": "Spitalul Municipal \"Anton Cincu\"",
+    "lat": 45.8472489,
+    "lng": 27.4371171
+  },
+  {
+    "id": "GL-SPITALUL ORASENESC TG.BUJOR",
+    "name": "Spitalul Orasenesc Targu Bujor",
+    "lat": 45.8694475,
+    "lng": 27.9127923
+  },
+  {
+    "id": "GL-SPITALUL PENTRU COPII \"SF. IOAN\" GALATI",
+    "name": "Spitalul de Urgenta pentru Copii \"Sfantul Ioan\"",
+    "lat": 45.4311142,
+    "lng": 28.0236185
+  },
+  {
+    "id": "GR-SPITALUL JUDETEAN DE URGENTA GIURGIU",
+    "name": "Spitalul Judetean de Urgenta",
+    "lat": 43.8979455,
+    "lng": 25.9694065
+  },
+  {
+    "id": "GR-SPITALUL ORASENESC BOLINTIN VALE",
+    "name": "Spitalul Orasenesc",
+    "lat": 44.4536483,
+    "lng": 25.8210598
+  },
+  {
+    "id": "HD-MEDICOVER SRL PUNCT DE LUCRU DEVA",
+    "name": "Medicover Laurus Deva",
+    "lat": 45.8755679,
+    "lng": 22.9061909
+  },
+  {
+    "id": "HD-Sanatoriul de Pneumoftiziologie Brad",
+    "name": "Sanatoriul de Pneumoftiziologie Brad",
+    "lat": 46.1352308,
+    "lng": 22.8244769
+  },
+  {
+    "id": "HD-SPITALUL DE URGENTA PETROSANI",
+    "name": "Spitalul Municipal Petrosani",
+    "lat": 45.4075904,
+    "lng": 23.376411
+  },
+  {
+    "id": "HD-SPITALUL GENERAL CF SIMERIA",
+    "name": "Spitalul Clinic CFR Simeria",
+    "lat": 45.8479508,
+    "lng": 23.0148786
+  },
+  {
+    "id": "HD-SPITALUL JUDETEAN DE URGENTA DEVA",
+    "name": "Spitalul Judetean de Urgenta",
+    "lat": 45.8766355,
+    "lng": 22.9048592
+  },
+  {
+    "id": "HD-SPITALUL MUNICIPAL BRAD",
+    "name": "Spitalul Municipal Brad",
+    "lat": 46.1266598,
+    "lng": 22.7904571
+  },
+  {
+    "id": "HD-Spitalul Municipal \"Dr. Alexandru Simionescu\" Hunedoara",
+    "name": "Spitalul Municipal Doctor Alexandru Simionescu",
+    "lat": 45.7497063,
+    "lng": 22.9069082
+  },
+  {
+    "id": "HD-SPITALUL MUNICIPAL LUPENI",
+    "name": "Spitalul Municipal Lupeni",
+    "lat": 45.3549714,
+    "lng": 23.2179179
+  },
+  {
+    "id": "HD-SPITALUL MUNICIPAL ORASTIE",
+    "name": "Spitalul Municipal Orastie",
+    "lat": 45.8421832,
+    "lng": 23.187311
+  },
+  {
+    "id": "HD-SPITALUL  MUNICIPAL VULCAN",
+    "name": "Spitalul Municipal",
+    "lat": 45.3778895,
+    "lng": 23.2938466
+  },
+  {
+    "id": "HR-SPITAL MUNICIPAL TOPLITA",
+    "name": "Spitalul Municipal Toplita",
+    "lat": 46.9222858,
+    "lng": 25.3562436
+  },
+  {
+    "id": "HR-Spitalul de psihiatrie Tulghes",
+    "name": "Spitalul de Psihiatrie Tulghes",
+    "lat": 46.9590773,
+    "lng": 25.7608833
+  },
+  {
+    "id": "HR-SPITALUL JUDETEAN MIERCUREA CIUC",
+    "name": "Spitalul judetean de urgenta Miercurea Ciuc",
+    "lat": 46.3485407,
+    "lng": 25.8079312
+  },
+  {
+    "id": "HR-SPITALUL MUNICIPAL GHEORGHIENI",
+    "name": "Spitalul Municipal Gheorgheni",
+    "lat": 46.7234873,
+    "lng": 25.6022926
+  },
+  {
+    "id": "HR-SPITALUL MUNICIPAL ODORHEIU SECUIESC",
+    "name": "Spitalul Municipal",
+    "lat": 46.3073644,
+    "lng": 25.3003355
+  },
+  {
+    "id": "HR-VISION 2009 SRL",
+    "name": "Szempont Optika",
+    "lat": 46.3074733,
+    "lng": 25.2870924
+  },
+  {
+    "id": "IF-CARDIO-REC SRL",
+    "name": "CardioRec - Auxologico",
+    "lat": 44.5939368,
+    "lng": 26.0421869
+  },
+  {
+    "id": "IF-SPITALUL DE OBSTETRICA GINECOLOGIE BUFTEA",
+    "name": "Spitalul de Obstetrica Ginecologie Buftea",
+    "lat": 44.5764663,
+    "lng": 25.9383437
+  },
+  {
+    "id": "IF-SPITALUL DE PSIHIATRIE \"EFTIMIE DIAMANDESCU\" BALACEANCA",
+    "name": "Spitalul de Psihiatrie \"Eftimie Diamandescu\"",
+    "lat": 44.3913764,
+    "lng": 26.2910518
+  },
+  {
+    "id": "IL-SPITAL MUNICIPAL FETESTI",
+    "name": "SPITALUL MUNICIPAL FETESTI",
+    "lat": 44.4082698,
+    "lng": 27.8278636
+  },
+  {
+    "id": "IL-SPITAL MUNICIPAL URZICENI",
+    "name": "Spitalul Municipal Urziceni",
+    "lat": 44.7114203,
+    "lng": 26.649198
+  },
+  {
+    "id": "IL-SPITALUL JUDETEAN DE URGENTA SLOBOZIA",
+    "name": "Spitalul Judetean de Urgenta Ialomita",
+    "lat": 44.5670985,
+    "lng": 27.3612511
+  },
+  {
+    "id": "IL-SPITALUL ORASENESC TANDAREI",
+    "name": "SPITALUL ORASENESC TANDAREI",
+    "lat": 44.6390765,
+    "lng": 27.6748813
+  },
+  {
+    "id": "IS-ARCADIA HOSPITAL",
+    "name": "Arcadia - Spitale si Centre Medicale",
+    "lat": 47.1577817,
+    "lng": 27.5622222
+  },
+  {
+    "id": "IS-ARCADIA RECUPERARE MEDICALA S.R.L",
+    "name": "Arcadia",
+    "lat": 47.1565743,
+    "lng": 27.5916337
+  },
+  {
+    "id": "IS-ARHIEPISCOPIA IASILOR",
+    "name": "Catedrala Mitropolitana din Iasi",
+    "lat": 47.1615274,
+    "lng": 27.5820173
+  },
+  {
+    "id": "IS-ASOCIATIA \"GLASUL VIETII\"",
+    "name": "Asociatia Glasul Vietii",
+    "lat": 47.1631484,
+    "lng": 27.5867424
+  },
+  {
+    "id": "IS-CARDIO-PRAXIS SRL",
+    "name": "Cardio Praxis",
+    "lat": 47.1722417,
+    "lng": 27.5629468
+  },
+  {
+    "id": "IS-FERTIGYN SRL",
+    "name": "ORIGYN Fertility Center",
+    "lat": 47.1556537,
+    "lng": 27.586264
+  },
+  {
+    "id": "IS-HOSPICE SENIORUM S.R.L.",
+    "name": "Spital SENIORUM",
+    "lat": 47.099958,
+    "lng": 27.6245974
+  },
+  {
+    "id": "IS-INSTITUTUL DE BOLI CARDIOVASCULARE \"PROF.DR. G.I.M. GEORGESCU\" IASI",
+    "name": "Institutul de Boli Cardiovasculare Profesor Doctor George I.M. Georgescu Iasi",
+    "lat": 47.180481,
+    "lng": 27.568949
+  },
+  {
+    "id": "IS-INSTITUTUL  DE PSIHIATRIE SOCOLA IASI",
+    "name": "Institutul de Psihiatrie Socola Iasi",
+    "lat": 47.1282865,
+    "lng": 27.6137629
+  },
+  {
+    "id": "IS-INSTITUTUL REGIONAL DE ONCOLOGIE IASI",
+    "name": "Institutul Regional de Oncologie",
+    "lat": 47.1749401,
+    "lng": 27.5756706
+  },
+  {
+    "id": "IS-MEDEUROPA SRL - PUNCT DE LUCRU IASI",
+    "name": "MedEuropa Iasi - Centru de Radioterapie",
+    "lat": 47.1722769,
+    "lng": 27.561253
+  },
+  {
+    "id": "IS-NOBEZ MEDICAL S.R.L.",
+    "name": "NOBEZ Medical",
+    "lat": 47.1869923,
+    "lng": 27.564265
+  },
+  {
+    "id": "IS-RED HOSPITAL-SPITALUL SF. SAVA S.R.L.",
+    "name": "Spitalul de Balneofizioterapie Recumedis si Paliatie Sf. Sava Iasi",
+    "lat": 47.1416532,
+    "lng": 27.5944768
+  },
+  {
+    "id": "IS-SANOPTIC SRL",
+    "name": "Sanoptic",
+    "lat": 47.1591134,
+    "lng": 27.602633
+  },
+  {
+    "id": "IS-SP. CL. URGENTA  \"PROF. DR. N. OBLU\" IASI",
+    "name": "Spitalul Clinic de Urgenta \"Prof. Dr. Nicolae Oblu\" din Iasi",
+    "lat": 47.161083,
+    "lng": 27.6072464
+  },
+  {
+    "id": "IS-SPITALUL CLINIC CF IASI",
+    "name": "Spitalul Clinic CFR Iasi",
+    "lat": 47.1709307,
+    "lng": 27.5741502
+  },
+  {
+    "id": "IS-SPITALUL CLINIC DE BOLI INFECTIOASE \"SF. PARASCHEVA\" IASI",
+    "name": "Spitalul de Boli Infectioase",
+    "lat": 47.170543,
+    "lng": 27.5843775
+  },
+  {
+    "id": "IS-SPITALUL CLINIC DE PNEUMOFTIZIOLOGIE IASI",
+    "name": "Spitalul Clinic de Pneumoftiziologie",
+    "lat": 47.1695829,
+    "lng": 27.5846787
+  },
+  {
+    "id": "IS-SPITALUL CLINIC DE RECUPERARE IASI",
+    "name": "Spitalul Clinic de Recuperare Iasi",
+    "lat": 47.1494283,
+    "lng": 27.5738299
+  },
+  {
+    "id": "IS-SPITALUL CLINIC DE URGENTA PENTRU COPII \"SF.MARIA\" IASI",
+    "name": "Spitalul Clinic de Urgenta pentru Copii \"Sfanta Maria\"",
+    "lat": 47.1591233,
+    "lng": 27.6074738
+  },
+  {
+    "id": "IS-SPITALUL CLINIC  DR.C.I.PARHON IASI",
+    "name": "Spitalul Clinic Doctor C.I. Parhon",
+    "lat": 47.180312,
+    "lng": 27.5679668
+  },
+  {
+    "id": "IS-SPITALUL CLINIC JUDETEAN DE URGENTA \"SF. SPIRIDON\" IASI",
+    "name": "Spitalul Clinic Judetean de Urgente Sf. Spiridon Iasi",
+    "lat": 47.1685392,
+    "lng": 27.582665
+  },
+  {
+    "id": "IS-SPITALUL CLINIC OBSTETRICA-GINECOLOGIE \"ELENA DOAMNA\" IASI",
+    "name": "Spitalul de Obstetrica - Ginecologie Elena Doamna",
+    "lat": 47.1606371,
+    "lng": 27.5978163
+  },
+  {
+    "id": "IS-SPITALUL DE BOLI CRONICE \"SFANTUL IOAN\" TARGU FRUMOS",
+    "name": "Spitalul de Boli Cronice Sf. Ioan",
+    "lat": 47.2097791,
+    "lng": 27.0187817
+  },
+  {
+    "id": "IS-SPITALUL DE OBSTETRICA-GINECOLOGIE \"CUZA-VODA\" IASI",
+    "name": "Spitalul Clinic de Obstetrica si Ginecologie Cuza Voda",
+    "lat": 47.1634492,
+    "lng": 27.5870773
+  },
+  {
+    "id": "IS-SPITALUL GENERAL CF PASCANI",
+    "name": "Spitalul Clinic CFR Pascani",
+    "lat": 47.2460473,
+    "lng": 26.7210822
+  },
+  {
+    "id": "IS-SPITALUL MUNICIPAL DE URGENTA PASCANI",
+    "name": "Spitalul Municipal Pascani",
+    "lat": 47.2438382,
+    "lng": 26.7255318
+  },
+  {
+    "id": "IS-SPITALUL ORASENESC HARLAU",
+    "name": "Spitalul Orasenesc Harlau",
+    "lat": 47.4303518,
+    "lng": 26.8998206
+  },
+  {
+    "id": "IS-TRANSMED EXPERT SRL",
+    "name": "Transmed Expert",
+    "lat": 47.1682557,
+    "lng": 27.548605
+  },
+  {
+    "id": "MH-ENDODIABET SRL",
+    "name": "Endodiabet",
+    "lat": 44.6312607,
+    "lng": 22.631747
+  },
+  {
+    "id": "MH-SPITALUL GENERAL CAI FERATE DROBETA TURNU SEVERIN",
+    "name": "Spitalul Clinic CFR Drobeta-Turnu Severin",
+    "lat": 44.6235986,
+    "lng": 22.6415407
+  },
+  {
+    "id": "MH-SPITALUL JUDETEAN DE URGENTA DROBETA TURNU SEVERIN",
+    "name": "Spitalul Judetean de Urgenta Drobeta Turnu Severin",
+    "lat": 44.6429436,
+    "lng": 22.6535231
+  },
+  {
+    "id": "MH-SPITALUL MUNICIPAL ORSOVA",
+    "name": "Spital Municipal",
+    "lat": 44.7213803,
+    "lng": 22.396103
+  },
+  {
+    "id": "MH-SPITALUL ORASENESC BAIA DE ARAMA",
+    "name": "Spitalul Orasenesc Baia de Arama",
+    "lat": 44.998098,
+    "lng": 22.8094625
+  },
+  {
+    "id": "MM-Centrul Medical Unirea pct de lucru Baia Mare",
+    "name": "Spitalul Somesan Baia Mare",
+    "lat": 47.6438486,
+    "lng": 23.5824364
+  },
+  {
+    "id": "MM-SPITAL DE PSIHIATRIE CAVNIC",
+    "name": "SPITALUL DE PSIHIATRIE CAVNIC",
+    "lat": 47.6618692,
+    "lng": 23.8391651
+  },
+  {
+    "id": "MM-SPITAL & POLICLINICA SFANTUL IOAN SRL",
+    "name": "Spitalul Sfantul Ioan Baia Mare",
+    "lat": 47.6593402,
+    "lng": 23.5571071
+  },
+  {
+    "id": "MM-SPITALUL DE BOLI INFECTIOSE SI PSIHIATRIE BAIA.MARE",
+    "name": "Spitalul de Boli Infectioase si Psihiatrie Baia Mare",
+    "lat": 47.6613562,
+    "lng": 23.5907737
+  },
+  {
+    "id": "MM-SPITALUL DE RECUPERARE BORSA",
+    "name": "Spitalul de Recuperare Borsa",
+    "lat": 47.6540787,
+    "lng": 24.66632
+  },
+  {
+    "id": "MM-SPITALUL JUDETEAN DE URGENTA \"DR CONSTANTIN OPRIS\" BAIA MARE",
+    "name": "Spitalul Judetean de Urgenta \"Dr. Constantin Opris\"",
+    "lat": 47.6556683,
+    "lng": 23.5543251
+  },
+  {
+    "id": "MM-SPITALUL MUNICIPAL SIGHETU MARMATIEI",
+    "name": "Spitalul Municipal",
+    "lat": 47.9293004,
+    "lng": 23.8755518
+  },
+  {
+    "id": "MM-SPITALUL ORASENESC TARGU LAPUS",
+    "name": "Spitalul Orasenesc Targu Lapus",
+    "lat": 47.4553653,
+    "lng": 23.8617169
+  },
+  {
+    "id": "MM-SPITALUL ORASENESC VISEU DE SUS",
+    "name": "Spitalul Orasenesc Viseu de Sus",
+    "lat": 47.707494,
+    "lng": 24.4252058
+  },
+  {
+    "id": "MM-SPIT.DE PNEUMOFTIZIOLOGIE ,,DR NICOLAE RUSDEA\"",
+    "name": "Spitalul de Pneumoftiziologie Baia Mare",
+    "lat": 47.6627692,
+    "lng": 23.5524524
+  },
+  {
+    "id": "MS-CENTRUL MEDICAL UNIREA SRL BUCURESTI - PUNCT DE LUCRU TG. MURES",
+    "name": "Campus Medical Regina Maria",
+    "lat": 46.5571898,
+    "lng": 24.5784059
+  },
+  {
+    "id": "MS-CENTRUL MEDICONSULT SRL",
+    "name": "Mediconsult",
+    "lat": 46.535408,
+    "lng": 24.5855818
+  },
+  {
+    "id": "MS-DENTOSIM-QUEEN SRL",
+    "name": "Dentosim",
+    "lat": 46.5545122,
+    "lng": 24.5701044
+  },
+  {
+    "id": "MS-INSTITUTUL DE URGENTA PENTRU BOLI CARDIOVASCULARE SI TRANSPLANT TG.MURES",
+    "name": "Institutul de Urgenta pentru Boli Cardiovasculare si Transplant Targu Mures cardiologie infantila",
+    "lat": 46.5592434,
+    "lng": 24.5825146
+  },
+  {
+    "id": "MS-REHABCARE SRL",
+    "name": "Clinica de Medicina Hiperbara",
+    "lat": 46.5451381,
+    "lng": 24.6230781
+  },
+  {
+    "id": "MS-SAN-DORA MED SRL",
+    "name": "Dora Medicals",
+    "lat": 46.5513346,
+    "lng": 24.5646266
+  },
+  {
+    "id": "MS-SPITALUL CLINIC JUDETEAN DE URGENTA TARGU MURES",
+    "name": "Spitalul Clinic Judetean de Urgenta Targu Mures",
+    "lat": 46.5593986,
+    "lng": 24.5825579
+  },
+  {
+    "id": "MS-SPITALUL MUNICIPAL \"DR.EUGEN NICOARA\" REGHIN",
+    "name": "Spitalul Municipal Doctor Eugen Nicoara",
+    "lat": 46.7820649,
+    "lng": 24.6951841
+  },
+  {
+    "id": "MS-SPITALUL MUNICIPAL \" DR.GHEORGHE MARINESCU\" TARNAVENI",
+    "name": "Spitalul Municipal \"Dr. Gheorghe Marinescu\"",
+    "lat": 46.3286382,
+    "lng": 24.2936849
+  },
+  {
+    "id": "MS-SPITALUL MUNICIPAL SIGHISOARA",
+    "name": "Spitalul Municipal Sighisoara",
+    "lat": 46.2206339,
+    "lng": 24.7838743
+  },
+  {
+    "id": "MS-SPITALUL ORASENESC \"DR.VALER RUSSU\"LUDUS",
+    "name": "Spitalul Orasenesc Dr. Valer Russu Ludus Sediul Administrativ",
+    "lat": 46.47532,
+    "lng": 24.09559
+  },
+  {
+    "id": "MS-SPITALUL ORASENESC SG. DE PADURE",
+    "name": "Spital Orasenesc Sangeorgiu de Padure",
+    "lat": 46.4323486,
+    "lng": 24.8383324
+  },
+  {
+    "id": "NT-SPITAL ORASENESC \"SFINTUL DIMITRIE\"TG.NEAMT",
+    "name": "Spitalul Orasenesc Targu Neamt",
+    "lat": 47.2070999,
+    "lng": 26.3597918
+  },
+  {
+    "id": "NT-SPITALUL DE PNEUMOFTIZIOLOGIE BISERICANI",
+    "name": "Spitalul de Pneumoftiziologie Bisericani",
+    "lat": 46.9585277,
+    "lng": 26.2383599
+  },
+  {
+    "id": "NT-SPITALUL DE PSIHIATRIE \"SF. NICOLAE\" ROMAN",
+    "name": "Spitalul Sfantul Nicolae",
+    "lat": 46.9367713,
+    "lng": 26.9409423
+  },
+  {
+    "id": "NT-SPITALUL JUDETEAN DE URGENTA PIATRA NEAMT",
+    "name": "Spitalul Clinic Judetean de Urgenta Piatra Neamt",
+    "lat": 46.9285708,
+    "lng": 26.3735024
+  },
+  {
+    "id": "NT-SPITALUL MUNICIPAL ROMAN",
+    "name": "Spitalul Municipal de Urgenta Roman",
+    "lat": 46.928022,
+    "lng": 26.9309455
+  },
+  {
+    "id": "NT-SPITALUL ORASANESC \"SF. IERARH NICOLAE\" BICAZ",
+    "name": "Spitalul Orasenesc Sfantul Ierarh Nicolae",
+    "lat": 46.9200066,
+    "lng": 26.0859354
+  },
+  {
+    "id": "OT-SC LISIMED SRL",
+    "name": "LISIMED S.R.L.",
+    "lat": 44.1723549,
+    "lng": 24.588089
+  },
+  {
+    "id": "OT-SPITALUL JUDETEAN SLATINA",
+    "name": "Spitalul Judetean de Urgenta Slatina",
+    "lat": 44.4321914,
+    "lng": 24.3670278
+  },
+  {
+    "id": "OT-SPITALUL MUNICIPAL CARACAL",
+    "name": "Spitalul Municipal Caracal",
+    "lat": 44.1165769,
+    "lng": 24.3550871
+  },
+  {
+    "id": "OT-SPITALUL ORASENESC BALS",
+    "name": "Spitalul Orasenesc Bals",
+    "lat": 44.3471044,
+    "lng": 24.1156639
+  },
+  {
+    "id": "OT-SPITALUL ORASENESC CORABIA",
+    "name": "Spitalul Orasenesc",
+    "lat": 43.7733981,
+    "lng": 24.5108117
+  },
+  {
+    "id": "PH-GRAL MEDICAL SRL",
+    "name": "Clinica MC Gral Ploiesti",
+    "lat": 44.941234,
+    "lng": 26.019309
+  },
+  {
+    "id": "PH-S.C. CENTRUL MEDICAL SANCONFIND S.R.L.",
+    "name": "Centru Medical SanConfind",
+    "lat": 45.1287059,
+    "lng": 25.7105907
+  },
+  {
+    "id": "PH-SPITALUL DE BOLI PULMONARE BREAZA",
+    "name": "Spitalul de Boli Pulmonare",
+    "lat": 45.1791735,
+    "lng": 25.6766248
+  },
+  {
+    "id": "PH-SPITALUL DE ORTOPEDIE SI TRAUMATOLOGIE AZUGA",
+    "name": "Spitalul de Ortopedie si Traumatologie",
+    "lat": 45.4265835,
+    "lng": 25.5544913
+  },
+  {
+    "id": "PH-Spitalul de Pneumoftiziologie Floresti",
+    "name": "Spitalul de Pneumoftiziologie Floresti",
+    "lat": 45.0301616,
+    "lng": 25.792333
+  },
+  {
+    "id": "PH-Spitalul de Psihiatrie Voila",
+    "name": "Spitalul de Psihiatrie Voila",
+    "lat": 45.1589477,
+    "lng": 25.749881
+  },
+  {
+    "id": "PH-SPITALUL MUNICIPAL CAMPINA",
+    "name": "Spitalul Municipal Campina (SMC)",
+    "lat": 45.1281164,
+    "lng": 25.732392
+  },
+  {
+    "id": "PH-SPITALUL MUNICIPAL PLOIESTI",
+    "name": "Spitalul Municipal Ploiesti",
+    "lat": 44.9312971,
+    "lng": 26.0201859
+  },
+  {
+    "id": "PH-SPITALUL ORASENESC BAICOI",
+    "name": "Spitalul Orasenesc Baicoi",
+    "lat": 45.0296755,
+    "lng": 25.8379973
+  },
+  {
+    "id": "PH-SPITALUL ORASENESC SFANTA FILOFTEIA MIZIL",
+    "name": "Spitalul Sfanta Filofteia",
+    "lat": 44.9991175,
+    "lng": 26.4399518
+  },
+  {
+    "id": "PH-SPITALUL ORASENESC SINAIA",
+    "name": "Spitalul Orasenesc Sinaia",
+    "lat": 45.333551,
+    "lng": 25.5549925
+  },
+  {
+    "id": "PH-SPITALUL ORASENESC URLATI",
+    "name": "Spitalul Orasenesc Urlati",
+    "lat": 44.9911674,
+    "lng": 26.2404781
+  },
+  {
+    "id": "PH-SPITALUL ORASENESC VALENII DE MUNTE",
+    "name": "Spitalul Orasenesc Valenii de Munte",
+    "lat": 45.1756086,
+    "lng": 26.0350898
+  },
+  {
+    "id": "SB-MISAN MED SRL",
+    "name": "Misan Med",
+    "lat": 45.784382,
+    "lng": 24.154708
+  },
+  {
+    "id": "SB-OPHTA-CONSULT SRL",
+    "name": "Clinica iMed",
+    "lat": 45.7815976,
+    "lng": 24.1574354
+  },
+  {
+    "id": "SB-SPITALUL CLINIC DE PEDIATRIE SIBIU",
+    "name": "Spitalul Clinic de Pediatrie Sibiu",
+    "lat": 45.792758,
+    "lng": 24.147781
+  },
+  {
+    "id": "SB-SPITALUL CLINIC JUDETEAN  DE URGENTA SIBIU",
+    "name": "Spitalul Clinic Judetean de Urgenta Sibiu",
+    "lat": 45.7944924,
+    "lng": 24.1557007
+  },
+  {
+    "id": "SB-SPITALUL DE PNEUMOFTIZIOLOGIE SIBIU",
+    "name": "Spitalul de Pneumoftiziologie",
+    "lat": 45.7948392,
+    "lng": 24.142917
+  },
+  {
+    "id": "SB-SPITALUL DE PSIHIATRIE DR. GH. PREDA SIBIU",
+    "name": "Spitalul de Psihiatrie \"Doctor Gheorghe Preda\"",
+    "lat": 45.808157,
+    "lng": 24.1545109
+  },
+  {
+    "id": "SB-SPITALUL GENERAL CF SIBIU",
+    "name": "Spitalul Clinic CFR Sibiu",
+    "lat": 45.7921132,
+    "lng": 24.15606
+  },
+  {
+    "id": "SB-SPITALUL MUNICIPAL MEDIAS",
+    "name": "Spitalul Municipal",
+    "lat": 46.1635122,
+    "lng": 24.3568526
+  },
+  {
+    "id": "SB-SPITALUL ORASENESC AGNITA",
+    "name": "Spitalul Orasenesc Agnita",
+    "lat": 45.9790606,
+    "lng": 24.6227306
+  },
+  {
+    "id": "SB-SPITALUL ORASENESC CISNADIE",
+    "name": "Spitalul Orasenesc",
+    "lat": 45.7082658,
+    "lng": 24.1449928
+  },
+  {
+    "id": "SJ-SPITAL JUD de URGENTA ZALAU",
+    "name": "Spitalul Judetean de Urgenta Zalau",
+    "lat": 47.1928745,
+    "lng": 23.0515351
+  },
+  {
+    "id": "SJ-SPITALUL DE BOLI CRONICE CRASNA",
+    "name": "Spitalul de Boli Cronice Crasna",
+    "lat": 47.161781,
+    "lng": 22.8806397
+  },
+  {
+    "id": "SJ-SPITALUL ORASENESC JIBOU",
+    "name": "Spitalul Orasenesc",
+    "lat": 47.2589056,
+    "lng": 23.2521709
+  },
+  {
+    "id": "SM-SPITALUL DE PNEUMOFTIZIOLOGIE SATU MARE",
+    "name": "Spitalul de Pneumoftiziologie Satu Mare",
+    "lat": 47.7916492,
+    "lng": 22.8858224
+  },
+  {
+    "id": "SM-SPITALUL JUDETEAN SATU MARE",
+    "name": "Spitalul Judetean de Urgenta",
+    "lat": 47.7825088,
+    "lng": 22.8625275
+  },
+  {
+    "id": "SM-SPITALUL MUNICIPAL CAREI",
+    "name": "Spitalul Municipal Carei",
+    "lat": 47.6813254,
+    "lng": 22.4650697
+  },
+  {
+    "id": "SM-SPITALUL ORASENESC NEGRESTI OAS",
+    "name": "Spitalul Orasenesc",
+    "lat": 47.8718472,
+    "lng": 23.4279126
+  },
+  {
+    "id": "SV-PROVITA PAIN CLINIC S.A.",
+    "name": "Clinica NORD Suceava",
+    "lat": 47.6728364,
+    "lng": 26.2651503
+  },
+  {
+    "id": "SV-SPITALUL DE BOLI CRONICE SIRET",
+    "name": "Spitalul Psihiatrie Cronice Siret",
+    "lat": 47.9498916,
+    "lng": 26.0581065
+  },
+  {
+    "id": "SV-SPITALUL DE PSIHIATRIE CAMPULUNG MOLDOVENESC",
+    "name": "Spitalul de Psihiatrie Campulung Moldovenesc",
+    "lat": 47.5276203,
+    "lng": 25.5599867
+  },
+  {
+    "id": "SV-SPITALUL JUDETEAN DE URGENTA SF.IOAN CEL NOU SUCEAVA",
+    "name": "Spitalul Clinic Judetean de Urgenta \"Sfantul Ioan cel Nou\"",
+    "lat": 47.6385814,
+    "lng": 26.2409217
+  },
+  {
+    "id": "SV-SPITALUL MUNICIPAL CAMPULUNG MOLDOVENESC",
+    "name": "Spitalul Municipal",
+    "lat": 47.5318036,
+    "lng": 25.5437493
+  },
+  {
+    "id": "SV-SPITALUL MUNICIPAL FALTICENI",
+    "name": "Spitalul Municipal",
+    "lat": 47.4618072,
+    "lng": 26.2946679
+  },
+  {
+    "id": "SV-SPITALUL MUNICIPAL RADAUTI",
+    "name": "Spitalul Municipal Radauti",
+    "lat": 47.8375923,
+    "lng": 25.9264523
+  },
+  {
+    "id": "SV-SPITALUL MUNICIPAL VATRA DORNEI",
+    "name": "Spitalul Municipal Vatra Dornei",
+    "lat": 47.3480677,
+    "lng": 25.3582905
+  },
+  {
+    "id": "SV-SPITALUL ORASENESC GURA HUMORULUI",
+    "name": "Spitalul Orasenesc",
+    "lat": 47.554906,
+    "lng": 25.8896217
+  },
+  {
+    "id": "SV-Sp. Psihiatrie cronici Siret",
+    "name": "Spitalul de Psihiatrie",
+    "lat": 47.951102,
+    "lng": 26.0683023
+  },
+  {
+    "id": "TL-CENTRUL MEDICAL UNIREA SRL-TULCEA",
+    "name": "REGINA MARIA Policlinica Centrala",
+    "lat": 45.1770211,
+    "lng": 28.8016411
+  },
+  {
+    "id": "TL-SPITALUL JUDETEAN DE URGENTA TULCEA",
+    "name": "Spitalul Judetean Tulcea",
+    "lat": 45.1739082,
+    "lng": 28.7849683
+  },
+  {
+    "id": "TL-SPITALUL ORASENESC MACIN",
+    "name": "Spitalul Orasenesc",
+    "lat": 45.2454831,
+    "lng": 28.1352996
+  },
+  {
+    "id": "TM-Centrul Medical de Evaluare, Terapie Educatie Medicala Specifica si Recuperare pentru Copii si Tiner",
+    "name": "Centrul Medical Clinic de Evaluare si Recuperare pentru Copii si Adolescenti \"Cristian Serban\"",
+    "lat": 45.6498234,
+    "lng": 21.6100819
+  },
+  {
+    "id": "TM-INSTITUTUL DE BOLI CARDIOVASCULARE TIMISOARA",
+    "name": "Institutul de Boli Cardiovasculare Timisoara",
+    "lat": 45.7692665,
+    "lng": 21.2592675
+  },
+  {
+    "id": "TM-KARDINAL ONE MEDICAL SRL",
+    "name": "Kardinal One Medical",
+    "lat": 45.5148196,
+    "lng": 21.1247468
+  },
+  {
+    "id": "TM-MEDICI'S S.A.",
+    "name": "Spitalul MedLife Medici's",
+    "lat": 45.7406274,
+    "lng": 21.2235666
+  },
+  {
+    "id": "TM-ROCORDIS SRL",
+    "name": "SPITAL DE CARDIOLOGIE ROCORDIS",
+    "lat": 45.7825946,
+    "lng": 21.1991962
+  },
+  {
+    "id": "TM-SC MATERNA CARE SRL",
+    "name": "Reteaua de Sanatate REGINA MARIA - Spitalul Regina Maria Timisoara (Spital Premiere)",
+    "lat": 45.7794375,
+    "lng": 21.2196558
+  },
+  {
+    "id": "TM-SPITAL CLINIC DE URGENTA PENTRU COPII \"LOUIS TURCANU \"",
+    "name": "Spitalul Clinic de Urgenta pentru copii din Timisoara \"Louis Turcanu\"",
+    "lat": 45.7535596,
+    "lng": 21.2219023
+  },
+  {
+    "id": "TM-SPITAL DR. KARL DIEL JIMBOLIA",
+    "name": "Spitalul orasenesc \"Dr. Karl Diel\" Jimbolia",
+    "lat": 45.7823563,
+    "lng": 20.7156724
+  },
+  {
+    "id": "TM-SPITALUL CLINIC CF TIMISOARA",
+    "name": "Spitalul Clinic CFR Timisoara",
+    "lat": 45.7494761,
+    "lng": 21.218527
+  },
+  {
+    "id": "TM-SPITALUL CLINIC DE BOLI INFECTIOASE SI PNEUMOFTIZIOLOGIE DR.V.BABES TIMISOARA",
+    "name": "Spitalul Clinic de Boli Infectioase si Pneumoftiziologie Dr. Victor Babes",
+    "lat": 45.768714,
+    "lng": 21.2597586
+  },
+  {
+    "id": "TM-SPITALUL CLINIC JUDETEAN de URGENTA \"Pius Brinzeu\" Timisoara",
+    "name": "Spitalul Clinic Judetean de Urgenta \"Pius Brinzeu\" Timisoara",
+    "lat": 45.7370071,
+    "lng": 21.2417975
+  },
+  {
+    "id": "TM-SPITALUL CLINIC MUNICIPAL DE URGENTA TIMISOARA",
+    "name": "Spitalul Clinic Municipal de Urgenta Timisoara",
+    "lat": 45.7594431,
+    "lng": 21.2267886
+  },
+  {
+    "id": "TM-SPITALUL DE PSIHIATRIE GATAIA",
+    "name": "Spitalul de Psihiatrie Gataia",
+    "lat": 45.4379093,
+    "lng": 21.4613843
+  },
+  {
+    "id": "TM-SPITALUL MUNICIPAL  Dr. TEODOR  ANDREI LUGOJ",
+    "name": "Spitalul Municipal \"Dr. Teodor Andrei\" Lugoj",
+    "lat": 45.6905419,
+    "lng": 21.8887066
+  },
+  {
+    "id": "TM-SPITALUL ORASENESC DETA",
+    "name": "Spitalul Orasenesc Deta",
+    "lat": 45.3902564,
+    "lng": 21.2227934
+  },
+  {
+    "id": "TM-SPITALUL ORASENESC FAGET",
+    "name": "Spitalul Orasenesc Faget",
+    "lat": 45.844881,
+    "lng": 22.1707883
+  },
+  {
+    "id": "TM-SPITALUL ORASENESC SANNICOLAU MARE AMBULATORIUL DE SPECIALITATE",
+    "name": "Spitalul Orasenesc Sannicolau Mare",
+    "lat": 46.0681538,
+    "lng": 20.6361536
+  },
+  {
+    "id": "TR-SC SPITAL ORASENESC SRL VIDELE",
+    "name": "Spitalul Orasenesc Videle",
+    "lat": 44.2785367,
+    "lng": 25.5164401
+  },
+  {
+    "id": "TR-SPITALUL DE PSIHIATRIE POROSCHIA",
+    "name": "Spitalul de Psihiatrie Poroschia",
+    "lat": 43.9348531,
+    "lng": 25.360062
+  },
+  {
+    "id": "TR-SPITALUL JUDETEAN ALEXANDRIA",
+    "name": "Spitalul Judetean de Urgenta Alexandria",
+    "lat": 43.9796366,
+    "lng": 25.3143922
+  },
+  {
+    "id": "TR-SPITALUL MUNICIPAL CARITAS ROSIORI DE VEDE",
+    "name": "Spitalul Municipal Caritas",
+    "lat": 44.1148708,
+    "lng": 24.988285
+  },
+  {
+    "id": "TR-SPITALUL MUNICIPAL TURNU MAGURELE",
+    "name": "Spitalul Municipal",
+    "lat": 43.7438942,
+    "lng": 24.8686195
+  },
+  {
+    "id": "TR-SPITAL ZIMNICEA",
+    "name": "Spitalul Orasenesc Zimnicea",
+    "lat": 43.6503079,
+    "lng": 25.3646425
+  },
+  {
+    "id": "TR-SPIT.JUD.P.N.F.ROSIORII DE VEDE",
+    "name": "Spitalul de Pneumoftiziologie - Rosiorii de Vede",
+    "lat": 44.1081345,
+    "lng": 24.9995217
+  },
+  {
+    "id": "VL-S.C. CLINICA RAPITEST SRL",
+    "name": "RAPITEST CLINICA S.R.L.",
+    "lat": 45.1031169,
+    "lng": 24.3699305
+  },
+  {
+    "id": "VL-SPITALUL DE PNEUMOFTIZIOLOGIE C. ANASTASATU - MIHAESTI",
+    "name": "Spitalul de Pneumoftiziologie Constantin Anastasatu",
+    "lat": 45.0228271,
+    "lng": 24.2378137
+  },
+  {
+    "id": "VL-SPITALUL DE PSIHIATRIE DRAGOESTI",
+    "name": "Spitalul de Psihiatrie Dragoesti",
+    "lat": 44.8318654,
+    "lng": 24.2821091
+  },
+  {
+    "id": "VL-SPITALUL JUDETEAN DE URGENTA  VALCEA",
+    "name": "Spitalul Judetean de Urgenta Valcea",
+    "lat": 45.118355,
+    "lng": 24.3629366
+  },
+  {
+    "id": "VL-SPITALUL MUNICIPAL \"COSTACHE NICOLESCU\" DRAGASANI",
+    "name": "Spitalul Municipal Costache Nicolescu",
+    "lat": 44.6592899,
+    "lng": 24.2583811
+  },
+  {
+    "id": "VL-SPITALUL ORASENESC BREZOI",
+    "name": "Spitalul Orasenesc Brezoi",
+    "lat": 45.3423503,
+    "lng": 24.2456514
+  },
+  {
+    "id": "VL-SPITALUL ORASENESC HOREZU",
+    "name": "Spitalul Orasenesc Horezu",
+    "lat": 45.1431988,
+    "lng": 23.9917508
+  },
+  {
+    "id": "VN-SPITALUL DE PSIHIATRIE CRONICI DUMBRAVENI",
+    "name": "Spitalul de Psihiatrie Cronici Dumbraveni",
+    "lat": 45.5499982,
+    "lng": 27.1065102
+  },
+  {
+    "id": "VN-SPITALUL JUDETEAN DE URGENTA SF PANTELIMON FOCSANI",
+    "name": "Spitalul Judetean de Urgenta Sf. Pantelimon - Corp Central",
+    "lat": 45.7043991,
+    "lng": 27.1930021
+  },
+  {
+    "id": "VN-SPITALUL MUNICIPAL ADJUD",
+    "name": "Spitalul Municipal Adjud",
+    "lat": 46.0920879,
+    "lng": 27.1875563
+  },
+  {
+    "id": "VN-SPITALUL N N SAVEANU VIDRA",
+    "name": "Spitalul NN Saveanu  Vidra",
+    "lat": 45.9114103,
+    "lng": 26.9077648
+  },
+  {
+    "id": "VN-SPITALUL ORASENESC PANCIU",
+    "name": "Spitalul Orasenesc Panciu",
+    "lat": 45.9097303,
+    "lng": 27.0864462
+  },
+  {
+    "id": "VS-SPITAL JUDETEAN DE URGENTA VASLUI",
+    "name": "Spitalul Clinic Judetean de Urgenta Vaslui",
+    "lat": 46.6554101,
+    "lng": 27.7358475
+  },
+  {
+    "id": "VS-SPITALUL MUNICIPAL DE ADULTI BARLAD",
+    "name": "Spitalul Municipal de Urgenta \"Elena Beldiman\" Barlad",
+    "lat": 46.2351377,
+    "lng": 27.6713664
+  },
+  {
+    "id": "VS-SPITALUL MUNICIPAL \"Dimitrie Castroian\" HUSI",
+    "name": "Spitalul Municipal Dimitrie Castroian",
+    "lat": 46.6751822,
+    "lng": 28.0505092
+  }
+]
