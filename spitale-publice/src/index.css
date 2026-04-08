@@ -14,6 +14,14 @@ body {
 
 .leaflet-container {
   background: white;
+  /* Restore Leaflet's expected box model — Tailwind preflight overrides this */
+  box-sizing: content-box;
+}
+
+.leaflet-container *,
+.leaflet-container *::before,
+.leaflet-container *::after {
+  box-sizing: content-box;
 }
 
 .leaflet-container img {

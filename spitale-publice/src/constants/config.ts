@@ -6,8 +6,11 @@ export const GITHUB_URL = 'https://github.com/Radu-StefanPopescu/public-hospital
 export const LINKEDIN_URL = 'https://www.linkedin.com/in/rspopescu/'
 export const DATASET_URL = 'https://data.gov.ro/dataset'
 
-export const CARTO_URL =
-  'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png'
+export const CARTO_BASE_URL =
+  'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png'
+
+export const CARTO_LABELS_URL =
+  'https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png'
 
 export const NUTS0_URL =
   'https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_10M_2021_4326_LEVL_0.geojson'
