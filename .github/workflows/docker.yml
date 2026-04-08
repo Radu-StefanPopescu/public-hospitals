@@ -33,11 +33,13 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
 
-      - name: Get version from package.json
-        id: version
+      - name: Resolve version and commit
+        id: meta
         run: |
           VERSION=$(cat spitale-publice/package.json | grep '"version"' | cut -d'"' -f4)
+          COMMIT=${GITHUB_SHA::8}
           echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "commit=$COMMIT" >> $GITHUB_OUTPUT
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
@@ -46,4 +48,7 @@ jobs:
           file: ./spitale-publice/Dockerfile
           platforms: linux/amd64
           push: ${{ github.event_name != 'pull_request' }}
-          tags: ${{ env.REGISTRY }}/${{ secrets.USERNAME }}/${{ env.IMAGE_NAME }}:${{ steps.version.outputs.version }}
+          tags: ${{ env.REGISTRY }}/${{ secrets.USERNAME }}/${{ env.IMAGE_NAME }}:${{ steps.meta.outputs.version }}
+          build-args: |
+            VITE_APP_VERSION=${{ steps.meta.outputs.version }}
+            VITE_GIT_COMMIT=${{ steps.meta.outputs.commit }}

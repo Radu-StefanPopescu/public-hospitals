@@ -3,7 +3,7 @@ import { GitHubIcon } from '../../../assets/icons/GitHubIcon'
 import { LinkedInIcon } from '../../../assets/icons/LinkedInIcon'
 import { MailIcon } from '../../../assets/icons/MailIcon'
 import { FeedbackModal } from '../../../features/feedback'
-import { DATASET_URL, GITHUB_URL, LINKEDIN_URL } from '../../../constants/config'
+import { APP_VERSION, GIT_COMMIT, DATASET_URL, GITHUB_URL, LINKEDIN_URL } from '../../../constants/config'
 import { TEXT } from '../../../constants/text'
 
 const Dot = () => {
@@ -23,6 +23,7 @@ export const Footer = () => {
     iconLink: 'inline-flex items-center gap-1 hover:text-slate-800 transition-colors',
     right: 'flex items-center flex-wrap gap-x-3 gap-y-1',
     copyright: 'text-slate-400 text-xs',
+    version: 'font-mono text-slate-300 text-xs tabular-nums',
     feedbackBtn: 'inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium text-slate-700 bg-slate-50 ring-1 ring-slate-200 hover:bg-slate-100 hover:ring-slate-300 hover:text-slate-900 transition-all',
   }
 
@@ -49,6 +50,8 @@ export const Footer = () => {
         </div>
 
         <div className={styles.right}>
+          <span className={styles.version}>{APP_VERSION}:{GIT_COMMIT}</span>
+          <Dot />
           <span className={styles.copyright}>{TEXT.copyright}</span>
           <button onClick={() => setModalOpen(true)} className={styles.feedbackBtn}>
             <MailIcon className="w-3.5 h-3.5" />

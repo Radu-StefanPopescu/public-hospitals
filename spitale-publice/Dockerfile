@@ -6,9 +6,13 @@ WORKDIR /app
 COPY spitale-publice/package*.json ./
 RUN npm ci
 
-# hospitals.json lives at repo root; make it available as a static asset
-COPY hospitals.json ./public/hospitals.json
+# Injected by the pipeline; fall back to 'dev'/'local' for manual builds
+ARG VITE_APP_VERSION=dev
+ARG VITE_GIT_COMMIT=local
+ENV VITE_APP_VERSION=$VITE_APP_VERSION
+ENV VITE_GIT_COMMIT=$VITE_GIT_COMMIT
 
+COPY hospitals.json ./public/hospitals.json
 COPY spitale-publice/ ./
 
 RUN npm run build

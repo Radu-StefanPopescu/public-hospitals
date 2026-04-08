@@ -1,5 +1,8 @@
 import L from 'leaflet'
 
+export const APP_VERSION = import.meta.env.VITE_APP_VERSION ?? 'dev'
+export const GIT_COMMIT = import.meta.env.VITE_GIT_COMMIT ?? 'local'
+
 export const FORMSPREE_URL = 'https://formspree.io/f/xykbover'
 
 export const GITHUB_URL = 'https://github.com/Radu-StefanPopescu/public-hospitals'
