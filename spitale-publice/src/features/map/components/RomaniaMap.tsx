@@ -2,24 +2,15 @@ import { useEffect, useRef } from 'react'
 import { MapContainer, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
-import 'leaflet-boundary-canvas'
 import type { Pin } from '../../../types/hospital'
 import {
-  CARTO_BASE_URL,
+  CARTO_URL,
   NUTS0_URL,
   NUTS3_URL,
   ROMANIA_CENTER,
   ROMANIA_BOUNDS,
+  WORLD_RING,
 } from '../../../constants/config'
-
-declare module 'leaflet' {
-  namespace TileLayer {
-    function boundaryCanvas(
-      urlTemplate: string,
-      options?: L.TileLayerOptions & { boundary?: object }
-    ): L.TileLayer
-  }
-}
 
 const hospitalIcon = new L.DivIcon({
   html: '<div class="hospital-marker"></div>',
@@ -29,6 +20,12 @@ const hospitalIcon = new L.DivIcon({
   popupAnchor: [0, -5],
 })
 
+function outerRings(geometry: GeoJSON.Geometry): number[][][] {
+  if (geometry.type === 'Polygon') return [geometry.coordinates[0] as number[][]]
+  if (geometry.type === 'MultiPolygon')
+    return geometry.coordinates.map((poly) => poly[0] as number[][])
+  return []
+}
 
 interface MapLayersProps {
   pins: Pin[]
@@ -61,17 +58,39 @@ const MapLayers = ({ pins }: MapLayersProps) => {
           ),
         }
 
-        const tileOptions = {
-          boundary: roCountry,
+        // Unclipped tiles — full streets and labels everywhere
+        const tiles = L.tileLayer(CARTO_URL, {
           attribution:
             '&copy; <a href="https://carto.com">CARTO</a> &copy; <a href="https://openstreetmap.org">OSM</a>',
           subdomains: 'abcd',
           maxZoom: 18,
-        }
+        }).addTo(map)
+        added.push(tiles)
 
-        const baseTiles = L.TileLayer.boundaryCanvas(CARTO_BASE_URL, tileOptions)
-        map.addLayer(baseTiles)
-        added.push(baseTiles)
+        // White mask covering everything outside Romania
+        if (roCountry.features.length > 0) {
+          const rings = outerRings(roCountry.features[0].geometry)
+          const mask = L.geoJSON(
+            {
+              type: 'Feature',
+              properties: {},
+              geometry: {
+                type: 'Polygon',
+                coordinates: [WORLD_RING as unknown as number[][], ...rings],
+              },
+            } as GeoJSON.Feature,
+            {
+              style: {
+                color: 'white',
+                fillColor: 'white',
+                fillOpacity: 1,
+                weight: 0,
+                interactive: false,
+              } as L.PathOptions,
+            }
+          ).addTo(map)
+          added.push(mask)
+        }
 
         const counties = L.geoJSON(roCounties, {
           style: { color: '#9ca3af', weight: 0.8, fillOpacity: 0, interactive: false },
@@ -82,7 +101,6 @@ const MapLayers = ({ pins }: MapLayersProps) => {
           style: { color: '#374151', weight: 2, fillOpacity: 0, interactive: false },
         }).addTo(map)
         added.push(countryBorder)
-
       } catch (err) {
         console.error('Failed to load Romania boundaries:', err)
       }
@@ -129,7 +147,7 @@ export const RomaniaMap = ({ pins }: RomaniaMapProps) => {
         center={ROMANIA_CENTER}
         zoom={7}
         minZoom={6}
-        maxZoom={14}
+        maxZoom={18}
         maxBounds={ROMANIA_BOUNDS}
         maxBoundsViscosity={0.8}
         zoomControl

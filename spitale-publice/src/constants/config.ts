@@ -9,24 +9,8 @@ export const GITHUB_URL = 'https://github.com/Radu-StefanPopescu/public-hospital
 export const LINKEDIN_URL = 'https://www.linkedin.com/in/rspopescu/'
 export const DATASET_URL = 'https://data.gov.ro/dataset'
 
-export const CARTO_BASE_URL =
-  'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png'
-
-export const CARTO_LABELS_URL =
-  'https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png'
-
-export const NUTS0_URL =
-  'https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_10M_2021_4326_LEVL_0.geojson'
-
-export const NUTS3_URL =
-  'https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_10M_2021_4326_LEVL_3.geojson'
-
-export const ROMANIA_CENTER: [number, number] = [45.9432, 24.9668]
-
-export const ROMANIA_BOUNDS: L.LatLngBoundsExpression = [
-  [43.2, 19.5],
-  [48.8, 30.2],
-]
+export const CARTO_URL =
+  'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png'
 
 export const WORLD_RING: [number, number][] = [
   [-180, -90],
@@ -34,4 +18,14 @@ export const WORLD_RING: [number, number][] = [
   [180, 90],
   [-180, 90],
   [-180, -90],
+]
+
+export const NUTS0_URL = '/geodata/romania-country.geojson'
+export const NUTS3_URL = '/geodata/romania-counties.geojson'
+
+export const ROMANIA_CENTER: [number, number] = [45.9432, 24.9668]
+
+export const ROMANIA_BOUNDS: L.LatLngBoundsExpression = [
+  [43.2, 19.5],
+  [48.8, 30.2],
 ]
